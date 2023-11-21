@@ -1,22 +1,1499 @@
 ,category,product_title,product_ribbon,product_prev_price,product_curr_price,product_app_price,product_weight
-0,mom-&-baby,Aveeno Baby Calming Comfort Bedtime Bath & Wash for Deliocate Skin,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,250ml
-1,mom-&-baby,Rikang Powder Puff,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 281.00,
-2,mom-&-baby,Aveeno Baby Calming Comfort Bedtime Lotion,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,200ml
-3,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1261.00,300ml
-4,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 825.00,500ml
-5,mom-&-baby,Johnson’s Baby Oil,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 825.00,500ml
-6,mom-&-baby,Parachute Just For Baby - Milky Glow Lotion,SALE,"৳ 1,450.00","৳ 1,250.00", ,100ml
-7,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 534.00,
-8,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 873.00,150ml
-9,mom-&-baby,Aveeno Baby Daily Moisture Lotion,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 2862.00,532ml
-10,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 480.00,200ml
-11,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,"৳ 1,450.00","৳ 1,250.00", ,75gm
-12,mom-&-baby,Parachute Just For Baby - Baby wash,SALE,"৳ 1,450.00","৳ 1,250.00", ,100ml
-13,mom-&-baby,Parachute Just For Baby - Baby wash,SALE,"৳ 1,450.00","৳ 1,250.00", ,200ml
-14,mom-&-baby,Parachute Just For Baby - Baby oil,SALE,"৳ 1,450.00","৳ 1,250.00", ,100ml
-15,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,"৳ 1,450.00","৳ 1,250.00", ,500ml
-16,mom-&-baby,Himalaya Baby Cream,SALE,"৳ 1,450.00","৳ 1,250.00", ,100ml
-17,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 1,450.00","৳ 1,250.00", ,200ml
-18,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 2183.00,200ml
-19,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 631.00,250ml
-20,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,"৳ 1,450.00","৳ 1,250.00", ,125gm
+0,mom-&-baby,Rikang Powder Puff,SALE,৳ 450.00,৳ 290.00,App Price: ৳ 281.00,
+1,mom-&-baby,Aveeno Baby Calming Comfort Bedtime Lotion,SALE,"৳ 1,750.00","৳ 1,250.00",App Price: ৳ 1213.00,200ml
+2,mom-&-baby,Parachute Just For Baby - Milky Glow Lotion,SALE,৳ 215.00,৳ 150.00,,100ml
+3,mom-&-baby,Parachute Just For Baby - Milky Glow Lotion,SALE,৳ 360.00,৳ 252.00,,200ml
+4,mom-&-baby,Johnson’s Baby Oil,SALE,"৳ 1,050.00",৳ 850.00,App Price: ৳ 825.00,500ml
+5,mom-&-baby,Aveeno Baby Calming Comfort Bedtime Bath & Wash for Deliocate Skin,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,250ml
+6,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+7,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+8,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+9,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+10,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+11,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+12,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+13,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+14,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+15,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+16,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+17,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+18,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+19,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+20,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+21,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+22,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+23,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+24,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+25,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+26,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+27,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+28,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+29,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+30,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+31,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+32,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+33,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+34,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+35,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+36,mom-&-baby,Parachute Just For Baby - Baby wash,SALE,৳ 190.00,৳ 128.00,,100ml
+37,mom-&-baby,Parachute Just For Baby - Baby wash,SALE,৳ 285.00,৳ 219.00,,200ml
+38,mom-&-baby,Parachute Just For Baby - Baby oil,SALE,৳ 210.00,৳ 157.00,,100ml
+39,mom-&-baby,Aveeno Baby Daily Moisture Lotion,SALE,"৳ 3,450.00","৳ 2,950.00",App Price: ৳ 2862.00,532ml
+40,mom-&-baby,Parachute Just For Baby - Milky Glow Wash,SALE,৳ 215.00,৳ 150.00,,100ml
+41,mom-&-baby,Wow Skin Science Kids 3 In 1 Tip To Toe Wash  Blueberry,SALE,"৳ 1,099.00",৳ 824.00,,300ml
+42,mom-&-baby,Parachute Just for Baby- Baby Powder,SALE,৳ 130.00,৳ 100.00,,100ml
+43,mom-&-baby,Aveeno Baby Daily Care Baby Hair & Body Wash,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,300ml
+44,mom-&-baby,Sebamed Baby Body Lotion For Delicate Skin,SALE,৳ 950.00,৳ 850.00,App Price: ৳ 808.00,100ml
+45,mom-&-baby,Sudocrem Antiseptic Healing Cream,SALE,৳ 850.00,৳ 790.00,App Price: ৳ 766.00,125gm
+46,mom-&-baby,Cetaphil Baby Wash And Shampoo,SALE,"৳ 2,850.00","৳ 2,650.00",App Price: ৳ 2571.00,399ml
+47,mom-&-baby,Aveeno Baby Daily Care Hair & Body Wash,SALE,"৳ 1,450.00","৳ 1,161.00",App Price: ৳ 1126.00,250ml
+48,mom-&-baby,Wow Skin Science Kids Plush & Plump Body Lotion Spf 15 Green Apple,SALE,"৳ 1,149.00",৳ 861.00,,300ml
+49,mom-&-baby,Babe Laboratotios Pediatric Moisturising Body Milk,SALE,"৳ 2,850.00","৳ 2,550.00",App Price: ৳ 2474.00,500ml
+50,mom-&-baby,Bioderma ABCDerm Cold-Cream Nourishing Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+51,mom-&-baby,Kokomo Paw Patrol Mild & Gentle Bath & Shower Gel,SALE,৳ 850.00,৳ 795.00,App Price: ৳ 771.00,400ml
+52,mom-&-baby,Johnson's Baby Milk + Rice Lotion(Malaysia),SALE,৳ 312.00,৳ 260.00,,100ml
+53,mom-&-baby,Johnson's Baby Milk and Rice  Cream,SALE,৳ 650.00,৳ 495.00,App Price: ৳ 480.00,50gm
+54,mom-&-baby,Bioderma ABCDerm Shampooing,SALE,"৳ 2,450.00","৳ 2,250.00",,200ml
+55,mom-&-baby,Johnson's Baby Powder,SALE,৳ 160.00,৳ 145.00,,100gm
+56,mom-&-baby,Johnson's Baby Oil with Vitamin E,SALE,৳ 291.00,৳ 110.00,,50gm
+57,mom-&-baby,Johnson's Baby Powder Blossoms,SALE,৳ 315.00,৳ 290.00,,200gm
+58,mom-&-baby,Boots Baby Conditioning Shampoo,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,500ml
+59,mom-&-baby,Parachute Just for Baby - Baby Powder,SALE,৳ 250.00,৳ 182.00,,200ml
+60,mom-&-baby,Cetaphil Baby Daily Lotion With Organic Calendula,SALE,"৳ 2,950.00","৳ 2,650.00",App Price: ৳ 2571.00,399ml
+61,mom-&-baby,Avene Sun Lotion SPF 50+ For Children,SALE,"৳ 3,650.00","৳ 3,470.00",App Price: ৳ 3366.00,250ml
+62,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+63,mom-&-baby,Paw Patrol Firefly Dental Set,SALE,৳ 950.00,৳ 850.00,App Price: ৳ 825.00,75ml
+64,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+65,mom-&-baby,Firefly Spriderman Turbomax Toothbrush,SALE,৳ 550.00,৳ 500.00,App Price: ৳ 485.00,
+66,mom-&-baby,Burt's Bees Baby Bee Bubble Bath,SALE,"৳ 2,250.00","৳ 1,950.00",App Price: ৳ 1892.00,350ml
+67,mom-&-baby,Burt's Bees Baby Nourishing Lotion - Original,SALE,"৳ 1,850.00","৳ 1,650.00",App Price: ৳ 1601.00,170gm
+68,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+69,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+70,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+71,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+72,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+73,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+74,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+75,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+76,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+77,mom-&-baby,CeraVe Baby Moisturizing Cream,,nan,"৳ 2,250.00",App Price: ৳ 2183.00,142gm
+78,mom-&-baby,Cetaphil Baby Mild Bar,,nan,৳ 520.00,,75gm
+79,mom-&-baby,Cetaphil Baby Massage Oil,,nan,"৳ 1,785.00",,200ml
+80,mom-&-baby,Kodomo Dental Kids Set Yellow (3 to 6 Years),,nan,৳ 187.00,App Price: ৳ 181.00,
+81,mom-&-baby,Kodomo Dental Kids Set - Blue 6+ Years,,nan,৳ 187.00,App Price: ৳ 181.00,
+82,mom-&-baby,Kodomo Baby Gift Set - 5pcs,,nan,"৳ 1,267.00",App Price: ৳ 1229.00,
+83,mom-&-baby,Johnson's Milk+ Rice Lotion,,nan,৳ 495.00,,200ml
+84,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+85,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+86,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+87,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+88,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+89,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+90,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+91,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+92,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+93,mom-&-baby,Meril Baby Shampoo,,nan,৳ 155.00,,110ml
+94,mom-&-baby,Meril Baby Lotion,,nan,৳ 320.00,,200ml
+95,mom-&-baby,Meril Baby Soap,,nan,৳ 85.00,,75gm
+96,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+97,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+98,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+99,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+100,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+101,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+102,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+103,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+104,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+105,mom-&-baby,Johnson's Blossoms Baby Powder,,nan,৳ 750.00,App Price: ৳ 728.00,500gm
+106,mom-&-baby,Aveeno Baby Calming Comfort Bedtime Bath & Wash,,nan,"৳ 1,650.00",App Price: ৳ 1601.00,300ml
+107,mom-&-baby,YC Baby Bath Gel,,nan,৳ 225.00,App Price: ৳ 214.00,100ml
+108,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Face Cream 50g FREE),BUY 1 GET 1,nan,৳ 390.00,,
+109,mom-&-baby,Kokomo Pappa Pig Dream Bath & Shower Gel,,nan,৳ 925.00,App Price: ৳ 897.00,400ml
+110,mom-&-baby,Johnson's Baby Oil Gel with Shea and Cocoa Butter,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,192ml
+111,mom-&-baby,Aveeno Baby Daily Care Barrier Cream for Sensitive Skin,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,100ml
+112,mom-&-baby,Johnson's Baby Milk + Rice Lotion (Malaysia),,nan,"৳ 1,190.00",,500ml
+113,mom-&-baby,YC Baby Shampoo,,nan,৳ 450.00,App Price: ৳ 437.00,200gm
+114,mom-&-baby,YC Baby Oil,,nan,৳ 290.00,App Price: ৳ 281.00,100gm
+115,mom-&-baby,YC Baby Lotion,,nan,৳ 495.00,App Price: ৳ 480.00,200gm
+116,mom-&-baby,Pierre Cardin Baby Body Lotion,,nan,"৳ 2,180.00",App Price: ৳ 2115.00,350ml
+117,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+118,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+119,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+120,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+121,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+122,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+123,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+124,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+125,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+126,mom-&-baby,Meril Baby Oil 100 ml,,nan,৳ 210.00,,100ml
+127,mom-&-baby,Himalaya Prickly Heat Baby Powder,,nan,৳ 250.00,,100gm
+128,mom-&-baby,Twinkle Baby Wipes Pouch 120 pcs,,nan,৳ 245.00,,
+129,mom-&-baby,Kodomo Dental Kids Set - Green (0.5 - 3yrs),,nan,৳ 187.00,App Price: ৳ 181.00,
+130,mom-&-baby,Kodomo Dental Kids Set - Pink 6+ Years,,nan,৳ 187.00,App Price: ৳ 181.00,
+131,mom-&-baby,Kodomo Baby Hair & Body Wash Original,,nan,"৳ 1,040.00",App Price: ৳ 1009.00,400ml
+132,mom-&-baby,Kodomo Baby Oil Pink Hanabaki,,nan,৳ 867.00,App Price: ৳ 841.00,200ml
+133,mom-&-baby,Kodomo Baby Powder Natural Soft,,nan,৳ 432.00,App Price: ৳ 419.00,200gm
+134,mom-&-baby,Kodomo Baby Powder Extra Mild,,nan,৳ 867.00,App Price: ৳ 841.00,400gm
+135,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,,nan,"৳ 1,750.00",App Price: ৳ 1698.00,150ml
+136,mom-&-baby,Bioderma ABCDerm Foaming Gel,,nan,"৳ 4,450.00",App Price: ৳ 4317.00,1000ml
+137,mom-&-baby,Johnson's Baby Oil Gel with Lavender,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,192ml
+138,mom-&-baby,Johnson's Milk and Rice Lotion,,nan,৳ 260.00,,100ml
+139,mom-&-baby,YC Baby Lotion,,nan,৳ 330.00,App Price: ৳ 314.00,100ml
+140,mom-&-baby,Johnson's Baby Skincare Cream Milk + Rice,,nan,৳ 178.00,,50gm
+141,mom-&-baby,Johnson's Baby Milk + Rice Bath  (Malaysia),,nan,৳ 290.00,,200ml
+142,mom-&-baby,Johnson's Baby Milk + Rice Bath(Malaysia),,nan,৳ 205.00,,100ml
+143,mom-&-baby,Johnson's Baby Milk + Rice Lotion  (Malaysia),,nan,৳ 588.00,,200ml
+144,mom-&-baby,YC Baby Powder,,nan,৳ 295.00,App Price: ৳ 286.00,150gm
+145,mom-&-baby,Nivea Sun Baby Protect & Care Sun Lotion SPF 50+,,nan,"৳ 1,950.00",App Price: ৳ 1892.00,200ml
+146,mom-&-baby,Beauty Formulas Kids Quick Rinse Mouthwash,,nan,৳ 650.00,App Price: ৳ 631.00,500ml
+147,mom-&-baby,Savlon Baby wipe Jar 100s,,nan,৳ 220.00,,
+148,mom-&-baby,Kodomo Baby Powder Natural Soft Protection,,nan,৳ 693.00,,400gm
+149,mom-&-baby,Kodomo Baby Powder Gentle soft,,nan,৳ 867.00,,400gm
+150,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,,nan,৳ 460.00,,200ml
+151,mom-&-baby,Johnson's Baby Lotion,,nan,৳ 130.00,,50ml
+152,mom-&-baby,Deep Fresh Baby Foam Shampoo - Pink,,nan,৳ 650.00,App Price: ৳ 631.00,400ml
+153,mom-&-baby,Johnson's Baby Soap,,nan,৳ 130.00,,75gm
+154,mom-&-baby,Himalaya Baby Lotion,,nan,৳ 180.00,,100ml
+155,mom-&-baby,White Plus Kids 80gm,,nan,৳ 70.00,,80gm
+156,mom-&-baby,Himalaya Baby Massage Oil,,nan,৳ 450.00,,100gm
+157,mom-&-baby,Himalaya Gentle Baby Soap,,nan,৳ 85.00,,75gm
+158,mom-&-baby,Savlon Baby wipe 60s,,nan,৳ 180.00,,
+159,mom-&-baby,Kodomo Dental Kids Set Blue (3 to 6 Years),,nan,৳ 187.00,App Price: ৳ 181.00,
+160,mom-&-baby,Kodomo Dental Kids Set Green (3 to 6 Years),,nan,৳ 187.00,App Price: ৳ 181.00,
+161,mom-&-baby,Kodomo Dental Kids Set - Yellow 6+ Years,,nan,৳ 187.00,App Price: ৳ 181.00,
+162,mom-&-baby,Johnson's Baby Powder,,nan,৳ 750.00,App Price: ৳ 728.00,500gm
+163,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+164,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+165,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+166,mom-&-baby,Cetaphil Baby Wash & Shampoo With Organic Calendula,,nan,"৳ 2,900.00",,400ml
+167,mom-&-baby,Kodomo Dental Kids Set Pink (3 to 6 Years),,nan,৳ 187.00,App Price: ৳ 181.00,
+168,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+169,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+170,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+171,mom-&-baby,Parachute Just for Baby Face Cream,SOLD OUT,৳ 130.00,৳ 97.00,,50gm
+172,mom-&-baby,Parachute Just for Baby - Baby Shampoo,SOLD OUT,৳ 320.00,৳ 254.00,,200ml
+173,mom-&-baby,Johnson's Baby Powder,SOLD OUT,৳ 310.00,৳ 260.00,,200gm
+174,mom-&-baby,Boots Baby Moisturising Lotion,SOLD OUT,"৳ 1,250.00","৳ 1,137.00",App Price: ৳ 1103.00,500ml
+175,mom-&-baby,Parachute Just for Baby Face Cream,SOLD OUT,৳ 225.00,৳ 162.00,,100gm
+176,mom-&-baby,Parachute Just For Baby - Milky Glow Face Cream,SOLD OUT,৳ 145.00,৳ 98.00,,50ml
+177,mom-&-baby,Aveeno Baby Daily Care Moisturising Lotion,SOLD OUT,"৳ 2,200.00","৳ 1,650.00",App Price: ৳ 1601.00,300ml
+178,mom-&-baby,Johnson’s Baby Intense Moisturization Cream,SOLD OUT,৳ 850.00,৳ 790.00,App Price: ৳ 766.00,100gm
+179,mom-&-baby,Vaseline Blueseal Baby Gentle Protective Jelly,SOLD OUT,৳ 250.00,৳ 195.00,App Price: ৳ 189.00,50ml
+180,mom-&-baby,Dove Baby Sensitive Skin Care With Fragrance Free Moisture Head to Toe Wash,SOLD OUT,"৳ 1,100.00",৳ 950.00,App Price: ৳ 903.00,400ml
+181,mom-&-baby,Aveeno Baby Calming Comfort Bedtime Lotion for Delicate Skin,SOLD OUT,৳ 950.00,৳ 850.00,App Price: ৳ 825.00,150ml
+182,mom-&-baby,Parachute Just For Baby - Baby lotion,SOLD OUT,৳ 320.00,৳ 211.00,,200ml
+183,mom-&-baby,Parachute Just For Baby - Baby oil,SOLD OUT,৳ 390.00,৳ 281.00,,200ml
+184,mom-&-baby,Dove Baby Rich Moisture Nourishing Baby Lotion,SOLD OUT,৳ 750.00,৳ 499.00,App Price: ৳ 484.00,200ml
+185,mom-&-baby,La Roche-Posay Anthelios Gentle Lotion Kids Sunscreen Spf 50,SOLD OUT,"৳ 3,250.00","৳ 2,950.00",App Price: ৳ 2862.00,200ml
+186,mom-&-baby,Parachute Just For Baby - Milky Glow Wash,SOLD OUT,৳ 325.00,৳ 244.00,,200ml
+187,mom-&-baby,Parachute Just For Baby - Milky Glow Face Cream,SOLD OUT,৳ 245.00,৳ 171.00,,100ml
+188,mom-&-baby,Johnson's Baby Lotion,SOLD OUT,৳ 250.00,৳ 230.00,,100ml
+189,mom-&-baby,Dove Baby Rich Moisture Nourishing Baby Lotion,SOLD OUT,৳ 750.00,৳ 499.00,App Price: ৳ 484.00,200ml
+190,mom-&-baby,Parachute Just for Baby Toothpaste 45g (Mix Fruit),SOLD OUT,৳ 75.00,৳ 65.00,,45gm
+191,mom-&-baby,Parachute Just for Baby Toothpaste 45g (Orange),SOLD OUT,৳ 75.00,৳ 65.00,,45gm
+192,mom-&-baby,Aveeno Baby Eczema Therapy Nighttime Balm (Expiry Date - 08/31/2023),SOLD OUT,"৳ 1,199.00",৳ 499.00,App Price: ৳ 484.00,156gm
+193,mom-&-baby,Aveeno Baby Sensitive Wipes 168Wipes (Expiry Date - 09/30/2023),SOLD OUT,"৳ 2,299.00",৳ 499.00,App Price: ৳ 484.00,
+194,mom-&-baby,Bioderma ABC Derm Cold Cream Nourishing Cleansing Cream,SOLD OUT,"৳ 3,800.00","৳ 3,450.00",App Price: ৳ 3347.00,1000ml
+195,mom-&-baby,Aveeno Baby Calming Comfort Bath + Lotion Set  (Expiry Date - 05/31/2023),SOLD OUT,"৳ 2,199.00",৳ 499.00,App Price: ৳ 484.00,
+196,mom-&-baby,Johnson's 24Hour Moisture Soft Cream,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+197,mom-&-baby,Pinkfong - Baby Shark Bubble Bath,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,400ml
+198,mom-&-baby,Johnson's Baby Powder,SOLD OUT,nan,৳ 310.00,,200gm
+199,mom-&-baby,Dove Baby Moisturizing Cream,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,150ml
+200,mom-&-baby,Aveeno Baby Continuous Protection,SOLD OUT,nan,"৳ 2,650.00",App Price: ৳ 2571.00,88ml
+201,mom-&-baby,Boots Baby Fragranced Biodegradable soft baby wipes (64 pcs),SOLD OUT,nan,৳ 500.00,App Price: ৳ 485.00,
+202,mom-&-baby,Johnson's Baby Skincare Cream,SOLD OUT,nan,৳ 160.00,,50gm
+203,mom-&-baby,Dove Sensitive moisture Head to Toe Wash,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+204,mom-&-baby,Firefly Paw Patrol Turbomax Toothbrush,SOLD OUT,nan,৳ 550.00,App Price: ৳ 534.00,
+205,mom-&-baby,Johnson's Baby Oil Gel with Aloe Vera and Vitamin E,SOLD OUT,nan,"৳ 1,175.00",App Price: ৳ 1140.00,192ml
+206,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Toothpaste Free),SOLD OUT,nan,৳ 340.00,,200ml
+207,mom-&-baby,Aveeno Baby Daily Care Baby sensitive skin body wash,SOLD OUT,nan,"৳ 1,750.00",App Price: ৳ 1698.00,500ml
+208,mom-&-baby,Kodomo Baby Shampoo Original 0+,SOLD OUT,nan,৳ 827.00,,400ml
+209,mom-&-baby,Kodomo Baby Powder SUNSHINE KIDS,SOLD OUT,nan,৳ 693.00,,400gm
+210,mom-&-baby,Johnson & Johnson Baby Lotion,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,500ml
+211,mom-&-baby,Avene Sun Care SPF50+ Spray For Children,SOLD OUT,nan,"৳ 3,250.00",App Price: ৳ 3153.00,200ml
+212,mom-&-baby,Parachute Just for Baby - Baby Lotion 200ml (Baby Wash 100ml FREE),SOLD OUT,nan,৳ 320.00,,
+213,mom-&-baby,Parachute Just for Baby - Baby Lotion 200ml (Baby Face Cream 50g FREE),SOLD OUT,nan,৳ 320.00,,
+214,mom-&-baby,Babe Pediatric Emollient Cream,SOLD OUT,nan,"৳ 2,950.00",App Price: ৳ 2862.00,200ml
+215,mom-&-baby,Johnson's Baby Lotion,SOLD OUT,nan,৳ 665.00,App Price: ৳ 645.00,300ml
+216,mom-&-baby,Jhonson's Baby Lotion for Baby Soft Skin,SOLD OUT,nan,৳ 520.00,,200ml
+217,mom-&-baby,Aquaphor Baby Advanced Therapy Healing Ointment,SOLD OUT,nan,"৳ 1,850.00",App Price: ৳ 1795.00,85gm
+218,mom-&-baby,Buy two Twinkle Baby Soap 75 gm Get One Twinkle Baby Soap 75 gm Free,SOLD OUT,nan,৳ 170.00,,
+219,mom-&-baby,Kodomo Dental Kids Set - Pink (0.5 - 3yrs),SOLD OUT,nan,৳ 187.00,App Price: ৳ 178.00,
+220,mom-&-baby,Kodomo Baby Oil Pink Hanabaki,SOLD OUT,nan,৳ 467.00,App Price: ৳ 453.00,100ml
+221,mom-&-baby,Kodomo Baby Powder Extra Mild,SOLD OUT,nan,৳ 432.00,App Price: ৳ 419.00,200gm
+222,mom-&-baby,ASDA Little Angels Baby Bath,SOLD OUT,nan,৳ 880.00,App Price: ৳ 854.00,500ml
+223,mom-&-baby,Johnson's Baby Oil Pure & Gentle Daily Care,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,300ml
+224,mom-&-baby,Kodomo Baby Shampoo 3+,SOLD OUT,nan,৳ 320.00,,100ml
+225,mom-&-baby,Aveeno Baby Gentle Wash And Shampoo with Natural Oat Extract,SOLD OUT,nan,"৳ 5,500.00",App Price: ৳ 5335.00,976ml
+226,mom-&-baby,Kodomo Dental Kids Set - Yellow (0.5 - 3yrs),SOLD OUT,nan,৳ 187.00,App Price: ৳ 178.00,
+227,mom-&-baby,Kodomo Baby Hair & Body Wash Original,SOLD OUT,nan,৳ 507.00,App Price: ৳ 492.00,200ml
+228,mom-&-baby,Kodomo Baby Cream Pink Hanabaki,SOLD OUT,nan,৳ 467.00,App Price: ৳ 453.00,50gm
+229,mom-&-baby,Kodomo Baby Cream Pink Hanabaki,SOLD OUT,nan,৳ 800.00,App Price: ৳ 776.00,100gm
+230,mom-&-baby,Kodomo Baby Powder Gentle Soft,SOLD OUT,nan,৳ 153.00,App Price: ৳ 148.00,50gm
+231,mom-&-baby,Burt's Bees Baby Multi Purpose Ointment,SOLD OUT,nan,"৳ 2,250.00",App Price: ৳ 2183.00,113.3gm
+232,mom-&-baby,Johnson's Baby Cream,SOLD OUT,nan,৳ 550.00,App Price: ৳ 534.00,100gm
+233,mom-&-baby,Burt's Bees Baby Daily Cream to Powder,SOLD OUT,nan,"৳ 1,550.00",App Price: ৳ 1504.00,113gm
+234,mom-&-baby,Parachute Just for Baby - Baby Shampoo (Baby Soap 75g Free),SOLD OUT,nan,৳ 285.00,,200ml
+235,mom-&-baby,Clariss Baby Daily Lotion,SOLD OUT,nan,৳ 625.00,App Price: ৳ 606.00,200ml
+236,mom-&-baby,Kodomo Baby Soap New Born,SOLD OUT,nan,৳ 187.00,,75gm
+237,mom-&-baby,Kodomo Baby Bath Gentle Soft 3+,SOLD OUT,nan,৳ 293.00,,100ml
+238,mom-&-baby,Kodomo Baby Lotion,SOLD OUT,nan,৳ 680.00,,200ml
+239,mom-&-baby,Kodomo Baby Powder Extra Mild,SOLD OUT,nan,৳ 153.00,,50gm
+240,mom-&-baby,Kodomo Baby Shampoo Original 0+,SOLD OUT,nan,৳ 320.00,,100ml
+241,mom-&-baby,ASDA Little Angels Sensitive Head to Toe Wash Unscented,SOLD OUT,nan,"৳ 1,050.00",App Price: ৳ 1019.00,500ml
+242,mom-&-baby,Kodomo Dental Kids Set - Blue (0.5 - 3yrs),SOLD OUT,nan,৳ 187.00,App Price: ৳ 181.00,
+243,mom-&-baby,Kodomo Baby Shampoo Gentle,SOLD OUT,nan,৳ 560.00,App Price: ৳ 543.00,200ml
+244,mom-&-baby,Nivea Baby Pure & Sensitive SOS Cream,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,150ml
+245,mom-&-baby,Johnson's CottonTouch Body Wash,SOLD OUT,nan,"৳ 1,650.00",App Price: ৳ 1601.00,500ml
+246,mom-&-baby,Firefly Lol Surprise Dental Set,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+247,mom-&-baby,Johnsons Cotton Touch Baby Oil,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,300ml
+248,mom-&-baby,Aveeno Baby Daily Care Hair And Body Wash For Sensitive Skin,SOLD OUT,nan,"৳ 2,350.00",App Price: ৳ 2280.00,500ml
+249,mom-&-baby,CeraVe Baby Moisturizing Lotion,SOLD OUT,nan,"৳ 2,450.00",App Price: ৳ 2377.00,237ml
+250,mom-&-baby,Burt's Bees Baby Shampoo & Wash,SOLD OUT,nan,"৳ 2,250.00",App Price: ৳ 2183.00,236.5ml
+251,mom-&-baby,Johnson's Baby Lotion,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,300ml
+252,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Toothpaste Free),SOLD OUT,nan,৳ 340.00,,200ml
+253,mom-&-baby,Pinkfong - Baby Shark Bubble Bath,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,400ml
+254,mom-&-baby,Kodomo Baby Shampoo Original 0+,SOLD OUT,nan,৳ 827.00,,400ml
+255,mom-&-baby,Kodomo Baby Powder SUNSHINE KIDS,SOLD OUT,nan,৳ 693.00,,400gm
+256,mom-&-baby,Dove Sensitive moisture Head to Toe Wash,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+257,mom-&-baby,Aveeno Baby Continuous Protection,SOLD OUT,nan,"৳ 2,650.00",App Price: ৳ 2571.00,88ml
+258,mom-&-baby,Dove Baby Moisturizing Cream,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,150ml
+259,mom-&-baby,Johnson & Johnson Baby Lotion,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,500ml
+260,mom-&-baby,Kodomo Baby Shampoo 3+,SOLD OUT,nan,৳ 320.00,,100ml
+261,mom-&-baby,Firefly My Little Pony Girl Travel Kit Twin Toothbrush & Covers,SOLD OUT,nan,৳ 310.00,App Price: ৳ 301.00,
+262,mom-&-baby,Bioderma Photoderm KID Spray SPF 50+,SOLD OUT,nan,"৳ 3,100.00",App Price: ৳ 3007.00,200ml
+263,mom-&-baby,Colgate Natural Fruit Flavour Kids Toothpaste 0-2 Years,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,50ml
+264,mom-&-baby,"Mamaearth Soothing Massage Oil for Babies with Sesame, Almond and Jojoba Oil",SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,200ml
+265,mom-&-baby,Tony Moly UV Master Kids & Mom Sun Cream,SOLD OUT,nan,"৳ 1,150.00",App Price: ৳ 1116.00,45ml
+266,mom-&-baby,Meril Baby Daily Care Essential,SOLD OUT,nan,৳ 500.00,,
+267,mom-&-baby,Firefly Spiderman Childen Toothbrush Set,SOLD OUT,nan,৳ 420.00,App Price: ৳ 407.00,
+268,mom-&-baby,Firefly LOL Surprise Turbomax Toothbrush,SOLD OUT,nan,৳ 550.00,App Price: ৳ 534.00,
+269,mom-&-baby,Neutrogena Pure & free Baby Sunscreen SPF50,SOLD OUT,nan,"৳ 1,875.00",App Price: ৳ 1819.00,88ml
+270,mom-&-baby,Johnson's Baby Honey Soap,SOLD OUT,nan,৳ 275.00,App Price: ৳ 267.00,100gm
+271,mom-&-baby,ASDA Little Angels Bedtime Bath,SOLD OUT,nan,৳ 880.00,App Price: ৳ 854.00,500ml
+272,mom-&-baby,Aquaphor Baby Advanced Therapy Healing Ointment,SOLD OUT,nan,"৳ 1,080.00",App Price: ৳ 1048.00,50gm
+273,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+274,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+275,mom-&-baby,Buy 1 Himalaya Gentle Baby Shampoo 100ml get 1 Himalaya Moisturising Aloe Vara Face Wash 50ml Free,SOLD OUT,nan,৳ 249.00,,
+276,mom-&-baby,Cussons Baby Talcum Powder,SOLD OUT,nan,৳ 675.00,App Price: ৳ 655.00,350gm
+277,mom-&-baby,Eucerin Baby Eczema Relief Cream,SOLD OUT,nan,"৳ 1,850.00",App Price: ৳ 1795.00,141gm
+278,mom-&-baby,Aveeno Baby Eczema Therapy Moisturizing Cream,SOLD OUT,nan,"৳ 2,280.00",App Price: ৳ 2212.00,354ml
+279,mom-&-baby,Aveeno Baby Eczema Therapy Moisturizing Cream,SOLD OUT,nan,"৳ 2,850.00",App Price: ৳ 2765.00,206gm
+280,mom-&-baby,Mothercare All We Know Baby Bubble Bath,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,100ml
+281,mom-&-baby,Mothercare All We Know Baby Body Oil,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,100ml
+282,mom-&-baby,Mothercare All We Know Baby Body Wash,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,100ml
+283,mom-&-baby,Parachute Just for Baby - Diaper Rash Cream  (Buy 1 GET 1 FREE),SOLD OUT,nan,৳ 170.00,,50gm
+284,mom-&-baby,Sudocrem Antiseptic Healing Cream,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,250gm
+285,mom-&-baby,Bioderma Non Rinse Cleansing Milk,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,500ml
+286,mom-&-baby,Bioderma Atoderm Préventive,SOLD OUT,nan,"৳ 1,800.00",App Price: ৳ 1746.00,200ml
+287,mom-&-baby,Johnson's Baby Milk Rice Body Lotion,SOLD OUT,nan,"৳ 1,495.00",App Price: ৳ 1450.00,500ml
+288,mom-&-baby,Baby Sebamed Diaper Rash Cream,SOLD OUT,nan,৳ 720.00,,100ml
+289,mom-&-baby,Baby Sebamed Skin Care Oil,SOLD OUT,nan,৳ 830.00,,150ml
+290,mom-&-baby,Baby Sebamed Powder,SOLD OUT,nan,৳ 540.00,,100gm
+291,mom-&-baby,Johnsons Baby Fragrance Free Jelly,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,100ml
+292,mom-&-baby,Johnson's Baby Intense Moisturization Cream,SOLD OUT,nan,৳ 425.00,App Price: ৳ 412.00,50gm
+293,mom-&-baby,Johnson's Baby Powder Blossoms,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,180gm
+294,mom-&-baby,AVEENO BABY DAILY MOISTURE LOTION(227g),SOLD OUT,nan,"৳ 1,450.00",App Price: ৳ 1407.00,227gm
+295,mom-&-baby,Mamaearth Deeply Nourishing Body Wash For Babies,SOLD OUT,nan,৳ 250.00,App Price: ৳ 243.00,100ml
+296,mom-&-baby,Johnson's Baby Shampoo,SOLD OUT,nan,৳ 550.00,App Price: ৳ 534.00,300ml
+297,mom-&-baby,Mamaearth natural mosquito repellent gel,SOLD OUT,nan,৳ 235.00,App Price: ৳ 228.00,50ml
+298,mom-&-baby,Mamaearth mineral based sunscreen,SOLD OUT,nan,৳ 675.00,App Price: ৳ 655.00,100ml
+299,mom-&-baby,Mamaearth moisturizing daily lotion for babies,SOLD OUT,nan,৳ 895.00,App Price: ৳ 868.00,400ml
+300,mom-&-baby,Mamaearth gentle cleansing shampoo,SOLD OUT,nan,৳ 899.00,App Price: ৳ 872.00,400ml
+301,mom-&-baby,Mamaearth 100% natural berry blast toothpaste for kids,SOLD OUT,nan,৳ 335.00,App Price: ৳ 325.00,50gm
+302,mom-&-baby,Sudocrem Antiseptic Healing Cream,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,60gm
+303,mom-&-baby,Kodomo Baby Powder Extra Mild,SOLD OUT,nan,৳ 693.00,,400gm
+304,mom-&-baby,Johnson's Baby Powder,SOLD OUT,nan,৳ 95.00,,50gm
+305,mom-&-baby,Disney Princess 2 in 1 Shampoo & Conditioner,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,300ml
+306,mom-&-baby,Aveeno Baby Sensitive Wipes 168Wipes,SOLD OUT,nan,"৳ 2,950.00",App Price: ৳ 2862.00,
+307,mom-&-baby,Sebamed Baby Bubble Bath For Delicate Skin,SOLD OUT,nan,"৳ 1,800.00",App Price: ৳ 1746.00,500ml
+308,mom-&-baby,Aveeno Baby Essential Daily Care For Baby & Mommy,SOLD OUT,nan,"৳ 6,250.00",App Price: ৳ 6063.00,
+309,mom-&-baby,YC Baby Soap,SOLD OUT,nan,৳ 135.00,App Price: ৳ 131.00,75gm
+310,mom-&-baby,Suave Kids Smoothing Strawberry Blast 2-in-1 Shampoo and Conditioner,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,532ml
+311,mom-&-baby,Kodomo Baby Head To Toe Wash,SOLD OUT,nan,৳ 373.00,,200ml
+312,mom-&-baby,Cetaphil Soothing Gel Cream with Aloe Skin Protectant Allantoin,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,85gm
+313,mom-&-baby,Parachute Just for Baby Rash Cream,SOLD OUT,nan,৳ 90.00,,25gm
+314,mom-&-baby,Bioderma ABCDerm Hydratant,SOLD OUT,nan,"৳ 1,950.00",,200ml
+315,mom-&-baby,Mamaearth Milky Soft Diaper Rash Cream for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,50gm
+316,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+317,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+318,mom-&-baby,Buy 1 Himalaya Gentle Baby Shampoo 100ml get 1 Himalaya Moisturising Aloe Vara Face Wash 50ml Free,SOLD OUT,nan,৳ 249.00,,
+319,mom-&-baby,Himalaya Baby Diaper Rash Cream,SOLD OUT,nan,৳ 170.00,,50gm
+320,mom-&-baby,Kodomo Baby Gift Set(4 Pcs Medium),SOLD OUT,nan,৳ 933.00,,
+321,mom-&-baby,Kodomo Baby Head To Toe Wash,SOLD OUT,nan,৳ 240.00,,100ml
+322,mom-&-baby,Boots Baby Fragrance Free 64 Wipes,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,
+323,mom-&-baby,Neutrogena Pure And Free Baby Sunscreen Broad Spectrum SPF50,SOLD OUT,nan,"৳ 1,770.00",App Price: ৳ 1717.00,88ml
+324,mom-&-baby,Mother Care Baby Nappy Cream,SOLD OUT,nan,৳ 700.00,App Price: ৳ 679.00,150ml
+325,mom-&-baby,Cussons Baby Soft And Smooth Almond And Rose oil,SOLD OUT,nan,৳ 230.00,App Price: ৳ 223.00,100ml
+326,mom-&-baby,Cussons Baby Milk Bath Fresh And Nourish Bluebery And Yoghurt,SOLD OUT,nan,৳ 295.00,App Price: ৳ 286.00,200ml
+327,mom-&-baby,Cussons Baby Coconut Oil And Aloe Vera,SOLD OUT,nan,৳ 310.00,App Price: ৳ 301.00,200ml
+328,mom-&-baby,Cussons Baby Milk Bath Soft And Smooth Shampoo,SOLD OUT,nan,৳ 295.00,App Price: ৳ 286.00,200ml
+329,mom-&-baby,Lotus Herbals Safe Sun Kids Sun Block Cream SPF 25,SOLD OUT,nan,৳ 355.00,,50gm
+330,mom-&-baby,Himalaya Gentle Baby Shampoo,SOLD OUT,nan,৳ 190.00,,100ml
+331,mom-&-baby,Himalaya Gentle Baby Shampoo,SOLD OUT,nan,৳ 320.00,,200ml
+332,mom-&-baby,BOOTS BABY LOTION GENTLE & MILD,SOLD OUT,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+333,mom-&-baby,Aveeno Baby Daily Moisture Lotion,SOLD OUT,nan,"৳ 1,575.00",App Price: ৳ 1528.00,354ml
+334,mom-&-baby,Burt's Bees Baby Shampoo & Wash,SOLD OUT,nan,"৳ 1,850.00",App Price: ৳ 1795.00,235ml
+335,mom-&-baby,Perfecta Skincare Baby Lotion,SOLD OUT,nan,৳ 490.00,App Price: ৳ 475.00,140ml
+336,mom-&-baby,Pielor Baby Wash GEL,SOLD OUT,nan,৳ 300.00,App Price: ৳ 291.00,200ml
+337,mom-&-baby,Boots Baby Gently Fragrance 64 wipes,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,
+338,mom-&-baby,Cussons Baby Avocado & Pro-Vit B5 Shampoo,SOLD OUT,nan,৳ 310.00,App Price: ৳ 301.00,200ml
+339,mom-&-baby,Meril Baby Lotion,SOLD OUT,nan,৳ 180.00,,100ml
+340,mom-&-baby,Aveeno Baby Wash & Shampoo,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,236ml
+341,mom-&-baby,Aveeno Baby Soothing Relief Creamy Wash,SOLD OUT,nan,"৳ 1,070.00",App Price: ৳ 1038.00,236ml
+342,mom-&-baby,Burt's Bees Baby Buttermilk Soap,SOLD OUT,nan,৳ 200.00,App Price: ৳ 194.00,20gm
+343,mom-&-baby,Kodomo Baby Lotion Powder,SOLD OUT,nan,৳ 527.00,,180ml
+344,mom-&-baby,Kodomo Baby Gift Set Essential Bag,SOLD OUT,nan,"৳ 1,350.00",,
+345,mom-&-baby,Sebamed Extra Soft Baby Cream with Panthenol,SOLD OUT,nan,"৳ 1,650.00",App Price: ৳ 1601.00,200ml
+346,mom-&-baby,Nivea Baby Protective Care Cream,SOLD OUT,nan,"৳ 1,450.00",App Price: ৳ 1407.00,200ml
+347,mom-&-baby,Cetaphil Baby Daily Lotion with Organic Calendula,SOLD OUT,nan,"৳ 1,850.00",App Price: ৳ 1795.00,198ml
+348,mom-&-baby,Dove Baby Sensitive Skin Care Lotion With Rich Moisture,SOLD OUT,nan,"৳ 1,200.00",App Price: ৳ 1164.00,400ml
+349,mom-&-baby,Sebamed Baby Gentle Wash,SOLD OUT,nan,৳ 900.00,App Price: ৳ 873.00,200ml
+350,mom-&-baby,Firefly Lol Surprise Travel Kit Twin Toothbrush & Caps,SOLD OUT,nan,৳ 310.00,App Price: ৳ 301.00,
+351,mom-&-baby,Boots Essentials Baby Powder,SOLD OUT,nan,৳ 525.00,App Price: ৳ 509.00,200gm
+352,mom-&-baby,Sebamed Baby Powder For Delicate Skin,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,200gm
+353,mom-&-baby,Sensodyne Pronamel Children’s Toothpaste 6-12 Years,SOLD OUT,nan,৳ 450.00,,50ml
+354,mom-&-baby,Mamaearth Milky Soft Diaper Rash Cream for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,50gm
+355,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+356,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+357,mom-&-baby,Mothercare All We Know Baby Shampoo,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,100ml
+358,mom-&-baby,CeraVe baby Moisturizing Cream,SOLD OUT,nan,"৳ 1,950.00",App Price: ৳ 1892.00,142gm
+359,mom-&-baby,Johnson’s Baby Intense Moisturization Cream,SOLD OUT,nan,৳ 480.00,App Price: ৳ 466.00,50ml
+360,mom-&-baby,Wisdom Step by Step Toothbrush 0-2 Years,SOLD OUT,nan,৳ 250.00,App Price: ৳ 243.00,
+361,mom-&-baby,Johnson's Baby Soap Mild & Gentle Cleanse,SOLD OUT,nan,৳ 160.00,App Price: ৳ 155.00,125gm
+362,mom-&-baby,B.Tech Expert Virgin Superior Moisturising Stretch Mark Lotion,SOLD OUT,nan,৳ 380.00,,100ml
+363,mom-&-baby,Dabur Honey: 100% Pure Honey with No Sugar Adulteration (Free Vatika Petroleum Jelly 9 ml) 100 gm,SOLD OUT,nan,৳ 110.00,,
+364,mom-&-baby,Eucerin Unscented Baby Cream,SOLD OUT,nan,"৳ 1,750.00",App Price: ৳ 1698.00,141gm
+365,mom-&-baby,Aveeno Baby Calming Comfort Bath + Lotion Set,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,
+366,mom-&-baby,Aveeno Baby Sensitive All Over Wipes 64wipes,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+367,mom-&-baby,Sebamed Baby Body Lotion For Delicate Skin,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,750ml
+368,mom-&-baby,Sebamed Extra Soft Baby Cream with Panthenol,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,50ml
+369,mom-&-baby,Kodomo Baby Bath Gentle,SOLD OUT,nan,৳ 373.00,,200ml
+370,mom-&-baby,Aveeno Baby Daily Care 2 in 1 Shampoo & Conditioner,SOLD OUT,nan,"৳ 1,450.00",App Price: ৳ 1407.00,300ml
+371,mom-&-baby,Johnson’s Moisturizing Pink Baby Lotion with Coconut Oil ,SOLD OUT,nan,"৳ 2,450.00",App Price: ৳ 2377.00,1000ml
+372,mom-&-baby,Johnson’s Classic Baby powder,SOLD OUT,nan,৳ 425.00,App Price: ৳ 412.00,200gm
+373,mom-&-baby,Aveeno Kids Continuous Protection Sensitive Skin oxide Sunscreen Brad Spectrum SPF 50,SOLD OUT,nan,"৳ 1,800.00",App Price: ৳ 1746.00,88ml
+374,mom-&-baby,Kokomo Paw Patrol Lovely Lip Balms 2pcs,SOLD OUT,nan,৳ 275.00,App Price: ৳ 267.00,
+375,mom-&-baby,Neutrogena Sheer Zinc Kids Mineral Broad Spectrum SPF 50+ Sunscreen,SOLD OUT,nan,"৳ 1,650.00",App Price: ৳ 1601.00,88ml
+376,mom-&-baby,Vaseline Blueseal Baby Healing Jelly,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,450ml
+377,mom-&-baby,Vaseline Blueseal Baby Pure Protective Jelly,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,250ml
+378,mom-&-baby,Boots Baby Gentle & Mild Oil,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,300ml
+379,mom-&-baby,L.O.L Surprise Bath & Shower Bubbles,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,400ml
+380,mom-&-baby,Aveeno Baby Daily Moisture Wash & Shampoo,SOLD OUT,nan,"৳ 3,750.00",App Price: ৳ 3638.00,532ml
+381,mom-&-baby,Mamaearth Dusting Powder for Babies,SOLD OUT,nan,৳ 390.00,App Price: ৳ 378.00,150ml
+382,mom-&-baby,Aveeno Baby Calming Comfort Bath + Lotion Set,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,
+383,mom-&-baby,Aveeno Baby Sensitive All Over Wipes 64wipes,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+384,mom-&-baby,Mamaearth Baby Care Essential Bag,SOLD OUT,nan,৳ 295.00,App Price: ৳ 286.00,
+385,mom-&-baby,Mamaearth Moisturizing Bathing Bar Soap For Babies  (2pcs) 75.0 gm,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,75gm
+386,mom-&-baby,Liangjie Baby Girl's Beautiful Headbands With Flower White,SOLD OUT,nan,৳ 100.00,App Price: ৳ 97.00,
+387,mom-&-baby,Mothercare All We Know Baby Shampoo,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,300ml
+388,mom-&-baby,Kodomo Hair & Body Wash,SOLD OUT,nan,৳ 773.00,,400ml
+389,mom-&-baby,Baby stainless steel nail clipper 1pcs,SOLD OUT,nan,৳ 150.00,App Price: ৳ 146.00,
+390,mom-&-baby,Baby Manicure Clipper Set,SOLD OUT,nan,৳ 230.00,App Price: ৳ 223.00,
+391,mom-&-baby,Johnson's Milk+ Rice Cream,SOLD OUT,nan,৳ 148.00,,50gm
+392,mom-&-baby,Disney Frozen II 2in1 Shampoo & conditioner,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,300ml
+393,mom-&-baby,Disney Princess Bath and Shower Bubbles,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,400ml
+394,mom-&-baby,Meril Baby Gel Toothpaste,SOLD OUT,nan,৳ 125.00,,
+395,mom-&-baby,Woman's World No Tear Baby Shampoo,SOLD OUT,nan,৳ 360.00,App Price: ৳ 349.00,80ml
+396,mom-&-baby,Twinkle Baby Lotion 100ml,SOLD OUT,nan,৳ 130.00,,100ml
+397,mom-&-baby,Twinkle Baby Lotion,SOLD OUT,nan,৳ 250.00,,200ml
+398,mom-&-baby,Kodomo Baby Powder Natural Soft Protection,SOLD OUT,nan,৳ 140.00,,50gm
+399,mom-&-baby,Kodomo Hair & Body Wash,SOLD OUT,nan,৳ 773.00,,400ml
+400,mom-&-baby,JOHNSON'S Cottontouch 2-in-1 Bath & Wash,SOLD OUT,nan,"৳ 1,150.00",App Price: ৳ 1116.00,500ml
+401,mom-&-baby,Colgate Minions Smiles Junior Toothbrush Extra Soft For Ages 6+,SOLD OUT,nan,৳ 245.00,App Price: ৳ 238.00,
+402,mom-&-baby,L.O.L Surprise Bath & Shower Bubbles,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,400ml
+403,mom-&-baby,Meril Baby Gel Toothpaste,SOLD OUT,nan,৳ 125.00,,
+404,mom-&-baby,Woman's World No Tear Baby Shampoo,SOLD OUT,nan,৳ 360.00,App Price: ৳ 349.00,80ml
+405,mom-&-baby,Twinkle Baby Lotion 100ml,SOLD OUT,nan,৳ 130.00,,100ml
+406,mom-&-baby,Twinkle Baby Lotion,SOLD OUT,nan,৳ 250.00,,200ml
+407,mom-&-baby,Kodomo Baby Powder Natural Soft Protection,SOLD OUT,nan,৳ 140.00,,50gm
+408,mom-&-baby,Aveeno Baby Daily Moisture Wash & Shampoo,SOLD OUT,nan,"৳ 3,750.00",App Price: ৳ 3638.00,532ml
+409,mom-&-baby,Mamaearth Dusting Powder for Babies,SOLD OUT,nan,৳ 390.00,App Price: ৳ 378.00,150ml
+410,mom-&-baby,Bioderma Atoderm PP Ultra Nourishing Balm,SOLD OUT,nan,"৳ 2,450.00",,200ml
+411,mom-&-baby,Kodomo Baby Soap - Sensitive,SOLD OUT,nan,৳ 160.00,,75gm
+412,mom-&-baby,Aveeno Baby Calming Comfort Moisturizing Lotion,SOLD OUT,nan,"৳ 2,150.00",App Price: ৳ 2086.00,532ml
+413,mom-&-baby,Pielor Baby Wash GEL,SOLD OUT,nan,৳ 300.00,App Price: ৳ 291.00,200ml
+414,mom-&-baby,Cussons Baby Avocado & Pro-Vit B5 Shampoo,SOLD OUT,nan,৳ 310.00,App Price: ৳ 301.00,200ml
+415,mom-&-baby,Meril Baby Lotion,SOLD OUT,nan,৳ 180.00,,100ml
+416,mom-&-baby,Burt's Bees Baby Buttermilk Soap,SOLD OUT,nan,৳ 200.00,App Price: ৳ 194.00,20gm
+417,mom-&-baby,Aveeno Baby Wash & Shampoo,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,236ml
+418,mom-&-baby,Aveeno Baby Soothing Relief Creamy Wash,SOLD OUT,nan,"৳ 1,070.00",App Price: ৳ 1038.00,236ml
+419,mom-&-baby,Colgate Natural Fruit Flavour Kids Toothpaste 0-2 Years,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,50ml
+420,mom-&-baby,Kodomo Refreshing Baby Powder,SOLD OUT,nan,৳ 550.00,,400gm
+421,mom-&-baby,Mamaearth Moisturizing Daily Lotion For Babies,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,200ml
+422,mom-&-baby,Mamaearth Deeply Nourishing Body Wash For Babies,SOLD OUT,nan,৳ 425.00,App Price: ৳ 412.00,200ml
+423,mom-&-baby,"Mamaearth Milky Soft Bathing Bar for Babies with Oats, Milk and Calendula",SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,75gm
+424,mom-&-baby,Firefly PJ Masks Children Toothbrush Set,SOLD OUT,nan,৳ 420.00,App Price: ৳ 407.00,
+425,mom-&-baby,Aquafresh Baby Toothpaste,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+426,mom-&-baby,Dabur Honey: 100% Pure Honey with No Sugar Adulteration (Free Vatika Petroleum Jelly 9 ml) 100 gm,SOLD OUT,nan,৳ 110.00,,
+427,mom-&-baby,Mothercare All We Know Baby Soap,SOLD OUT,nan,৳ 200.00,App Price: ৳ 194.00,75gm
+428,mom-&-baby,Mothercare All We Know Baby Body Lotion,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,100ml
+429,mom-&-baby,Mothercare All We Know Baby Shampoo,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,100ml
+430,mom-&-baby,Aveeno Baby Calming Comfort Bath + Lotion Set,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,
+431,mom-&-baby,Aveeno Baby Sensitive All Over Wipes 64wipes,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+432,mom-&-baby,Sebamed Baby Body Lotion For Delicate Skin,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,750ml
+433,mom-&-baby,Sebamed Extra Soft Baby Cream with Panthenol,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,50ml
+434,mom-&-baby,Nivea Baby My First Cream Face Body Bottom,SOLD OUT,nan,"৳ 1,350.00",App Price: ৳ 1310.00,150ml
+435,mom-&-baby,Johnson’s Blossoms Baby Powder,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,150gm
+436,mom-&-baby,Eucerin Kids Sun Fluid Sensitive Protect SPF 50+,SOLD OUT,nan,"৳ 2,400.00",App Price: ৳ 2328.00,50ml
+437,mom-&-baby,Colgate Natural Fruit Flavour Kids Toothpaste 3-5 Years,SOLD OUT,nan,৳ 400.00,App Price: ৳ 388.00,75ml
+438,mom-&-baby,Firefly Marvel Avengers Twin Pack Toothbrush & Caps,SOLD OUT,nan,৳ 310.00,App Price: ৳ 301.00,
+439,mom-&-baby,Wisdom Step by Step Toothbrush 0-2 Years,SOLD OUT,nan,৳ 250.00,App Price: ৳ 243.00,
+440,mom-&-baby,Johnson's Baby Soap Mild & Gentle Cleanse,SOLD OUT,nan,৳ 160.00,App Price: ৳ 155.00,125gm
+441,mom-&-baby,Firefly My Little Pony Girl Travel Kit Twin Toothbrush & Covers,SOLD OUT,nan,৳ 310.00,App Price: ৳ 301.00,
+442,mom-&-baby,Bioderma Photoderm KID Spray SPF 50+,SOLD OUT,nan,"৳ 3,100.00",App Price: ৳ 3007.00,200ml
+443,mom-&-baby,Minions Bath & Shower Gel,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,400ml
+444,mom-&-baby,Johnson's Baby Honey Soap,SOLD OUT,nan,৳ 275.00,App Price: ৳ 267.00,100gm
+445,mom-&-baby,ASDA Little Angels Bedtime Bath,SOLD OUT,nan,৳ 880.00,App Price: ৳ 854.00,500ml
+446,mom-&-baby,Aquaphor Baby Advanced Therapy Healing Ointment,SOLD OUT,nan,"৳ 1,080.00",App Price: ৳ 1048.00,50gm
+447,mom-&-baby,Aquaphor Baby Advanced Therapy Healing Ointment,SOLD OUT,nan,"৳ 2,950.00",App Price: ৳ 2862.00,396gm
+448,mom-&-baby,Tony Moly UV Master Kids & Mom Sun Cream,SOLD OUT,nan,"৳ 1,150.00",App Price: ৳ 1116.00,45ml
+449,mom-&-baby,Cetaphil Baby Wash & Shampoo,SOLD OUT,nan,"৳ 1,550.00",App Price: ৳ 1504.00,230ml
+450,mom-&-baby,Beauty & care baby lip care - Minions 4.8 gm,SOLD OUT,nan,৳ 250.00,App Price: ৳ 243.00,4.8gm
+451,mom-&-baby,Johnson's Baby No More Tears Baby Shampoo,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,500ml
+452,mom-&-baby,Sensodyne Pronamel Children Toothpaste for 6-12 Years,SOLD OUT,nan,৳ 450.00,,50ml
+453,mom-&-baby,Disney Frozen II 2in1 bath and shower bubbles,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,400ml
+454,mom-&-baby,Marvel Spider Man Bath and Shower Bubbles,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,400ml
+455,mom-&-baby,Suave Kids 2in1 Shampoo Conditioner Coconut Smootherss,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,532ml
+456,mom-&-baby,Kodomo Baby Shampoo Gentle Soft 3+,SOLD OUT,nan,৳ 827.00,,400ml
+457,mom-&-baby,Kodomo Baby Bath Gentle Soft 3+,SOLD OUT,nan,৳ 720.00,,400ml
+458,mom-&-baby,Aveeno Baby Daily Care Nappy Barrier Cream,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,100ml
+459,mom-&-baby,Mamaearth deeply nourishing body wash for babies,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,400ml
+460,mom-&-baby,Mamaearth Dusting Powder for Babies 150.0 gm,SOLD OUT,nan,৳ 350.00,,150gm
+461,mom-&-baby,Mamaearth milky soft face cream with murumuru butter for babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,60ml
+462,mom-&-baby,Johnson's Chamomile Baby Shampoo,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,500ml
+463,mom-&-baby,Johnson's Baby Oil,SOLD OUT,nan,৳ 550.00,,200ml
+464,mom-&-baby,Bioderma Atoderm Preventive,SOLD OUT,nan,"৳ 1,500.00",,200ml
+465,mom-&-baby,Mamaearth deeply nourishing body wash for babies,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,400ml
+466,mom-&-baby,Mamaearth Dusting Powder for Babies 150.0 gm,SOLD OUT,nan,৳ 350.00,,150gm
+467,mom-&-baby,Mamaearth milky soft face cream with murumuru butter for babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,60ml
+468,mom-&-baby,Mamaearth sulfate free awesome orange toothpaste for kids with fluoride,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,50gm
+469,mom-&-baby,Liangjie Baby Girl's Beautiful Headbands With Flower Sky Blue,SOLD OUT,nan,৳ 100.00,App Price: ৳ 97.00,
+470,mom-&-baby,Liangjie Baby Girl's Beautiful Headbands With Flower Red,SOLD OUT,nan,৳ 100.00,App Price: ৳ 97.00,
+471,mom-&-baby,Liangjie Baby Girl's Beautiful Headbands With Flower Pink,SOLD OUT,nan,৳ 100.00,App Price: ৳ 97.00,
+472,mom-&-baby,Liangjie Baby Girl's Beautiful Headbands With Flower Baby pink,SOLD OUT,nan,৳ 100.00,App Price: ৳ 97.00,
+473,mom-&-baby,Johnson's Milk+ Rice Lotion,SOLD OUT,nan,৳ 170.00,,100ml
+474,mom-&-baby,Aveeno Baby Calming Comfort Tear Free Bath,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,236ml
+475,mom-&-baby,Liangjie Baby Girl's Beautiful Headbands With Flower Yellow,SOLD OUT,nan,৳ 100.00,App Price: ৳ 97.00,
+476,mom-&-baby,Disney Frozen II 2in1 bath and shower bubbles,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,400ml
+477,mom-&-baby,Marvel Spider Man Bath and Shower Bubbles,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,400ml
+478,mom-&-baby,Suave Kids 2in1 Shampoo Conditioner Coconut Smootherss,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,532ml
+479,mom-&-baby,Johnson's Baby Powder Blossoms,SOLD OUT,nan,৳ 100.00,,50gm
+480,mom-&-baby,Colgate Minions Smiles Junior Toothbrush Extra Soft For Ages (4-6),SOLD OUT,nan,৳ 225.00,App Price: ৳ 218.00,
+481,mom-&-baby,Colgate Youth Smiles Kids Toothbrush Extra Soft For Ages (4-6),SOLD OUT,nan,৳ 225.00,App Price: ৳ 218.00,
+482,mom-&-baby,Eucerin Baby Wash and Shampoo Unscented,SOLD OUT,nan,"৳ 2,450.00",App Price: ৳ 2377.00,400ml
+483,mom-&-baby,Luvs Ultra Clean Wipes,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,
+484,mom-&-baby,Burt's Bees Baby Buttermilk Soap,SOLD OUT,nan,৳ 200.00,App Price: ৳ 194.00,20gm
+485,mom-&-baby,Johnson's Top To Toe Baby Bath,SOLD OUT,nan,৳ 995.00,App Price: ৳ 965.00,500ml
+486,mom-&-baby,Cussons Baby Wipes Mild & Gentle Chamomile 50s,SOLD OUT,nan,৳ 150.00,App Price: ৳ 146.00,
+487,mom-&-baby,Cussons Baby Soft And Smooth Baby Lotion,SOLD OUT,nan,৳ 200.00,App Price: ৳ 194.00,100ml
+488,mom-&-baby,Cussons Baby Soap Soft And Smooth Diamond,SOLD OUT,nan,৳ 95.00,App Price: ৳ 92.00,75gm
+489,mom-&-baby,Cussons Baby Hair And Body Wash Mild And Gentle Chamomile Oil,SOLD OUT,nan,৳ 430.00,App Price: ৳ 417.00,200ml
+490,mom-&-baby,Cussons Baby Hair And Body Wash Honey And Camomile,SOLD OUT,nan,৳ 295.00,App Price: ৳ 286.00,200ml
+491,mom-&-baby,Cussons Kids 2 In 1 Soft And Smooth Shampoo,SOLD OUT,nan,৳ 390.00,App Price: ৳ 378.00,200ml
+492,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SOLD OUT,nan,"৳ 1,650.00",App Price: ৳ 1601.00,223ml
+493,mom-&-baby,Aveeno Baby Eczema Therapy Moisturizing Cream,SOLD OUT,nan,"৳ 1,500.00",App Price: ৳ 1455.00,141gm
+494,mom-&-baby,Burt's Bees Baby Dusting Powder,SOLD OUT,nan,"৳ 1,750.00",App Price: ৳ 1698.00,212.6gm
+495,mom-&-baby,Burt's Bee Baby Daily Cream to Powder,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,21.2gm
+496,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+497,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+498,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+499,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+500,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+501,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+502,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+503,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+504,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+505,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+506,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+507,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+508,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+509,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+510,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+511,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+512,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+513,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+514,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+515,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+516,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+517,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+518,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+519,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+520,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+521,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+522,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+523,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+524,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+525,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+526,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+527,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+528,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+529,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+530,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+531,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+532,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+533,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+534,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+535,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+536,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+537,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+538,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+539,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+540,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+541,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+542,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+543,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+544,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+545,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+546,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+547,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+548,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+549,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+550,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+551,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+552,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+553,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+554,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+555,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+556,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+557,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+558,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+559,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+560,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+561,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+562,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+563,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+564,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+565,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+566,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+567,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+568,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+569,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+570,mom-&-baby,Dove Baby Rich Moisture Nourishing Baby Lotion,SOLD OUT,৳ 750.00,৳ 499.00,App Price: ৳ 484.00,200ml
+571,mom-&-baby,Dove Baby Rich Moisture Nourishing Baby Lotion,SOLD OUT,৳ 750.00,৳ 499.00,App Price: ৳ 484.00,200ml
+572,mom-&-baby,Pinkfong - Baby Shark Bubble Bath,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,400ml
+573,mom-&-baby,Dove Baby Moisturizing Cream,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,150ml
+574,mom-&-baby,Aveeno Baby Continuous Protection,SOLD OUT,nan,"৳ 2,650.00",App Price: ৳ 2571.00,88ml
+575,mom-&-baby,Dove Sensitive moisture Head to Toe Wash,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+576,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Toothpaste Free),SOLD OUT,nan,৳ 340.00,,200ml
+577,mom-&-baby,Kodomo Baby Shampoo Original 0+,SOLD OUT,nan,৳ 827.00,,400ml
+578,mom-&-baby,Kodomo Baby Powder SUNSHINE KIDS,SOLD OUT,nan,৳ 693.00,,400gm
+579,mom-&-baby,Johnson & Johnson Baby Lotion,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,500ml
+580,mom-&-baby,Kodomo Baby Shampoo 3+,SOLD OUT,nan,৳ 320.00,,100ml
+581,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Toothpaste Free),SOLD OUT,nan,৳ 340.00,,200ml
+582,mom-&-baby,Pinkfong - Baby Shark Bubble Bath,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,400ml
+583,mom-&-baby,Kodomo Baby Shampoo Original 0+,SOLD OUT,nan,৳ 827.00,,400ml
+584,mom-&-baby,Kodomo Baby Powder SUNSHINE KIDS,SOLD OUT,nan,৳ 693.00,,400gm
+585,mom-&-baby,Dove Sensitive moisture Head to Toe Wash,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+586,mom-&-baby,Aveeno Baby Continuous Protection,SOLD OUT,nan,"৳ 2,650.00",App Price: ৳ 2571.00,88ml
+587,mom-&-baby,Dove Baby Moisturizing Cream,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,150ml
+588,mom-&-baby,Johnson & Johnson Baby Lotion,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,500ml
+589,mom-&-baby,Kodomo Baby Shampoo 3+,SOLD OUT,nan,৳ 320.00,,100ml
+590,mom-&-baby,Firefly My Little Pony Girl Travel Kit Twin Toothbrush & Covers,SOLD OUT,nan,৳ 310.00,App Price: ৳ 301.00,
+591,mom-&-baby,Bioderma Photoderm KID Spray SPF 50+,SOLD OUT,nan,"৳ 3,100.00",App Price: ৳ 3007.00,200ml
+592,mom-&-baby,Colgate Natural Fruit Flavour Kids Toothpaste 0-2 Years,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,50ml
+593,mom-&-baby,Tony Moly UV Master Kids & Mom Sun Cream,SOLD OUT,nan,"৳ 1,150.00",App Price: ৳ 1116.00,45ml
+594,mom-&-baby,Johnson's Baby Honey Soap,SOLD OUT,nan,৳ 275.00,App Price: ৳ 267.00,100gm
+595,mom-&-baby,ASDA Little Angels Bedtime Bath,SOLD OUT,nan,৳ 880.00,App Price: ৳ 854.00,500ml
+596,mom-&-baby,Aquaphor Baby Advanced Therapy Healing Ointment,SOLD OUT,nan,"৳ 1,080.00",App Price: ৳ 1048.00,50gm
+597,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+598,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+599,mom-&-baby,Buy 1 Himalaya Gentle Baby Shampoo 100ml get 1 Himalaya Moisturising Aloe Vara Face Wash 50ml Free,SOLD OUT,nan,৳ 249.00,,
+600,mom-&-baby,Mamaearth Milky Soft Diaper Rash Cream for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,50gm
+601,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+602,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+603,mom-&-baby,Buy 1 Himalaya Gentle Baby Shampoo 100ml get 1 Himalaya Moisturising Aloe Vara Face Wash 50ml Free,SOLD OUT,nan,৳ 249.00,,
+604,mom-&-baby,Pielor Baby Wash GEL,SOLD OUT,nan,৳ 300.00,App Price: ৳ 291.00,200ml
+605,mom-&-baby,Cussons Baby Avocado & Pro-Vit B5 Shampoo,SOLD OUT,nan,৳ 310.00,App Price: ৳ 301.00,200ml
+606,mom-&-baby,Meril Baby Lotion,SOLD OUT,nan,৳ 180.00,,100ml
+607,mom-&-baby,Aveeno Baby Wash & Shampoo,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,236ml
+608,mom-&-baby,Aveeno Baby Soothing Relief Creamy Wash,SOLD OUT,nan,"৳ 1,070.00",App Price: ৳ 1038.00,236ml
+609,mom-&-baby,Burt's Bees Baby Buttermilk Soap,SOLD OUT,nan,৳ 200.00,App Price: ৳ 194.00,20gm
+610,mom-&-baby,Mamaearth Milky Soft Diaper Rash Cream for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,50gm
+611,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+612,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+613,mom-&-baby,Mothercare All We Know Baby Shampoo,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,100ml
+614,mom-&-baby,Wisdom Step by Step Toothbrush 0-2 Years,SOLD OUT,nan,৳ 250.00,App Price: ৳ 243.00,
+615,mom-&-baby,Johnson's Baby Soap Mild & Gentle Cleanse,SOLD OUT,nan,৳ 160.00,App Price: ৳ 155.00,125gm
+616,mom-&-baby,Dabur Honey: 100% Pure Honey with No Sugar Adulteration (Free Vatika Petroleum Jelly 9 ml) 100 gm,SOLD OUT,nan,৳ 110.00,,
+617,mom-&-baby,Aveeno Baby Calming Comfort Bath + Lotion Set,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,
+618,mom-&-baby,Aveeno Baby Sensitive All Over Wipes 64wipes,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+619,mom-&-baby,Sebamed Baby Body Lotion For Delicate Skin,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,750ml
+620,mom-&-baby,Sebamed Extra Soft Baby Cream with Panthenol,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,50ml
+621,mom-&-baby,L.O.L Surprise Bath & Shower Bubbles,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,400ml
+622,mom-&-baby,Aveeno Baby Daily Moisture Wash & Shampoo,SOLD OUT,nan,"৳ 3,750.00",App Price: ৳ 3638.00,532ml
+623,mom-&-baby,Mamaearth Dusting Powder for Babies,SOLD OUT,nan,৳ 390.00,App Price: ৳ 378.00,150ml
+624,mom-&-baby,Aveeno Baby Calming Comfort Bath + Lotion Set,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,
+625,mom-&-baby,Aveeno Baby Sensitive All Over Wipes 64wipes,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+626,mom-&-baby,Kodomo Hair & Body Wash,SOLD OUT,nan,৳ 773.00,,400ml
+627,mom-&-baby,Meril Baby Gel Toothpaste,SOLD OUT,nan,৳ 125.00,,
+628,mom-&-baby,Woman's World No Tear Baby Shampoo,SOLD OUT,nan,৳ 360.00,App Price: ৳ 349.00,80ml
+629,mom-&-baby,Twinkle Baby Lotion 100ml,SOLD OUT,nan,৳ 130.00,,100ml
+630,mom-&-baby,Twinkle Baby Lotion,SOLD OUT,nan,৳ 250.00,,200ml
+631,mom-&-baby,Kodomo Baby Powder Natural Soft Protection,SOLD OUT,nan,৳ 140.00,,50gm
+632,mom-&-baby,Kodomo Hair & Body Wash,SOLD OUT,nan,৳ 773.00,,400ml
+633,mom-&-baby,L.O.L Surprise Bath & Shower Bubbles,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,400ml
+634,mom-&-baby,Meril Baby Gel Toothpaste,SOLD OUT,nan,৳ 125.00,,
+635,mom-&-baby,Woman's World No Tear Baby Shampoo,SOLD OUT,nan,৳ 360.00,App Price: ৳ 349.00,80ml
+636,mom-&-baby,Twinkle Baby Lotion 100ml,SOLD OUT,nan,৳ 130.00,,100ml
+637,mom-&-baby,Twinkle Baby Lotion,SOLD OUT,nan,৳ 250.00,,200ml
+638,mom-&-baby,Kodomo Baby Powder Natural Soft Protection,SOLD OUT,nan,৳ 140.00,,50gm
+639,mom-&-baby,Aveeno Baby Daily Moisture Wash & Shampoo,SOLD OUT,nan,"৳ 3,750.00",App Price: ৳ 3638.00,532ml
+640,mom-&-baby,Mamaearth Dusting Powder for Babies,SOLD OUT,nan,৳ 390.00,App Price: ৳ 378.00,150ml
+641,mom-&-baby,Pielor Baby Wash GEL,SOLD OUT,nan,৳ 300.00,App Price: ৳ 291.00,200ml
+642,mom-&-baby,Cussons Baby Avocado & Pro-Vit B5 Shampoo,SOLD OUT,nan,৳ 310.00,App Price: ৳ 301.00,200ml
+643,mom-&-baby,Meril Baby Lotion,SOLD OUT,nan,৳ 180.00,,100ml
+644,mom-&-baby,Burt's Bees Baby Buttermilk Soap,SOLD OUT,nan,৳ 200.00,App Price: ৳ 194.00,20gm
+645,mom-&-baby,Aveeno Baby Wash & Shampoo,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,236ml
+646,mom-&-baby,Aveeno Baby Soothing Relief Creamy Wash,SOLD OUT,nan,"৳ 1,070.00",App Price: ৳ 1038.00,236ml
+647,mom-&-baby,Colgate Natural Fruit Flavour Kids Toothpaste 0-2 Years,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,50ml
+648,mom-&-baby,Dabur Honey: 100% Pure Honey with No Sugar Adulteration (Free Vatika Petroleum Jelly 9 ml) 100 gm,SOLD OUT,nan,৳ 110.00,,
+649,mom-&-baby,Mothercare All We Know Baby Shampoo,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,100ml
+650,mom-&-baby,Aveeno Baby Calming Comfort Bath + Lotion Set,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,
+651,mom-&-baby,Aveeno Baby Sensitive All Over Wipes 64wipes,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+652,mom-&-baby,Sebamed Baby Body Lotion For Delicate Skin,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,750ml
+653,mom-&-baby,Sebamed Extra Soft Baby Cream with Panthenol,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,50ml
+654,mom-&-baby,Wisdom Step by Step Toothbrush 0-2 Years,SOLD OUT,nan,৳ 250.00,App Price: ৳ 243.00,
+655,mom-&-baby,Johnson's Baby Soap Mild & Gentle Cleanse,SOLD OUT,nan,৳ 160.00,App Price: ৳ 155.00,125gm
+656,mom-&-baby,Firefly My Little Pony Girl Travel Kit Twin Toothbrush & Covers,SOLD OUT,nan,৳ 310.00,App Price: ৳ 301.00,
+657,mom-&-baby,Bioderma Photoderm KID Spray SPF 50+,SOLD OUT,nan,"৳ 3,100.00",App Price: ৳ 3007.00,200ml
+658,mom-&-baby,Johnson's Baby Honey Soap,SOLD OUT,nan,৳ 275.00,App Price: ৳ 267.00,100gm
+659,mom-&-baby,ASDA Little Angels Bedtime Bath,SOLD OUT,nan,৳ 880.00,App Price: ৳ 854.00,500ml
+660,mom-&-baby,Aquaphor Baby Advanced Therapy Healing Ointment,SOLD OUT,nan,"৳ 1,080.00",App Price: ৳ 1048.00,50gm
+661,mom-&-baby,Tony Moly UV Master Kids & Mom Sun Cream,SOLD OUT,nan,"৳ 1,150.00",App Price: ৳ 1116.00,45ml
+662,mom-&-baby,Disney Frozen II 2in1 bath and shower bubbles,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,400ml
+663,mom-&-baby,Marvel Spider Man Bath and Shower Bubbles,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,400ml
+664,mom-&-baby,Suave Kids 2in1 Shampoo Conditioner Coconut Smootherss,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,532ml
+665,mom-&-baby,Mamaearth deeply nourishing body wash for babies,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,400ml
+666,mom-&-baby,Mamaearth Dusting Powder for Babies 150.0 gm,SOLD OUT,nan,৳ 350.00,,150gm
+667,mom-&-baby,Mamaearth milky soft face cream with murumuru butter for babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,60ml
+668,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+669,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+670,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+671,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+672,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+673,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+674,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+675,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+676,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+677,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+678,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+679,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+680,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+681,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+682,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+683,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+684,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+685,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+686,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+687,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+688,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+689,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+690,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+691,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+692,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+693,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+694,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+695,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+696,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+697,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+698,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+699,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+700,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+701,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+702,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+703,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+704,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+705,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+706,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+707,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+708,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+709,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+710,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+711,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+712,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+713,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+714,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+715,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+716,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+717,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+718,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+719,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+720,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+721,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+722,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+723,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+724,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+725,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+726,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+727,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+728,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+729,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+730,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+731,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+732,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+733,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+734,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+735,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+736,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+737,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+738,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+739,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+740,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+741,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+742,mom-&-baby,Dove Baby Rich Moisture Nourishing Baby Lotion,SOLD OUT,৳ 750.00,৳ 499.00,App Price: ৳ 484.00,200ml
+743,mom-&-baby,Dove Baby Rich Moisture Nourishing Baby Lotion,SOLD OUT,৳ 750.00,৳ 499.00,App Price: ৳ 484.00,200ml
+744,mom-&-baby,Pinkfong - Baby Shark Bubble Bath,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,400ml
+745,mom-&-baby,Dove Baby Moisturizing Cream,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,150ml
+746,mom-&-baby,Aveeno Baby Continuous Protection,SOLD OUT,nan,"৳ 2,650.00",App Price: ৳ 2571.00,88ml
+747,mom-&-baby,Dove Sensitive moisture Head to Toe Wash,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+748,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Toothpaste Free),SOLD OUT,nan,৳ 340.00,,200ml
+749,mom-&-baby,Kodomo Baby Shampoo Original 0+,SOLD OUT,nan,৳ 827.00,,400ml
+750,mom-&-baby,Kodomo Baby Powder SUNSHINE KIDS,SOLD OUT,nan,৳ 693.00,,400gm
+751,mom-&-baby,Johnson & Johnson Baby Lotion,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,500ml
+752,mom-&-baby,Kodomo Baby Shampoo 3+,SOLD OUT,nan,৳ 320.00,,100ml
+753,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Toothpaste Free),SOLD OUT,nan,৳ 340.00,,200ml
+754,mom-&-baby,Pinkfong - Baby Shark Bubble Bath,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,400ml
+755,mom-&-baby,Kodomo Baby Shampoo Original 0+,SOLD OUT,nan,৳ 827.00,,400ml
+756,mom-&-baby,Kodomo Baby Powder SUNSHINE KIDS,SOLD OUT,nan,৳ 693.00,,400gm
+757,mom-&-baby,Dove Sensitive moisture Head to Toe Wash,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+758,mom-&-baby,Aveeno Baby Continuous Protection,SOLD OUT,nan,"৳ 2,650.00",App Price: ৳ 2571.00,88ml
+759,mom-&-baby,Dove Baby Moisturizing Cream,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,150ml
+760,mom-&-baby,Johnson & Johnson Baby Lotion,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,500ml
+761,mom-&-baby,Kodomo Baby Shampoo 3+,SOLD OUT,nan,৳ 320.00,,100ml
+762,mom-&-baby,Colgate Natural Fruit Flavour Kids Toothpaste 0-2 Years,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,50ml
+763,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+764,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+765,mom-&-baby,Buy 1 Himalaya Gentle Baby Shampoo 100ml get 1 Himalaya Moisturising Aloe Vara Face Wash 50ml Free,SOLD OUT,nan,৳ 249.00,,
+766,mom-&-baby,Mamaearth Milky Soft Diaper Rash Cream for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,50gm
+767,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+768,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+769,mom-&-baby,Buy 1 Himalaya Gentle Baby Shampoo 100ml get 1 Himalaya Moisturising Aloe Vara Face Wash 50ml Free,SOLD OUT,nan,৳ 249.00,,
+770,mom-&-baby,Pielor Baby Wash GEL,SOLD OUT,nan,৳ 300.00,App Price: ৳ 291.00,200ml
+771,mom-&-baby,Cussons Baby Avocado & Pro-Vit B5 Shampoo,SOLD OUT,nan,৳ 310.00,App Price: ৳ 301.00,200ml
+772,mom-&-baby,Meril Baby Lotion,SOLD OUT,nan,৳ 180.00,,100ml
+773,mom-&-baby,Aveeno Baby Wash & Shampoo,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,236ml
+774,mom-&-baby,Aveeno Baby Soothing Relief Creamy Wash,SOLD OUT,nan,"৳ 1,070.00",App Price: ৳ 1038.00,236ml
+775,mom-&-baby,Burt's Bees Baby Buttermilk Soap,SOLD OUT,nan,৳ 200.00,App Price: ৳ 194.00,20gm
+776,mom-&-baby,Mamaearth Milky Soft Diaper Rash Cream for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,50gm
+777,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+778,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+779,mom-&-baby,Mothercare All We Know Baby Shampoo,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,100ml
+780,mom-&-baby,Wisdom Step by Step Toothbrush 0-2 Years,SOLD OUT,nan,৳ 250.00,App Price: ৳ 243.00,
+781,mom-&-baby,Johnson's Baby Soap Mild & Gentle Cleanse,SOLD OUT,nan,৳ 160.00,App Price: ৳ 155.00,125gm
+782,mom-&-baby,Dabur Honey: 100% Pure Honey with No Sugar Adulteration (Free Vatika Petroleum Jelly 9 ml) 100 gm,SOLD OUT,nan,৳ 110.00,,
+783,mom-&-baby,Aveeno Baby Calming Comfort Bath + Lotion Set,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,
+784,mom-&-baby,Aveeno Baby Sensitive All Over Wipes 64wipes,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+785,mom-&-baby,Sebamed Baby Body Lotion For Delicate Skin,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,750ml
+786,mom-&-baby,Sebamed Extra Soft Baby Cream with Panthenol,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,50ml
+787,mom-&-baby,L.O.L Surprise Bath & Shower Bubbles,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,400ml
+788,mom-&-baby,Aveeno Baby Daily Moisture Wash & Shampoo,SOLD OUT,nan,"৳ 3,750.00",App Price: ৳ 3638.00,532ml
+789,mom-&-baby,Mamaearth Dusting Powder for Babies,SOLD OUT,nan,৳ 390.00,App Price: ৳ 378.00,150ml
+790,mom-&-baby,Aveeno Baby Calming Comfort Bath + Lotion Set,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,
+791,mom-&-baby,Aveeno Baby Sensitive All Over Wipes 64wipes,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+792,mom-&-baby,Kodomo Hair & Body Wash,SOLD OUT,nan,৳ 773.00,,400ml
+793,mom-&-baby,Meril Baby Gel Toothpaste,SOLD OUT,nan,৳ 125.00,,
+794,mom-&-baby,Woman's World No Tear Baby Shampoo,SOLD OUT,nan,৳ 360.00,App Price: ৳ 349.00,80ml
+795,mom-&-baby,Twinkle Baby Lotion 100ml,SOLD OUT,nan,৳ 130.00,,100ml
+796,mom-&-baby,Twinkle Baby Lotion,SOLD OUT,nan,৳ 250.00,,200ml
+797,mom-&-baby,Kodomo Baby Powder Natural Soft Protection,SOLD OUT,nan,৳ 140.00,,50gm
+798,mom-&-baby,Kodomo Hair & Body Wash,SOLD OUT,nan,৳ 773.00,,400ml
+799,mom-&-baby,L.O.L Surprise Bath & Shower Bubbles,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,400ml
+800,mom-&-baby,Meril Baby Gel Toothpaste,SOLD OUT,nan,৳ 125.00,,
+801,mom-&-baby,Woman's World No Tear Baby Shampoo,SOLD OUT,nan,৳ 360.00,App Price: ৳ 349.00,80ml
+802,mom-&-baby,Twinkle Baby Lotion 100ml,SOLD OUT,nan,৳ 130.00,,100ml
+803,mom-&-baby,Twinkle Baby Lotion,SOLD OUT,nan,৳ 250.00,,200ml
+804,mom-&-baby,Kodomo Baby Powder Natural Soft Protection,SOLD OUT,nan,৳ 140.00,,50gm
+805,mom-&-baby,Aveeno Baby Daily Moisture Wash & Shampoo,SOLD OUT,nan,"৳ 3,750.00",App Price: ৳ 3638.00,532ml
+806,mom-&-baby,Mamaearth Dusting Powder for Babies,SOLD OUT,nan,৳ 390.00,App Price: ৳ 378.00,150ml
+807,mom-&-baby,Pielor Baby Wash GEL,SOLD OUT,nan,৳ 300.00,App Price: ৳ 291.00,200ml
+808,mom-&-baby,Cussons Baby Avocado & Pro-Vit B5 Shampoo,SOLD OUT,nan,৳ 310.00,App Price: ৳ 301.00,200ml
+809,mom-&-baby,Meril Baby Lotion,SOLD OUT,nan,৳ 180.00,,100ml
+810,mom-&-baby,Burt's Bees Baby Buttermilk Soap,SOLD OUT,nan,৳ 200.00,App Price: ৳ 194.00,20gm
+811,mom-&-baby,Aveeno Baby Wash & Shampoo,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,236ml
+812,mom-&-baby,Aveeno Baby Soothing Relief Creamy Wash,SOLD OUT,nan,"৳ 1,070.00",App Price: ৳ 1038.00,236ml
+813,mom-&-baby,Colgate Natural Fruit Flavour Kids Toothpaste 0-2 Years,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,50ml
+814,mom-&-baby,Aveeno Baby Calming Comfort Bath + Lotion Set,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,
+815,mom-&-baby,Aveeno Baby Sensitive All Over Wipes 64wipes,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+816,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+817,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+818,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+819,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+820,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+821,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+822,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+823,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+824,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+825,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+826,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+827,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+828,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+829,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+830,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+831,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+832,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+833,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+834,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+835,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+836,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+837,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+838,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+839,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+840,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+841,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+842,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+843,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+844,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+845,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+846,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+847,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+848,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+849,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+850,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+851,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+852,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+853,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+854,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+855,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+856,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+857,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+858,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+859,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+860,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+861,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+862,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+863,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+864,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+865,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+866,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+867,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+868,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+869,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+870,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+871,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+872,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+873,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+874,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+875,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+876,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+877,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+878,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+879,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+880,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+881,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+882,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+883,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+884,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+885,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+886,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+887,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+888,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+889,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+890,mom-&-baby,Dove Baby Rich Moisture Nourishing Baby Lotion,SOLD OUT,৳ 750.00,৳ 499.00,App Price: ৳ 484.00,200ml
+891,mom-&-baby,Dove Baby Rich Moisture Nourishing Baby Lotion,SOLD OUT,৳ 750.00,৳ 499.00,App Price: ৳ 484.00,200ml
+892,mom-&-baby,Pinkfong - Baby Shark Bubble Bath,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,400ml
+893,mom-&-baby,Dove Baby Moisturizing Cream,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,150ml
+894,mom-&-baby,Aveeno Baby Continuous Protection,SOLD OUT,nan,"৳ 2,650.00",App Price: ৳ 2571.00,88ml
+895,mom-&-baby,Dove Sensitive moisture Head to Toe Wash,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+896,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Toothpaste Free),SOLD OUT,nan,৳ 340.00,,200ml
+897,mom-&-baby,Kodomo Baby Shampoo Original 0+,SOLD OUT,nan,৳ 827.00,,400ml
+898,mom-&-baby,Kodomo Baby Powder SUNSHINE KIDS,SOLD OUT,nan,৳ 693.00,,400gm
+899,mom-&-baby,Johnson & Johnson Baby Lotion,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,500ml
+900,mom-&-baby,Kodomo Baby Shampoo 3+,SOLD OUT,nan,৳ 320.00,,100ml
+901,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Toothpaste Free),SOLD OUT,nan,৳ 340.00,,200ml
+902,mom-&-baby,Pinkfong - Baby Shark Bubble Bath,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,400ml
+903,mom-&-baby,Kodomo Baby Shampoo Original 0+,SOLD OUT,nan,৳ 827.00,,400ml
+904,mom-&-baby,Kodomo Baby Powder SUNSHINE KIDS,SOLD OUT,nan,৳ 693.00,,400gm
+905,mom-&-baby,Dove Sensitive moisture Head to Toe Wash,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+906,mom-&-baby,Aveeno Baby Continuous Protection,SOLD OUT,nan,"৳ 2,650.00",App Price: ৳ 2571.00,88ml
+907,mom-&-baby,Dove Baby Moisturizing Cream,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,150ml
+908,mom-&-baby,Johnson & Johnson Baby Lotion,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,500ml
+909,mom-&-baby,Kodomo Baby Shampoo 3+,SOLD OUT,nan,৳ 320.00,,100ml
+910,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+911,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+912,mom-&-baby,Buy 1 Himalaya Gentle Baby Shampoo 100ml get 1 Himalaya Moisturising Aloe Vara Face Wash 50ml Free,SOLD OUT,nan,৳ 249.00,,
+913,mom-&-baby,Mamaearth Milky Soft Diaper Rash Cream for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,50gm
+914,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+915,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+916,mom-&-baby,Buy 1 Himalaya Gentle Baby Shampoo 100ml get 1 Himalaya Moisturising Aloe Vara Face Wash 50ml Free,SOLD OUT,nan,৳ 249.00,,
+917,mom-&-baby,Mamaearth Milky Soft Diaper Rash Cream for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,50gm
+918,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+919,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+920,mom-&-baby,Aveeno Baby Calming Comfort Bath + Lotion Set,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,
+921,mom-&-baby,Aveeno Baby Sensitive All Over Wipes 64wipes,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+922,mom-&-baby,Aveeno Baby Calming Comfort Bath + Lotion Set,SOLD OUT,nan,"৳ 3,500.00",App Price: ৳ 3395.00,
+923,mom-&-baby,Aveeno Baby Sensitive All Over Wipes 64wipes,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+924,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+925,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+926,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+927,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+928,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+929,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+930,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+931,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+932,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+933,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+934,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+935,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+936,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+937,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+938,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+939,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+940,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+941,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+942,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+943,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+944,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+945,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+946,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+947,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+948,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+949,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+950,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+951,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+952,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+953,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+954,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+955,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+956,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+957,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+958,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+959,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+960,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+961,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+962,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+963,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+964,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+965,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+966,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+967,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+968,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+969,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+970,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+971,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+972,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+973,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+974,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+975,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+976,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+977,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+978,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+979,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+980,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+981,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+982,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+983,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+984,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+985,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+986,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+987,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+988,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+989,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+990,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+991,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+992,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+993,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+994,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+995,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+996,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+997,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+998,mom-&-baby,Dove Baby Rich Moisture Nourishing Baby Lotion,SOLD OUT,৳ 750.00,৳ 499.00,App Price: ৳ 484.00,200ml
+999,mom-&-baby,Dove Baby Rich Moisture Nourishing Baby Lotion,SOLD OUT,৳ 750.00,৳ 499.00,App Price: ৳ 484.00,200ml
+1000,mom-&-baby,Pinkfong - Baby Shark Bubble Bath,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,400ml
+1001,mom-&-baby,Dove Baby Moisturizing Cream,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,150ml
+1002,mom-&-baby,Aveeno Baby Continuous Protection,SOLD OUT,nan,"৳ 2,650.00",App Price: ৳ 2571.00,88ml
+1003,mom-&-baby,Dove Sensitive moisture Head to Toe Wash,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+1004,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Toothpaste Free),SOLD OUT,nan,৳ 340.00,,200ml
+1005,mom-&-baby,Kodomo Baby Shampoo Original 0+,SOLD OUT,nan,৳ 827.00,,400ml
+1006,mom-&-baby,Kodomo Baby Powder SUNSHINE KIDS,SOLD OUT,nan,৳ 693.00,,400gm
+1007,mom-&-baby,Johnson & Johnson Baby Lotion,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,500ml
+1008,mom-&-baby,Kodomo Baby Shampoo 3+,SOLD OUT,nan,৳ 320.00,,100ml
+1009,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Toothpaste Free),SOLD OUT,nan,৳ 340.00,,200ml
+1010,mom-&-baby,Pinkfong - Baby Shark Bubble Bath,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,400ml
+1011,mom-&-baby,Kodomo Baby Shampoo Original 0+,SOLD OUT,nan,৳ 827.00,,400ml
+1012,mom-&-baby,Kodomo Baby Powder SUNSHINE KIDS,SOLD OUT,nan,৳ 693.00,,400gm
+1013,mom-&-baby,Dove Sensitive moisture Head to Toe Wash,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+1014,mom-&-baby,Aveeno Baby Continuous Protection,SOLD OUT,nan,"৳ 2,650.00",App Price: ৳ 2571.00,88ml
+1015,mom-&-baby,Dove Baby Moisturizing Cream,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,150ml
+1016,mom-&-baby,Johnson & Johnson Baby Lotion,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,500ml
+1017,mom-&-baby,Kodomo Baby Shampoo 3+,SOLD OUT,nan,৳ 320.00,,100ml
+1018,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+1019,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+1020,mom-&-baby,Buy 1 Himalaya Gentle Baby Shampoo 100ml get 1 Himalaya Moisturising Aloe Vara Face Wash 50ml Free,SOLD OUT,nan,৳ 249.00,,
+1021,mom-&-baby,Mamaearth Milky Soft Diaper Rash Cream for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,50gm
+1022,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+1023,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+1024,mom-&-baby,Buy 1 Himalaya Gentle Baby Shampoo 100ml get 1 Himalaya Moisturising Aloe Vara Face Wash 50ml Free,SOLD OUT,nan,৳ 249.00,,
+1025,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+1026,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+1027,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+1028,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+1029,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+1030,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+1031,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+1032,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+1033,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+1034,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+1035,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+1036,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+1037,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+1038,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+1039,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+1040,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+1041,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+1042,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+1043,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+1044,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+1045,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+1046,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+1047,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+1048,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+1049,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+1050,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+1051,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+1052,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+1053,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+1054,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+1055,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+1056,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+1057,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+1058,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+1059,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+1060,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+1061,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+1062,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+1063,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+1064,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+1065,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+1066,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+1067,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+1068,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+1069,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+1070,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+1071,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+1072,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+1073,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+1074,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+1075,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+1076,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+1077,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+1078,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+1079,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+1080,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+1081,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+1082,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+1083,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+1084,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+1085,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+1086,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+1087,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+1088,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+1089,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+1090,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+1091,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+1092,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+1093,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+1094,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+1095,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+1096,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+1097,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+1098,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+1099,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+1100,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+1101,mom-&-baby,Dove Baby Rich Moisture Nourishing Baby Lotion,SOLD OUT,৳ 750.00,৳ 499.00,App Price: ৳ 484.00,200ml
+1102,mom-&-baby,Dove Baby Rich Moisture Nourishing Baby Lotion,SOLD OUT,৳ 750.00,৳ 499.00,App Price: ৳ 484.00,200ml
+1103,mom-&-baby,Pinkfong - Baby Shark Bubble Bath,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,400ml
+1104,mom-&-baby,Dove Baby Moisturizing Cream,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,150ml
+1105,mom-&-baby,Aveeno Baby Continuous Protection,SOLD OUT,nan,"৳ 2,650.00",App Price: ৳ 2571.00,88ml
+1106,mom-&-baby,Dove Sensitive moisture Head to Toe Wash,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+1107,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Toothpaste Free),SOLD OUT,nan,৳ 340.00,,200ml
+1108,mom-&-baby,Kodomo Baby Shampoo Original 0+,SOLD OUT,nan,৳ 827.00,,400ml
+1109,mom-&-baby,Kodomo Baby Powder SUNSHINE KIDS,SOLD OUT,nan,৳ 693.00,,400gm
+1110,mom-&-baby,Johnson & Johnson Baby Lotion,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,500ml
+1111,mom-&-baby,Kodomo Baby Shampoo 3+,SOLD OUT,nan,৳ 320.00,,100ml
+1112,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Toothpaste Free),SOLD OUT,nan,৳ 340.00,,200ml
+1113,mom-&-baby,Pinkfong - Baby Shark Bubble Bath,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,400ml
+1114,mom-&-baby,Kodomo Baby Shampoo Original 0+,SOLD OUT,nan,৳ 827.00,,400ml
+1115,mom-&-baby,Kodomo Baby Powder SUNSHINE KIDS,SOLD OUT,nan,৳ 693.00,,400gm
+1116,mom-&-baby,Dove Sensitive moisture Head to Toe Wash,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+1117,mom-&-baby,Aveeno Baby Continuous Protection,SOLD OUT,nan,"৳ 2,650.00",App Price: ৳ 2571.00,88ml
+1118,mom-&-baby,Dove Baby Moisturizing Cream,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,150ml
+1119,mom-&-baby,Johnson & Johnson Baby Lotion,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,500ml
+1120,mom-&-baby,Kodomo Baby Shampoo 3+,SOLD OUT,nan,৳ 320.00,,100ml
+1121,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+1122,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+1123,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+1124,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+1125,mom-&-baby,Mamaearth Gentle Cleansing Shampoo for Babies,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,200ml
+1126,mom-&-baby,Mamaearth Fruit Punch Toothpaste for Babies,SOLD OUT,nan,৳ 290.00,App Price: ৳ 281.00,50ml
+1127,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+1128,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+1129,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+1130,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+1131,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+1132,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+1133,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+1134,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+1135,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+1136,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+1137,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+1138,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+1139,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+1140,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+1141,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+1142,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+1143,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+1144,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+1145,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+1146,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+1147,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+1148,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+1149,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+1150,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+1151,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+1152,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+1153,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+1154,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+1155,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+1156,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+1157,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+1158,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+1159,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+1160,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+1161,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+1162,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+1163,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+1164,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+1165,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+1166,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+1167,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+1168,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+1169,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+1170,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+1171,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+1172,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+1173,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+1174,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+1175,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+1176,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+1177,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+1178,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+1179,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+1180,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+1181,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+1182,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+1183,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+1184,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+1185,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+1186,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+1187,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+1188,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+1189,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+1190,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+1191,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+1192,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+1193,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+1194,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+1195,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+1196,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+1197,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+1198,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+1199,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+1200,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+1201,mom-&-baby,Dove Baby Rich Moisture Nourishing Baby Lotion,SOLD OUT,৳ 750.00,৳ 499.00,App Price: ৳ 484.00,200ml
+1202,mom-&-baby,Dove Baby Rich Moisture Nourishing Baby Lotion,SOLD OUT,৳ 750.00,৳ 499.00,App Price: ৳ 484.00,200ml
+1203,mom-&-baby,Pinkfong - Baby Shark Bubble Bath,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,400ml
+1204,mom-&-baby,Dove Baby Moisturizing Cream,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,150ml
+1205,mom-&-baby,Aveeno Baby Continuous Protection,SOLD OUT,nan,"৳ 2,650.00",App Price: ৳ 2571.00,88ml
+1206,mom-&-baby,Dove Sensitive moisture Head to Toe Wash,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+1207,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Toothpaste Free),SOLD OUT,nan,৳ 340.00,,200ml
+1208,mom-&-baby,Kodomo Baby Shampoo Original 0+,SOLD OUT,nan,৳ 827.00,,400ml
+1209,mom-&-baby,Kodomo Baby Powder SUNSHINE KIDS,SOLD OUT,nan,৳ 693.00,,400gm
+1210,mom-&-baby,Johnson & Johnson Baby Lotion,SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,500ml
+1211,mom-&-baby,Kodomo Baby Shampoo 3+,SOLD OUT,nan,৳ 320.00,,100ml
+1212,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+1213,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+1214,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+1215,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+1216,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+1217,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+1218,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+1219,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+1220,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+1221,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+1222,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+1223,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+1224,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+1225,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+1226,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+1227,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+1228,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+1229,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+1230,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+1231,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+1232,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+1233,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+1234,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+1235,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+1236,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+1237,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+1238,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+1239,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+1240,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+1241,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+1242,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+1243,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+1244,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+1245,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+1246,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+1247,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+1248,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+1249,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+1250,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+1251,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+1252,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+1253,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+1254,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+1255,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+1256,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+1257,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+1258,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+1259,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+1260,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+1261,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+1262,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+1263,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+1264,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+1265,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+1266,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+1267,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+1268,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+1269,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+1270,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+1271,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+1272,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+1273,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+1274,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+1275,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+1276,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+1277,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+1278,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+1279,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+1280,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+1281,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+1282,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+1283,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+1284,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+1285,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+1286,mom-&-baby,Dove Baby Rich Moisture Nourishing Baby Lotion,SOLD OUT,৳ 750.00,৳ 499.00,App Price: ৳ 484.00,200ml
+1287,mom-&-baby,Dove Baby Rich Moisture Nourishing Baby Lotion,SOLD OUT,৳ 750.00,৳ 499.00,App Price: ৳ 484.00,200ml
+1288,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+1289,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+1290,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+1291,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+1292,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+1293,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+1294,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+1295,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+1296,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+1297,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+1298,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+1299,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+1300,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+1301,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+1302,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+1303,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+1304,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+1305,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+1306,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+1307,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+1308,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+1309,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+1310,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+1311,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+1312,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+1313,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+1314,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+1315,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+1316,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+1317,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+1318,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+1319,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+1320,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+1321,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+1322,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+1323,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+1324,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+1325,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+1326,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+1327,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+1328,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+1329,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+1330,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+1331,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+1332,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+1333,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+1334,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+1335,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+1336,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+1337,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+1338,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+1339,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+1340,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+1341,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+1342,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+1343,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+1344,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+1345,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+1346,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+1347,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+1348,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+1349,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+1350,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+1351,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+1352,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+1353,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+1354,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+1355,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+1356,mom-&-baby,Eucerin Baby Body Lotion,,nan,"৳ 2,950.00",App Price: ৳ 2862.00,400ml
+1357,mom-&-baby,Clariss Baby Daily Shampoo,,nan,৳ 475.00,App Price: ৳ 461.00,200ml
+1358,mom-&-baby,Boots Baby Bath Bubbles,,nan,"৳ 1,095.00",App Price: ৳ 1062.00,500ml
+1359,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+1360,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+1361,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+1362,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+1363,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+1364,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+1365,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+1366,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+1367,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+1368,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+1369,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+1370,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+1371,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+1372,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+1373,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+1374,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+1375,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+1376,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+1377,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+1378,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+1379,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+1380,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+1381,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+1382,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+1383,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+1384,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+1385,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+1386,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+1387,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+1388,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+1389,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+1390,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+1391,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+1392,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+1393,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+1394,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+1395,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+1396,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+1397,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+1398,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+1399,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+1400,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+1401,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+1402,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+1403,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+1404,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+1405,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+1406,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+1407,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+1408,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+1409,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+1410,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+1411,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+1412,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+1413,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+1414,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+1415,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+1416,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+1417,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+1418,mom-&-baby,Johnson's Baby Milk and Rice  Cream,,nan,৳ 750.00,App Price: ৳ 713.00,100gm
+1419,mom-&-baby,Parachute Just for Baby - Baby Powder (Baby Soap 75g Free),BUY 1 GET 1,nan,৳ 250.00,,200gm
+1420,mom-&-baby,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+1421,mom-&-baby,Johnson's Baby Oil,,nan,৳ 445.00,App Price: ৳ 432.00,200gm
+1422,mom-&-baby,Johnson's Baby Oil with Vitamin E,,nan,৳ 244.00,,100gm
+1423,mom-&-baby,Johnson's Milk+ Rice Cream,,nan,৳ 130.00,,30gm
+1424,mom-&-baby,Savlon Baby wipe 80s,,nan,৳ 230.00,,
+1425,mom-&-baby,Twinkle Baby Wipes Pouch 80 pcs,,nan,৳ 200.00,,
+1426,mom-&-baby,Twinkle Baby Soap,,nan,৳ 85.00,,75gm
+1427,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+1428,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+1429,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+1430,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+1431,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+1432,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+1433,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+1434,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+1435,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+1436,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+1437,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+1438,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+1439,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+1440,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+1441,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+1442,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+1443,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+1444,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+1445,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+1446,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+1447,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+1448,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+1449,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+1450,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+1451,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+1452,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+1453,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+1454,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+1455,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+1456,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+1457,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+1458,mom-&-baby,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+1459,mom-&-baby,Johnson's Baby Lotion 100ml + Johnson's Baby Soap 50 gm,COMBO,nan,৳ 299.00,,
+1460,mom-&-baby,Johnson's Baby TTT Bath 200 ml + Johnson's Baby Oil 100ml,COMBO,nan,৳ 530.00,,
+1461,mom-&-baby,Johnson's Baby Soap 50 gm (Buy 3 Get 1),BUY 1 GET 1,nan,৳ 300.00,,
+1462,mom-&-baby,Meril Baby Top To Toe Wash,,nan,৳ 250.00,,200ml
+1463,mom-&-baby,ASDA Little Angels Bubble Bath & Wash,,nan,৳ 975.00,App Price: ৳ 946.00,500ml
+1464,mom-&-baby,Dr. C. Tuna Baby Soap,,nan,৳ 800.00,,100gm
+1465,mom-&-baby,Parachute Just for Baby - Baby Oil 200ml (Baby Wash 100ml FREE),BUY 1 GET 1,nan,৳ 390.00,,
+1466,mom-&-baby,YC Baby Shampoo,,nan,৳ 275.00,App Price: ৳ 267.00,100ml
+1467,mom-&-baby,Johnson's Bedtime Baby Lotion 500ml,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,500ml
+1468,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+1469,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+1470,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+1471,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+1472,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+1473,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+1474,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+1475,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+1476,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+1477,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+1478,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+1479,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+1480,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+1481,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+1482,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml
+1483,mom-&-baby,Embla Baby Moisture Wash And Shampoo,SALE,"৳ 1,450.00","৳ 1,300.00",App Price: ৳ 1261.00,300ml
+1484,mom-&-baby,ASDA Little Angels Baby Shampoo,SALE,৳ 975.00,৳ 850.00,App Price: ৳ 825.00,500ml
+1485,mom-&-baby,Aveeno Baby Soothing Relief Emollient Cream,SALE,"৳ 2,450.00","৳ 2,250.00",App Price: ৳ 2183.00,200ml
+1486,mom-&-baby,L'Oreal Kids Very Berry Strawberry Shampoo,SALE,৳ 950.00,৳ 650.00,App Price: ৳ 631.00,250ml
+1487,mom-&-baby,Johnson's Baby Hair Oil Enriched with Avacado & Pro Vitamine B5,SALE,৳ 312.00,৳ 250.00,,100ml
+1488,mom-&-baby,Johnson's Baby Top-to-Toe Bath,SALE,৳ 432.00,৳ 360.00,,200ml
+1489,mom-&-baby,Johnson's Baby Skincare Cream,SALE,৳ 317.00,৳ 265.00,,100gm
+1490,mom-&-baby,Johnson's Baby Milk + Rice Bath (Malaysia),SALE,৳ 723.00,৳ 595.00,,500ml
+1491,mom-&-baby,Himalaya Baby Cream,SALE,৳ 225.00,৳ 200.00,,100ml
+1492,mom-&-baby,Bioderma ABCDerm Gel Moussant Mild Cleansing Foaming Body Gel,SALE,"৳ 2,450.00","৳ 2,150.00",,200ml
+1493,mom-&-baby,Dove Baby Shampoo Rich Moisture,SALE,৳ 650.00,৳ 550.00,App Price: ৳ 534.00,
+1494,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 140.00,৳ 112.00,,125gm
+1495,mom-&-baby,Baby Soap - Parachute Just for Baby,SALE,৳ 90.00,৳ 72.00,,75gm
+1496,mom-&-baby,Dove Baby Lotion Sensitive Moisture,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,200ml
+1497,mom-&-baby,Aveeno Baby Daily Care Baby Moisturising Lotion,SALE,"৳ 1,000.00",৳ 900.00,App Price: ৳ 873.00,150ml

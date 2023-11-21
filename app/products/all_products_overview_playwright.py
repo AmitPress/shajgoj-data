@@ -59,4 +59,3 @@ def runner():
                 products.append(product)
             columns = ['category', 'product_title', 'product_ribbon', 'product_prev_price', 'product_curr_price', 'product_app_price', 'product_weight']
             make_df_list(f'{cat}_products', products, columns=columns)
-            break

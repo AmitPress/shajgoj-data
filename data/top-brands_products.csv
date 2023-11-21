@@ -1,22 +1,273 @@
 ,category,product_title,product_ribbon,product_prev_price,product_curr_price,product_app_price,product_weight
-0,top-brands,L'Oreal White Perfect Deep-Cleansing & Brightening With Rice Care,SALE,৳ 950.00,৳ 799.00,App Price: ৳ 775.00,100ml
-1,top-brands,Revlon ColorSilk Beautiful Colo 55 Light Reddish Brown,SALE,৳ 950.00,৳ 799.00, ,
-2,top-brands,"Revlon ColorSilk Beautiful Color, 48 Burgundy",SALE,৳ 950.00,৳ 799.00, ,
-3,top-brands,"Revlon Colorsilk Hair Color,43 Medium Golden Brown",SALE,৳ 950.00,৳ 799.00, ,
-4,top-brands,Revlon Color Silk Beautiful Color Dark Soft Brown 33,SALE,৳ 950.00,৳ 799.00, ,59.1ml
-5,top-brands,Maybelline Fit Me Matte + Poreless Foundation- Ivory 115,SALE,৳ 950.00,৳ 799.00,App Price: ৳ 922.00,30ml
-6,top-brands,Revlon ColorSilk Beautiful 3D Hair Color - 20 Negro Natural (Brown Black),SALE,৳ 950.00,৳ 799.00, ,140ml
-7,top-brands,Maybelline Fit Me Concealer 25 Medium,SALE,৳ 950.00,৳ 799.00,App Price: ৳ 922.00,6.8ml
-8,top-brands,Maybelline Fit Me Matte + Poreless Foundation- Natural Buff 230,SALE,৳ 950.00,৳ 799.00,App Price: ৳ 844.00,30ml
-9,top-brands,Revlon Color Silk Beautiful Color Dark Golden Brown 37,SALE,৳ 950.00,৳ 799.00, ,59.1ml
-10,top-brands,Garnier Micellar Water with Vitamin C,SALE,৳ 950.00,৳ 799.00,App Price: ৳ 529.00,125ml
-11,top-brands,Revlon Colorsilk Beautiful Permanent Hair color 49 Auburn Brown,SALE,৳ 950.00,৳ 799.00, ,
-12,top-brands,Revlon Colorsilk Hair Color Lightest Golden Brown 57,SALE,৳ 950.00,৳ 799.00, ,59.1ml
-13,top-brands,Revlon Colorsilk Hair Color Black 10,SALE,৳ 950.00,৳ 799.00, ,59.1ml
-14,top-brands,The Body Shop Born Lippy Pot Lip Balm - Watermelon,SALE,৳ 950.00,৳ 799.00,App Price: ৳ 437.00,8.9gm
-15,top-brands,Maybelline Fit Me Matte + Poreless Foundation- Warm Nude 128,SALE,৳ 950.00,৳ 799.00,App Price: ৳ 969.00,30ml
-16,top-brands,Maybelline Fit Me Matte + Poreless Foundation- Rich Tan 238,SALE,৳ 950.00,৳ 799.00,App Price: ৳ 844.00,30ml
-17,top-brands,Maybelline Baby Skin Instant Pore Eraser (UK),SALE,৳ 950.00,৳ 799.00,App Price: ৳ 728.00,22ml
-18,top-brands,Maybelline Fit Me Concealer 15 Fair,SALE,৳ 950.00,৳ 799.00,App Price: ৳ 922.00,6.8ml
-19,top-brands,Revlon Colorsilk Beautiful Color 30 Dark Brown,SALE,৳ 950.00,৳ 799.00, ,
-20,top-brands,Revlon Colorsilk Hair Color Deep Burgundy 34,SALE,৳ 950.00,৳ 799.00, ,59.1ml
+0,top-brands,Revlon Colorsilk Beautiful Permanent Hair color 49 Auburn Brown,SALE,৳ 650.00,৳ 550.00,,
+1,top-brands,Garnier Micellar Water with Vitamin C,SALE,৳ 650.00,৳ 545.00,App Price: ৳ 529.00,125ml
+2,top-brands,Revlon Color Silk Beautiful Color Dark Golden Brown 37,SALE,৳ 650.00,৳ 550.00,,59.1ml
+3,top-brands,The Body Shop Born Lippy Pot Lip Balm - Watermelon,SALE,৳ 550.00,৳ 450.00,App Price: ৳ 437.00,8.9gm
+4,top-brands,Revlon Colorsilk Hair Color Black 10,SALE,৳ 650.00,৳ 550.00,,59.1ml
+5,top-brands,Revlon Colorsilk Hair Color Lightest Golden Brown 57,SALE,৳ 650.00,৳ 550.00,,59.1ml
+6,top-brands,L'Oreal White Perfect Deep-Cleansing & Brightening With Rice Care,SALE,৳ 950.00,৳ 799.00,App Price: ৳ 775.00,100ml
+7,top-brands,Revlon ColorSilk Beautiful Colo 55 Light Reddish Brown,SALE,৳ 650.00,৳ 550.00,,
+8,top-brands,"Revlon ColorSilk Beautiful Color, 48 Burgundy",SALE,৳ 650.00,৳ 550.00,,
+9,top-brands,"Revlon Colorsilk Hair Color,43 Medium Golden Brown",SALE,৳ 650.00,৳ 550.00,,
+10,top-brands,Revlon Color Silk Beautiful Color Dark Soft Brown 33,SALE,৳ 650.00,৳ 515.00,,59.1ml
+11,top-brands,Revlon ColorSilk Beautiful 3D Hair Color - 20 Negro Natural (Brown Black),SALE,৳ 650.00,৳ 550.00,,140ml
+12,top-brands,Maybelline Fit Me Matte + Poreless Foundation- Natural Buff 230,SALE,"৳ 1,250.00",৳ 870.00,App Price: ৳ 844.00,30ml
+13,top-brands,Maybelline Fit Me Concealer 25 Medium,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,6.8ml
+14,top-brands,Revlon Colorsilk Hair Color Deep Burgundy 34,SALE,৳ 650.00,৳ 550.00,,59.1ml
+15,top-brands,Revlon Colorsilk Beautiful Color 30 Dark Brown,SALE,৳ 650.00,৳ 515.00,,
+16,top-brands,Revlon Color Silk Hair Color Ultra Light Natural Blonde 04,SALE,৳ 650.00,৳ 550.00,,59.1ml
+17,top-brands,Revlon Colorsilk Hair Color Warm Glden Blonde 75,SALE,৳ 650.00,৳ 550.00,,59.1ml
+18,top-brands,Revlon Colorsilk Hair Color Medium Ash Brown 40,SALE,৳ 650.00,৳ 550.00,,59.1ml
+19,top-brands,Maybelline Fit Me Concealer 15 Fair,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,6.8ml
+20,top-brands,Maybelline Baby Skin Instant Pore Eraser (UK),SALE,"৳ 1,000.00",৳ 750.00,App Price: ৳ 728.00,22ml
+21,top-brands,Maybelline Fit Me Matte + Poreless Foundation- Rich Tan 238,SALE,"৳ 1,250.00",৳ 870.00,App Price: ৳ 844.00,30ml
+22,top-brands,Maybelline Fit Me Matte + Poreless Foundation- Warm Nude 128,SALE,"৳ 1,250.00",৳ 999.00,App Price: ৳ 969.00,30ml
+23,top-brands,Revlon Colorsilk Hair Color Medium Brown,,nan,৳ 525.00,,
+24,top-brands,Revlon Super Lustrous Matte Lipstick Glaring Red,,nan,৳ 900.00,,4.2gm
+25,top-brands,Revlon Ultra HD Matte Lip Color 605 Obsession,,nan,"৳ 1,625.00",,5.9ml
+26,top-brands,Maybelline New York Dream Brightening Creamy Concealer Light 20,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,3gm
+27,top-brands,Revlon Ultra Hd Matte Lip Color Devotion,,nan,"৳ 1,950.00",,5.9gm
+28,top-brands,Revlon Eye & Lip Makeup Remover,,nan,৳ 450.00,,60ml
+29,top-brands,Revlon Super Lustrous Lipstick - Love That Red,,nan,৳ 900.00,,4.2gm
+30,top-brands,Maybelline Fit Me Matte + Poreless Foundation- Nude Beige 125,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+31,top-brands,Revlon Super Lustrous Matte Lipstick Seductive Sienna,,nan,৳ 900.00,,4.2gm
+32,top-brands,Revlon Super Lustrous Matte Lipstick Retro Red,,nan,৳ 900.00,,4.2gm
+33,top-brands,Revlon Colorsilk Hair Color Deep Rich Brown 2WB,,nan,৳ 525.00,,
+34,top-brands,Revlon Super Lustrous Matte Lipstick Peachy Vibes,,nan,৳ 900.00,,4.2gm
+35,top-brands,Revlon Super Lustrous Matte Lipstick Showy Red,,nan,৳ 900.00,,4.2gm
+36,top-brands,Revlon Super Lustrous Matte Lipstick Striking Coral,,nan,৳ 900.00,,4.2gm
+37,top-brands,Revlon Ultra HD Matte Lip Color 640 Embrace,,nan,"৳ 1,625.00",,5.9ml
+38,top-brands,Revlon Nail Enamel Knotty Berry,,nan,৳ 360.00,,8ml
+39,top-brands,Revlon Nail Enamel Revlon Red,,nan,৳ 360.00,,8ml
+40,top-brands,Rimmel Scandaleyes Waterproof Kohl Kajal- 005 Nude,,nan,৳ 650.00,,1.3gm
+41,top-brands,Revlon Ultra Hd Matte Lip Color Romance,,nan,"৳ 1,625.00",,5.9gm
+42,top-brands,Revlon Nearly Naked Pressed Powder Fair,,nan,"৳ 1,250.00",,8gm
+43,top-brands,Revlon Nail Enamel Red Shine,,nan,৳ 360.00,,8ml
+44,top-brands,Revlon Nail Enamel Matte Top Coat,,nan,৳ 360.00,,8ml
+45,top-brands,Revlon Nail Enamel Cherry Berry,,nan,৳ 360.00,,8ml
+46,top-brands,Revlon Nail Enamel Red Spark,,nan,৳ 360.00,,8ml
+47,top-brands,Rimmel Scandaleyes Waterproof Kohl Kajal- 001 Black,,nan,৳ 650.00,App Price: ৳ 631.00,1.3gm
+48,top-brands,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+49,top-brands,Maybelline Fit Me Matte + Poreless Foundation- Natural Beige 220,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+50,top-brands,Revlon ColorStay Foundation For Combination/Oily Skin - Fresh Beige 250,,nan,"৳ 1,625.00",,30ml
+51,top-brands,Revlon Super Lustrous Matte Lipstick Paradise Pink,,nan,৳ 900.00,,4.2gm
+52,top-brands,Revlon Ultra Hd Matte Lip Color Love,,nan,"৳ 1,625.00",,5.9gm
+53,top-brands,Revlon Nail Enamel Silver Jewel,,nan,৳ 360.00,,8ml
+54,top-brands,Revlon Nail Enamel Peacock Blue,,nan,৳ 360.00,,8ml
+55,top-brands,Revlon Super Lustrous Matte Lipstick Vivid Pink,,nan,৳ 900.00,,4.2gm
+56,top-brands,Revlon Nail Enamel Fireball,,nan,৳ 300.00,,8ml
+57,top-brands,Revlon Nail Enamel Teak Rose,,nan,৳ 360.00,,8ml
+58,top-brands,Revlon Nail Enamel Bride's Glee,,nan,৳ 360.00,,8ml
+59,top-brands,Revlon Ultra Hd Matte Lip Color Kisses,,nan,"৳ 1,625.00",,5.9gm
+60,top-brands,L’Oreal Paris Infallible Primer Anti Redness 02,,nan,৳ 950.00,App Price: ৳ 922.00,20ml
+61,top-brands,Revlon Super Lustrous Matte Lipstick Sassy Berry,,nan,৳ 900.00,,4.2gm
+62,top-brands,Revlon Super Lustrous Matte Lipstick Mesmerizing Peach,,nan,৳ 900.00,,4.2gm
+63,top-brands,Revlon Nail Enamel Bride's Glee,,nan,৳ 360.00,,8ml
+64,top-brands,Revlon Hair Color Silk - 11 Negro Suave,SOLD OUT,৳ 650.00,৳ 515.00,,59.1ml
+65,top-brands,"Revlon ColorSilk Hair Color, 42 Medium Auburn",SOLD OUT,৳ 650.00,৳ 550.00,,
+66,top-brands,Revlon Hair Color Silk - 54 Light Golden Brown,SOLD OUT,৳ 650.00,৳ 550.00,,59.1ml
+67,top-brands,Revlon Colorsilk Hair Color Light Brown 51,SOLD OUT,৳ 650.00,৳ 550.00,,59.1ml
+68,top-brands,Maybelline Fit Me Concealer 20 Sand,SOLD OUT,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,6.8ml
+69,top-brands,Revlon ColorSilk Beautiful Permanent Hair Color 46 Medium Golden Chestnut Brown,SOLD OUT,৳ 650.00,৳ 550.00,,
+70,top-brands,Maybelline Fit Me Matte + Poreless Foundation- Ivory 115,SOLD OUT,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,30ml
+71,top-brands,Revlon Flex Body Building Protein Shampoo For Normal to Dry,SOLD OUT,৳ 300.00,৳ 199.00,,200ml
+72,top-brands,Revlon Flex Body Building Protein Shampoo For Dry / Damaged,SOLD OUT,৳ 300.00,৳ 199.00,,200ml
+73,top-brands,Revlon Colorsilk Dark Auburn Hair 31,SOLD OUT,nan,৳ 650.00,,40ml
+74,top-brands,Revlon Super Lustrous Matte Lipstick Daring Plum,SOLD OUT,nan,৳ 900.00,,4.2gm
+75,top-brands,Revlon Ultra Hd Matte Lip Color Addiction,SOLD OUT,nan,"৳ 1,950.00",,5.9gm
+76,top-brands,Maybelline Fit Me Matte + Poreless Foundation- Classic Ivory 120,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+77,top-brands,Revlon Colorsilk Hair Color Dark Mahogany Brown 3RB,SOLD OUT,nan,৳ 525.00,,
+78,top-brands,Revlon Water Tight Mascara Black,SOLD OUT,nan,৳ 670.00,,8ml
+79,top-brands,Revlon Colorsilk Beautiful Color Permanent Hair Dye Vibrant Red 35,SOLD OUT,nan,৳ 650.00,,
+80,top-brands,Revlon Colorstay Gel Envy Long Wear Nail Enamel Blackjack,SOLD OUT,nan,৳ 550.00,,11.7ml
+81,top-brands,Revlon Nail Enamel Marry Me,SOLD OUT,nan,৳ 360.00,,8ml
+82,top-brands,Revlon Colorstay Make Up Warm Golden For Combination/Oily Skin,SOLD OUT,nan,"৳ 1,625.00",,30ml
+83,top-brands,Revlon Hair Color Silk - 53 Light Auburn,SOLD OUT,nan,৳ 650.00,,59.1ml
+84,top-brands,Revlon Colorsilk Hair Color Light Ash Brown 50,SOLD OUT,nan,৳ 650.00,,59.1ml
+85,top-brands,Maybelline Fit Me Matte + Poreless Foundation- Tofee 330,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+86,top-brands,Maybelline Fit Me Matte + Poreless Foundation- Soft Tan 228,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+87,top-brands,Revlon Colorstay Gel Envy Long Wear Nail Enamel Perfect Pair,SOLD OUT,nan,৳ 550.00,,11.7ml
+88,top-brands,Revlon Nail Enamel Choco Celebration,SOLD OUT,nan,৳ 360.00,,8ml
+89,top-brands,Revlon Nail Enamel Copper Penny,SOLD OUT,nan,৳ 360.00,,8ml
+90,top-brands,Revlon Nail Enamel Knock Out,SOLD OUT,nan,৳ 360.00,,8ml
+91,top-brands,Revlon Super Lustrous Lipstick Chocolate Velvet,SOLD OUT,nan,"৳ 1,100.00",,4.2gm
+92,top-brands,Revlon Touch & Glow Moisturising Powder Ivory Matte,SOLD OUT,nan,৳ 780.00,,12gm
+93,top-brands,Revlon Touch & Glow Moisturising Powder Gold Matte,SOLD OUT,nan,৳ 780.00,,12gm
+94,top-brands,Revlon Super Lustrous Matte Lipstick Spirited Plum,SOLD OUT,nan,৳ 900.00,,4.2gm
+95,top-brands,Revlon Colorsilk Beautiful Color Permanent Hair Dye Medium Rich Brown 47,SOLD OUT,nan,৳ 650.00,,
+96,top-brands,Revlon Color Silk Hair Color Medium Brown 41,SOLD OUT,nan,৳ 650.00,,59.1ml
+97,top-brands,Maybelline Fit Me Matte + Poreless Foundation- Pure Beige 235,SOLD OUT,nan,৳ 960.00,App Price: ৳ 931.00,
+98,top-brands,Revlon Flex Body Building Protein Conditioner-Regular,SOLD OUT,nan,৳ 625.00,,592ml
+99,top-brands,Revlon Flex Body Building Protein Shampoo-Oily,SOLD OUT,nan,৳ 625.00,,592ml
+100,top-brands,Revlon Flex Body Building Protein Conditioner Oily,SOLD OUT,nan,৳ 625.00,,592ml
+101,top-brands,Revlon Colorsilk Hair Color Dark Auburn 3R,SOLD OUT,nan,৳ 525.00,,
+102,top-brands,Revlon Touch & Glow Moisturising Powder Natural Matte,SOLD OUT,nan,৳ 780.00,,12gm
+103,top-brands,Revlon Colorstay One Stroke Defining Eyeliner Kajal Blackest Black,SOLD OUT,nan,"৳ 1,100.00",,1.2gm
+104,top-brands,Revlon Beyond Natural Lashes 91305,SOLD OUT,nan,৳ 275.00,,
+105,top-brands,Revlon Colorsilk Hair Color Brown Black 2N,SOLD OUT,nan,৳ 525.00,,
+106,top-brands,Revlon Colorsilk Hair Color Medium Golden Chestnut Brown 4GC,SOLD OUT,nan,৳ 525.00,,40ml
+107,top-brands,Revlon Colorsilk Hair Color Deep Burgundy 3DB,SOLD OUT,nan,৳ 525.00,,
+108,top-brands,Revlon Beyond Natural Lashes 91302,SOLD OUT,nan,৳ 275.00,,
+109,top-brands,REVLON PERFECT HEAT™ FAST AND LIGHT HAIR DRYER,SOLD OUT,nan,"৳ 3,350.00",,
+110,top-brands,Revlon Flex Body Building Protein Conditioner Regular,SOLD OUT,nan,৳ 300.00,,200ml
+111,top-brands,Revlon Super Lustrous Lipstick Bombshell Red,SOLD OUT,nan,"৳ 1,100.00",,4.2gm
+112,top-brands,Revlon Color Burst Matte Lip Balm Fiery,SOLD OUT,nan,"৳ 1,425.00",,2.7gm
+113,top-brands,Revlon Nano Ion + Ceramic Technology Bristles Small Round Porcupine Hair Brush,SOLD OUT,nan,"৳ 1,150.00",,
+114,top-brands,Revlon Colorstay Gel Envy Longwear Nail Enamel Full House,SOLD OUT,nan,৳ 550.00,,11.7ml
+115,top-brands,Revlon Colorstay Gel Envy Longwear Nail Enamel Queen of Hearts,SOLD OUT,nan,৳ 550.00,,11.7ml
+116,top-brands,Revlon Nail Enamel Raven Red,SOLD OUT,nan,৳ 300.00,,8ml
+117,top-brands,Fit Me Matte And Poreless Foundation 120,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,30ml
+118,top-brands,Revlon Charlie Blue EDT,SOLD OUT,nan,৳ 950.00,,100ml
+119,top-brands,Garnier Skin Active Micellar Clear Water,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,125ml
+120,top-brands,Maybelline Fit Me Luminous + Smooth Classic Ivory 120,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+121,top-brands,Revlon Hair Color Silk - 45 Bright Auburn,SOLD OUT,nan,৳ 650.00,,59.1ml
+122,top-brands,Revlon Runway Collection 24 Nails 91027,SOLD OUT,nan,৳ 520.00,,
+123,top-brands,Revlon Runway Collection 24 Nails 91031,SOLD OUT,nan,৳ 520.00,,
+124,top-brands,Revlon Runway Collection 24 Nails 91038,SOLD OUT,nan,৳ 520.00,,
+125,top-brands,Revlon Ultimatte All-In-One Blackest Black,SOLD OUT,nan,"৳ 1,000.00",,8.5ml
+126,top-brands,M.A.C in Extreme Dimension Lash Mascara,SOLD OUT,nan,"৳ 3,200.00",,12gm
+127,top-brands,Revlon Highlighting Palette- Peach Glow,SOLD OUT,nan,"৳ 1,680.00",,7.5gm
+128,top-brands,Bioderma Photoderm MAX Compact Light Tinted SPF 50+,SOLD OUT,nan,"৳ 2,350.00",,10gm
+129,top-brands,Revlon ColorBurst Lipstick - Croquette,SOLD OUT,nan,"৳ 1,132.00",,3gm
+130,top-brands,Revlon Color Burst Lipstick - Sweetheart Valentine,SOLD OUT,nan,"৳ 1,132.00",,3gm
+131,top-brands,Revlon ColorStay Ultimate Suede Lipstick - Muse,SOLD OUT,nan,"৳ 1,300.00",,2.55gm
+132,top-brands,Revlon Ultra HD Lipstick - Poppy,SOLD OUT,nan,৳ 650.00,,3gm
+133,top-brands,Revlon Super Lustrous Lipstick - Kiss Me Coral,SOLD OUT,nan,"৳ 1,131.00",,4.2gm
+134,top-brands,Revlon Super Lustrous Lipstick - Fire & Ice,SOLD OUT,nan,"৳ 1,131.00",,4.2gm
+135,top-brands,Revlon ColorBurst Lip Butter - Candy Apple,SOLD OUT,nan,৳ 950.00,,2.55gm
+136,top-brands,Revlon Ultra HD Lipstick - Marigold,SOLD OUT,nan,৳ 650.00,,3gm
+137,top-brands,Revlon Ultra HD Lipstick- Geranium,SOLD OUT,nan,৳ 650.00,,3gm
+138,top-brands,Revlon ColorStay Whipped Crème Makeup - Natural Beige 240,SOLD OUT,nan,"৳ 1,817.00",,23.7ml
+139,top-brands,Maybelline Fit Me Matte + Poreless Foundation- Buff Beige 130,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+140,top-brands,Revlon ColorStay Whipped Crème Makeup - Warm Golden 320,SOLD OUT,nan,"৳ 1,690.00",,23.7ml
+141,top-brands,Maybelline Fit Me Dewy+Smooth Foundation- Ivory 115,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+142,top-brands,Maybelline Fit Me Dewy+Smooth Foundation- Classic Ivory 120,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+143,top-brands,Maybelline Color Elixir Lip Gloss-Opalescent Orchid,SOLD OUT,nan,"৳ 1,175.00",App Price: ৳ 1140.00,5ml
+144,top-brands,Revlon ColorStay Whipped Crème Makeup -  Buff 150,SOLD OUT,nan,"৳ 1,817.00",,23.7ml
+145,top-brands,Maybelline Fit Me Dewy+Smooth Foundation- Golden Beige 240,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+146,top-brands,M.A.C Amplified Lipstick - Vegas Volt,SOLD OUT,nan,"৳ 2,350.00",,3gm
+147,top-brands,Revlon Colorsilk Hair Color Dark Auburn 3R,SOLD OUT,nan,৳ 525.00,,
+148,top-brands,Revlon Touch & Glow Moisturising Powder Natural Matte,SOLD OUT,nan,৳ 780.00,,12gm
+149,top-brands,Revlon Colorstay One Stroke Defining Eyeliner Kajal Blackest Black,SOLD OUT,nan,"৳ 1,100.00",,1.2gm
+150,top-brands,Revlon Beyond Natural Lashes 91305,SOLD OUT,nan,৳ 275.00,,
+151,top-brands,"Revlon Single Pair Lashes,Lightening (91297)",SOLD OUT,nan,৳ 550.00,,
+152,top-brands,"Revlon beyond natural lashes,flirty,1.2 ounce",SOLD OUT,nan,৳ 650.00,,
+153,top-brands,Revlon beyond naturals lashes multi pack of 4 - most loved lengthening (91290),SOLD OUT,nan,৳ 650.00,,
+154,top-brands,Revlon Nail Enamel Rouge Chrome,SOLD OUT,nan,৳ 300.00,,8ml
+155,top-brands,Revlon Nano Ion + Ceramic Technology Round Wet Detangling Cushion Hair Brush,SOLD OUT,nan,"৳ 1,150.00",,
+156,top-brands,Revlon Colorstay Gel Envy Longwear Nail Enamel Gambling Heart,SOLD OUT,nan,৳ 550.00,,11.7ml
+157,top-brands,Revlon Colorstay Gel Envy Longwear Nail Enamel Get Lucky,SOLD OUT,nan,৳ 550.00,,11.7ml
+158,top-brands,Revlon Colorstay Gel Envy Longwear Nail Enamel Vegas Baby,SOLD OUT,nan,৳ 550.00,,11.7ml
+159,top-brands,Revlon Colorstay Gel Envy Longwear Nail Enamel Royal Flush,SOLD OUT,nan,৳ 550.00,,11.7ml
+160,top-brands,Revlon Dramatic Definition Mascara 201 Blackest Black,SOLD OUT,nan,৳ 680.00,,8.5ml
+161,top-brands,Revlon Dramatic Definition Mascara 251 Blackest Black (Waterproof),SOLD OUT,nan,৳ 680.00,,8.5ml
+162,top-brands,Revlon Ultra Volume Mascara 003 Blackened Brown,SOLD OUT,nan,৳ 680.00,,8.5ml
+163,top-brands,Revlon Runway Collection 24 Nails 91040,SOLD OUT,nan,৳ 520.00,,
+164,top-brands,Maybelline Instant Age Rewind Eraser Dark Circles Treatment Concealer 100 Ivory,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+165,top-brands,Maybelline Instant Age Rewind Eraser Dark Circles Treatment Concealer 122 Sand,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+166,top-brands,Bioderma Photoderm MAX Compact Light Tinted SPF 50+,SOLD OUT,nan,"৳ 2,350.00",,10gm
+167,top-brands,Revlon ColorBurst Lipstick - Croquette,SOLD OUT,nan,"৳ 1,132.00",,3gm
+168,top-brands,Revlon Color Stay Exactify Liquid Liner,SOLD OUT,nan,৳ 650.00,,10ml
+169,top-brands,Revlon 5 Kiss Balms Travel Executive,SOLD OUT,nan,"৳ 1,500.00",,
+170,top-brands,Maybelline Instant Age Rewind Eraser Dark Circles Treatment Concealer 110 Fair,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+171,top-brands,L'Oreal Infallible Pro-Matte 100 Porcelain,SOLD OUT,nan,"৳ 1,450.00",App Price: ৳ 1407.00,9gm
+172,top-brands,Revlon Colorsilk Hair Color Medium Ash Blonde 70,SOLD OUT,nan,৳ 650.00,,59.1ml
+173,top-brands,The Body Shop Born Lippy Pot Lip Balm - Satsuma Shimmer,SOLD OUT,nan,৳ 400.00,App Price: ৳ 388.00,10ml
+174,top-brands,Maybelline Fit Me 104 Light Pink,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,4.5gm
+175,top-brands,Maybelline Fit Me Set+Smooth Pressed Powder - Porcelain 110,SOLD OUT,nan,"৳ 1,050.00",App Price: ৳ 1019.00,8.5gm
+176,top-brands,The Body Shop Tea Tree Flawless BB Cream- 03 Dark,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,40ml
+177,top-brands,Revlon ColorBurst Lipstick - Mischievous,SOLD OUT,nan,"৳ 1,132.00",,3gm
+178,top-brands,Revlon Ultra Hd Lipstick - Poinsettia,SOLD OUT,nan,৳ 650.00,,3gm
+179,top-brands,Revlon Super Lustrous Lipstick - Abstract Orange,SOLD OUT,nan,"৳ 1,131.00",,4.2gm
+180,top-brands,Revlon Super Lustrous Lipstick - Certainly Red,SOLD OUT,nan,"৳ 1,131.00",,4.2gm
+181,top-brands,Revlon Renewist Lipcolor - Heart Warming,SOLD OUT,nan,"৳ 1,130.00",,4.2gm
+182,top-brands,Revlon Super Lustrous Lipstick - Cherries in the Snow,SOLD OUT,nan,"৳ 1,130.00",,4.2gm
+183,top-brands,Maybelline Color Elixir Lip Gloss-Radiant Ruby,SOLD OUT,nan,"৳ 1,175.00",App Price: ৳ 1140.00,5ml
+184,top-brands,Revlon ColorStay Whipped Crème Makeup - Nude 220,SOLD OUT,nan,"৳ 1,817.00",,23.7ml
+185,top-brands,Maybelline Fit Me Dewy+Smooth Foundation- Nude Beige 125,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+186,top-brands,Maybelline Age Rewind Concealer 110 Fair,SOLD OUT,nan,"৳ 1,215.00",App Price: ৳ 1179.00,6ml
+187,top-brands,Maybelline Fit Me Matte + Poreless Foundation- True Beige 222,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+188,top-brands,M.A.C Amplified Lipstick - Fusion Pink,SOLD OUT,nan,"৳ 2,350.00",,3gm
+189,top-brands,Maybelline Fit Me Matte + Poreless Foundation- Sun Beige 310,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+190,top-brands,Revlon renewist lipstick- Naturally Revealing,SOLD OUT,nan,"৳ 1,130.00",,3gm
+191,top-brands,Revlon Brow Fantasy - Light Brown,SOLD OUT,nan,"৳ 1,145.00",,1.18ml
+192,top-brands,Maybelline Fit Me Set+Smooth Pressed Powder - Classic Ivory 120,SOLD OUT,nan,"৳ 1,050.00",App Price: ৳ 1019.00,8.5gm
+193,top-brands,Revlon Nail Enamel Illusion,SOLD OUT,nan,৳ 360.00,,8ml
+194,top-brands,Revlon Nail Enamel Charmed,SOLD OUT,nan,৳ 360.00,,8ml
+195,top-brands,Revlon Ultra Hd Matte Lip Color Passion,SOLD OUT,nan,"৳ 1,625.00",,5.9gm
+196,top-brands,Revlon Powder Blush Oh Baby! Pink,SOLD OUT,nan,"৳ 1,050.00",,5gm
+197,top-brands,Revlon Colorsilk Hair Color Black 1N,SOLD OUT,nan,৳ 525.00,,
+198,top-brands,Revlon Colorsilk Hair Color Dark Brown 3N,SOLD OUT,nan,৳ 525.00,,
+199,top-brands,Revlon Colorsilk Hair Color Light Golden Brown 5G,SOLD OUT,nan,৳ 525.00,,
+200,top-brands,Revlon Colorsilk Hair Color Soft Black 1WN,SOLD OUT,nan,৳ 525.00,,40ml
+201,top-brands,Revlon Colorstay One Stroke Defining Eyeliner Kajal Smoke,SOLD OUT,nan,৳ 900.00,,1.2gm
+202,top-brands,Revlon Single Pair Lashes Thickening Chic 91204,SOLD OUT,nan,৳ 275.00,,
+203,top-brands,Revlon Isaac Mizrahi Extra Curl Lash Curler 80685,SOLD OUT,nan,৳ 375.00,,
+204,top-brands,Revlon Beyond Natural Lashes 91297,SOLD OUT,nan,৳ 275.00,,
+205,top-brands,Garnier Skin Active Vitamin C Brightening Serum,SOLD OUT,nan,"৳ 1,650.00",App Price: ৳ 1601.00,30ml
+206,top-brands,REVLON PERFECT HEAT™ SMOOTH BRILLIANCE™ HAIR DRYER,SOLD OUT,nan,"৳ 3,350.00",,
+207,top-brands,Revlon Nano Ion + Ceramic Technology Round Bristles Tunnel Vent Hair Brush,SOLD OUT,nan,"৳ 1,150.00",,
+208,top-brands,Revlon Perfect Straight Digital Straightener,SOLD OUT,nan,"৳ 3,500.00",,
+209,top-brands,Maybelline Lash Sensational Volume Effect Mascara Black,SOLD OUT,nan,৳ 850.00,App Price: ৳ 825.00,9.5ml
+210,top-brands,Revlon Perfect Style Maximum Shine Large Round Brush,SOLD OUT,nan,৳ 950.00,,
+211,top-brands,Revlon Detangle & Smooth Black Cushion Hair Brush Red,SOLD OUT,nan,৳ 950.00,,
+212,top-brands,Revlon Perfect Style Maximum Shine Porcupine Round Brush Black,SOLD OUT,nan,৳ 950.00,,
+213,top-brands,Revlon Charlie Blue EDT,SOLD OUT,nan,৳ 950.00,,100ml
+214,top-brands,Garnier Skin Active Micellar Clear Water,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,125ml
+215,top-brands,REVLON PERFECT HEAT™ FAST AND LIGHT HAIR DRYER,SOLD OUT,nan,"৳ 3,350.00",,
+216,top-brands,Maybelline Fit Me Luminous + Smooth Classic Ivory 120,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+217,top-brands,Revlon Runway Collection 24 Nails 91027,SOLD OUT,nan,৳ 520.00,,
+218,top-brands,Revlon Runway Collection 24 Nails 91031,SOLD OUT,nan,৳ 520.00,,
+219,top-brands,Revlon Runway Collection 24 Nails 91038,SOLD OUT,nan,৳ 520.00,,
+220,top-brands,Revlon Hair Color Silk - 45 Bright Auburn,SOLD OUT,nan,৳ 650.00,,59.1ml
+221,top-brands,Revlon Ultimatte All-In-One Blackest Black,SOLD OUT,nan,"৳ 1,000.00",,8.5ml
+222,top-brands,Revlon ColorBurst Lipstick - Tease seductrice,SOLD OUT,nan,"৳ 1,132.00",,3gm
+223,top-brands,Revlon ColorStay Ultimate Suede Lipstick - Flashing Lights,SOLD OUT,nan,"৳ 1,300.00",,2.55gm
+224,top-brands,Revlon Colorburst Lip Butter - Sorbet,SOLD OUT,nan,৳ 950.00,,2.55gm
+225,top-brands,Revlon Colorburst Lip Butter - Lollipop,SOLD OUT,nan,৳ 950.00,,2.5gm
+226,top-brands,Revlon Super Lustrous Lipstick - Ravish Me Red,SOLD OUT,nan,"৳ 1,131.00",,4.2gm
+227,top-brands,Revlon Super Lustrous Lipstick - Soft Silver Rose,SOLD OUT,nan,"৳ 1,131.00",,4.2gm
+228,top-brands,Revlon Ultra HD Lipstick- Gladiolus,SOLD OUT,nan,৳ 650.00,,3gm
+229,top-brands,M.A.C Studio Fix Fluid SPF 15 Foundation- NC 15,SOLD OUT,nan,"৳ 3,950.00",,30ml
+230,top-brands,M.A.C Studio Fix Fluid SPF 15 Foundation- NC 20,SOLD OUT,nan,"৳ 3,950.00",,30ml
+231,top-brands,L'Oreal Infallible Pro-Matte 100 Porcelain,SOLD OUT,nan,"৳ 1,450.00",App Price: ৳ 1407.00,9gm
+232,top-brands,Maybelline Fit Me Dewy+Smooth Foundation - 228 Soft Tan,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+233,top-brands,Maybelline Fit Me Dewy+Smooth Foundation - 230 Natural Buff,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+234,top-brands,Revlon Ultra Volume Mascara 001 Blackest Black,SOLD OUT,nan,৳ 680.00,,8.5ml
+235,top-brands,Revlon Mega Volume And Length Free Color Stay Eye Liner,SOLD OUT,nan,"৳ 1,450.00",,
+236,top-brands,Revlon Color Stay Exactify Liquid Liner,SOLD OUT,nan,৳ 650.00,,10ml
+237,top-brands,Revlon 5 Kiss Balms Travel Executive,SOLD OUT,nan,"৳ 1,500.00",,
+238,top-brands,The Body Shop Born Lippy Pot Lip Balm - Satsuma Shimmer,SOLD OUT,nan,৳ 400.00,App Price: ৳ 388.00,10ml
+239,top-brands,Revlon Colorsilk Hair Color Dark Auburn 3R,SOLD OUT,nan,৳ 525.00,,
+240,top-brands,Revlon Touch & Glow Moisturising Powder Natural Matte,SOLD OUT,nan,৳ 780.00,,12gm
+241,top-brands,Revlon Colorstay One Stroke Defining Eyeliner Kajal Blackest Black,SOLD OUT,nan,"৳ 1,100.00",,1.2gm
+242,top-brands,Revlon Beyond Natural Lashes 91305,SOLD OUT,nan,৳ 275.00,,
+243,top-brands,REVLON PERFECT HEAT™ FAST AND LIGHT HAIR DRYER,SOLD OUT,nan,"৳ 3,350.00",,
+244,top-brands,Revlon Charlie Blue EDT,SOLD OUT,nan,৳ 950.00,,100ml
+245,top-brands,Garnier Skin Active Micellar Clear Water,SOLD OUT,nan,৳ 450.00,App Price: ৳ 437.00,125ml
+246,top-brands,Maybelline Fit Me Luminous + Smooth Classic Ivory 120,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+247,top-brands,Revlon Hair Color Silk - 45 Bright Auburn,SOLD OUT,nan,৳ 650.00,,59.1ml
+248,top-brands,Revlon Runway Collection 24 Nails 91027,SOLD OUT,nan,৳ 520.00,,
+249,top-brands,Revlon Runway Collection 24 Nails 91031,SOLD OUT,nan,৳ 520.00,,
+250,top-brands,Revlon Runway Collection 24 Nails 91038,SOLD OUT,nan,৳ 520.00,,
+251,top-brands,Revlon Ultimatte All-In-One Blackest Black,SOLD OUT,nan,"৳ 1,000.00",,8.5ml
+252,top-brands,Bioderma Photoderm MAX Compact Light Tinted SPF 50+,SOLD OUT,nan,"৳ 2,350.00",,10gm
+253,top-brands,Revlon ColorBurst Lipstick - Croquette,SOLD OUT,nan,"৳ 1,132.00",,3gm
+254,top-brands,Revlon Colorsilk Hair Color Dark Auburn 3R,SOLD OUT,nan,৳ 525.00,,
+255,top-brands,Revlon Touch & Glow Moisturising Powder Natural Matte,SOLD OUT,nan,৳ 780.00,,12gm
+256,top-brands,Revlon Colorstay One Stroke Defining Eyeliner Kajal Blackest Black,SOLD OUT,nan,"৳ 1,100.00",,1.2gm
+257,top-brands,Revlon Beyond Natural Lashes 91305,SOLD OUT,nan,৳ 275.00,,
+258,top-brands,Bioderma Photoderm MAX Compact Light Tinted SPF 50+,SOLD OUT,nan,"৳ 2,350.00",,10gm
+259,top-brands,Revlon ColorBurst Lipstick - Croquette,SOLD OUT,nan,"৳ 1,132.00",,3gm
+260,top-brands,Revlon Colorsilk Hair Color Dark Auburn 3R,SOLD OUT,nan,৳ 525.00,,
+261,top-brands,Revlon Touch & Glow Moisturising Powder Natural Matte,SOLD OUT,nan,৳ 780.00,,12gm
+262,top-brands,Revlon Colorstay One Stroke Defining Eyeliner Kajal Blackest Black,SOLD OUT,nan,"৳ 1,100.00",,1.2gm
+263,top-brands,Revlon Beyond Natural Lashes 91305,SOLD OUT,nan,৳ 275.00,,
+264,top-brands,Bioderma Photoderm MAX Compact Light Tinted SPF 50+,SOLD OUT,nan,"৳ 2,350.00",,10gm
+265,top-brands,Revlon ColorBurst Lipstick - Croquette,SOLD OUT,nan,"৳ 1,132.00",,3gm
+266,top-brands,Revlon Colorsilk Hair Color Dark Auburn 3R,SOLD OUT,nan,৳ 525.00,,
+267,top-brands,Revlon Touch & Glow Moisturising Powder Natural Matte,SOLD OUT,nan,৳ 780.00,,12gm
+268,top-brands,Revlon Colorstay One Stroke Defining Eyeliner Kajal Blackest Black,SOLD OUT,nan,"৳ 1,100.00",,1.2gm
+269,top-brands,Revlon Beyond Natural Lashes 91305,SOLD OUT,nan,৳ 275.00,,
+270,top-brands,Bioderma Photoderm MAX Compact Light Tinted SPF 50+,SOLD OUT,nan,"৳ 2,350.00",,10gm
+271,top-brands,Revlon ColorBurst Lipstick - Croquette,SOLD OUT,nan,"৳ 1,132.00",,3gm

@@ -1,22 +1,1326 @@
 ,category,product_title,product_ribbon,product_prev_price,product_curr_price,product_app_price,product_weight
-0,face,Garnier Skin Active Micellar Cleansing Water,SALE,৳ 550.00,৳ 449.00, ,100ml
-1,face,Groome Personal Care Cotton Pad - 80pcs,FREE DELIVERY,৳ 550.00,৳ 449.00,App Price: ৳ 207.00,
-2,face,Rajkonna All Purpose Toner,FREE DELIVERY**,৳ 550.00,৳ 449.00,App Price: ৳ 203.00,120ml
-3,face,Ponds perfect radiance bb translucent powder,SALE,৳ 550.00,৳ 449.00, ,50gm
-4,face,Skin Cafe Makeup Cleansing Oil Advanced,FREE DELIVERY**,৳ 550.00,৳ 449.00,App Price: ৳ 469.00,120ml
-5,face,Skin Cafe Floral Hydrating Toner,FREE DELIVERY**,৳ 550.00,৳ 449.00,App Price: ৳ 247.00,110ml
-6,face,w7 Banana Dreams Loose Powder,SALE,৳ 550.00,৳ 449.00, ,20gm
-7,face,Professional Personal Cotton Pads 100pcs,SALE,৳ 550.00,৳ 449.00,App Price: ৳ 207.00,
-8,face,Nirvana Color Mattifying and Poreless Pressed Powder (Light Beige),FREE DELIVERY**,৳ 550.00,৳ 449.00,App Price: ৳ 501.00,15gm
-9,face,W7 The Matte Fixer Setting Spray,SALE,৳ 550.00,৳ 449.00,App Price: ৳ 518.00,60ml
-10,face,Ponds Face Powder Angle Face Pinkish White Glow,SALE,৳ 550.00,৳ 449.00, ,50gm
-11,face,White Tone Face Powder,SALE,৳ 550.00,৳ 449.00, ,30gm
-12,face,Nirvana Color Smart Coverage Bb Cream With Spf 15 - Light,FREE DELIVERY**,৳ 550.00,৳ 449.00,App Price: ৳ 389.00,30ml
-13,face,Skin Cafe Micellar Water,FREE DELIVERY**,৳ 550.00,৳ 449.00,App Price: ৳ 293.00,120ml
-14,face,Nirvana Color Mattifying and Poreless Pressed Powder (Light Natural),FREE DELIVERY**,৳ 550.00,৳ 449.00,App Price: ৳ 501.00,15gm
-15,face,Lucy Oliva Olive Oil,SALE,৳ 550.00,৳ 449.00, ,100ml
-16,face,Maybelline Super Stay Active Wear 30h Foundation 05 Light Beige 30ml,SALE,৳ 550.00,৳ 449.00,App Price: ৳ 1093.00,30ml
-17,face,Maybelline New York Fit Me Matte+Poreless Liquid Foundation Tube - 115 Ivory,SALE,৳ 550.00,৳ 449.00,App Price: ৳ 771.00,18ml
-18,face,Hawaa Olive Oil,SALE,৳ 550.00,৳ 449.00,App Price: ৳ 185.00,100ml
-19,face,Kissera Luxury Collagen BB Cream,SALE,৳ 550.00,৳ 449.00,App Price: ৳ 1310.00,50ml
-20,face,L'Oreal White Perfect Deep-Cleansing & Brightening With Rice Care,SALE,৳ 550.00,৳ 449.00,App Price: ৳ 775.00,100ml
+0,face,Garnier Skin Active Micellar Cleansing Water,SALE,৳ 550.00,৳ 449.00,,100ml
+1,face,Ponds perfect radiance bb translucent powder,SALE,৳ 350.00,৳ 300.00,,50gm
+2,face,Groome Personal Care Cotton Pad - 80pcs,FREE DELIVERY,৳ 245.00,৳ 213.00,App Price: ৳ 207.00,
+3,face,Rajkonna All Purpose Toner,FREE DELIVERY**,৳ 240.00,৳ 214.00,App Price: ৳ 203.00,120ml
+4,face,Professional Personal Cotton Pads 100pcs,SALE,৳ 250.00,৳ 218.00,App Price: ৳ 211.00,
+5,face,w7 Banana Dreams Loose Powder,SALE,৳ 650.00,৳ 449.00,,20gm
+6,face,Skin Cafe Floral Hydrating Toner,FREE DELIVERY**,৳ 295.00,৳ 259.60,App Price: ৳ 252.00,110ml
+7,face,Skin Cafe Makeup Cleansing Oil Advanced,FREE DELIVERY**,৳ 550.00,৳ 484.00,App Price: ৳ 469.00,120ml
+8,face,Nirvana Color Mattifying and Poreless Pressed Powder (Light Beige),SALE,৳ 580.00,৳ 517.00,App Price: ৳ 501.00,15gm
+9,face,Lucy Oliva Olive Oil,SALE,৳ 250.00,৳ 220.00,,100ml
+10,face,Lucy Oliva Olive Oil,SALE,৳ 380.00,৳ 330.00,,150ml
+11,face,Nirvana Color Mattifying and Poreless Pressed Powder (Light Natural),SALE,৳ 580.00,৳ 517.00,App Price: ৳ 501.00,15gm
+12,face,Skin Cafe Micellar Water,FREE DELIVERY**,৳ 350.00,৳ 308.00,App Price: ৳ 299.00,120ml
+13,face,Nirvana Color Smart Coverage Bb Cream With Spf 15 - Light,SALE,৳ 450.00,৳ 401.00,App Price: ৳ 389.00,30ml
+14,face,Ponds Face Powder Angle Face Pinkish White Glow,SALE,৳ 350.00,৳ 340.00,,50gm
+15,face,W7 The Matte Fixer Setting Spray,SALE,৳ 620.00,৳ 545.00,App Price: ৳ 529.00,60ml
+16,face,White Tone Face Powder,SALE,৳ 160.00,৳ 129.00,,30gm
+17,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+18,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+19,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+20,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+21,face,Focallure Matchmax Baking & Setting Loose Powder 04 Warm Beige (Fa154),SALE,৳ 650.00,৳ 585.00,App Price: ৳ 556.00,15gm
+22,face,Focallure Makeup Setting Spray (Fa96),SALE,৳ 900.00,৳ 800.00,,100ml
+23,face,Focallure Flawless Longwear Foundation 202 Natural Beige (Fa256),SALE,৳ 700.00,৳ 625.00,App Price: ৳ 606.00,20gm
+24,face,Focallure Flawless Long Lasting Setting spray (Fa352),SALE,৳ 720.00,৳ 650.00,App Price: ৳ 631.00,65ml
+25,face,Focallure Face Highlighter & Contour 01 Sliver (Fa01),SALE,৳ 350.00,৳ 315.00,App Price: ৳ 306.00,6gm
+26,face,Absolute New York HD Flawless Fluid Foundation Tan AHDF04,SALE,"৳ 1,250.00","৳ 1,025.00",App Price: ৳ 994.00,28ml
+27,face,Absolute New York HD Powder Foundation–Pearl–HDPF02,SALE,"৳ 1,250.00","৳ 1,025.00",App Price: ৳ 994.00,8gm
+28,face,Absolute New York HD Flawless Foundation Sand AHDF02,SALE,"৳ 1,250.00","৳ 1,025.00",App Price: ৳ 994.00,28ml
+29,face,Garnier Micellar Water with Vitamin C,SALE,৳ 650.00,৳ 545.00,App Price: ৳ 529.00,125ml
+30,face,LMLTOP Cotton Pads,SALE,৳ 375.00,৳ 325.00,App Price: ৳ 315.00,
+31,face,Maybelline New York Fit Me Matte+Poreless Liquid Foundation Tube - 220 Natural Beige,SALE,৳ 950.00,৳ 795.00,App Price: ৳ 771.00,18ml
+32,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+33,face,Absolute New York HD Flawless Foundation-Beige AHDF03,SALE,"৳ 1,250.00","৳ 1,025.00",App Price: ৳ 994.00,28ml
+34,face,Absolute New York HD Flawless Powder Foundation-Porcelain HDPF01,SALE,"৳ 1,250.00","৳ 1,025.00",App Price: ৳ 994.00,8gm
+35,face,Maybelline Fit me Liquid Foundation 310 Sun Beige,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,18ml
+36,face,Alix Avien Liquid Concealer 02,SALE,৳ 900.00,৳ 675.00,,3.5ml
+37,face,Alix Avien Luminous Face Primer,SALE,"৳ 1,500.00","৳ 1,125.00",,45ml
+38,face,Ambassador Olive Oil,SALE,৳ 400.00,৳ 350.00,,150ml
+39,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+40,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+41,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+42,face,Maybelline Fit me Liquid Foundation 230 Natural Buff,SALE,৳ 950.00,৳ 795.00,App Price: ৳ 771.00,18ml
+43,face,Bioderma Sensibio H2O,SALE,"৳ 2,450.00","৳ 2,350.00",,500ml
+44,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+45,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+46,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+47,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+48,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+49,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+50,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+51,face,Nirvana Color Face Perfect Pro Primer,SALE,৳ 550.00,৳ 490.00,App Price: ৳ 475.00,20ml
+52,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+53,face,Cerave Hydrating Micellar Water,SALE,"৳ 2,950.00","৳ 2,250.00",App Price: ৳ 2183.00,296ml
+54,face,Maybelline Fit Me Matte +Poreless Liquid Foundation - 126,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,30ml
+55,face,Maybelline Fit Me Matte +Poreless Liquid Foundation - 127,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,30ml
+56,face,Maybelline Super Stay Active Wear 30h Foundation 30 Sand 30ml,SALE,"৳ 1,400.00","৳ 1,150.00",App Price: ৳ 1116.00,30ml
+57,face,Maybelline Super Stay Active Wear 30h Foundation 10 Ivory 30ml,SALE,"৳ 1,400.00","৳ 1,150.00",App Price: ৳ 1116.00,30ml
+58,face,Focallure Blurmax Oil Control Gel Primer (Fa138),SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,25gm
+59,face,Absolute New York HD Flawless Fluid Foundation-Caramel AHDF06,SALE,"৳ 1,250.00","৳ 1,000.00",App Price: ৳ 970.00,28ml
+60,face,Focallure Staymax Pore Blurring Matte Flowless Foundation 04 Beige (Fa150),SALE,৳ 460.00,৳ 415.00,App Price: ৳ 394.00,30gm
+61,face,Focallure Staymax Pore Blurring Matte Flowless Foundation 01 Pearl (Fa150),SALE,৳ 460.00,৳ 415.00,App Price: ৳ 403.00,30gm
+62,face,Focallure Matchmax Baking & Setting Loose Powder 02 Ivory (Fa154),SALE,৳ 650.00,৳ 585.00,App Price: ৳ 567.00,15gm
+63,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+64,face,Pond's White Beauty InstaBright Tone Up Milk Powder,SALE,৳ 350.00,৳ 299.00,App Price: ৳ 290.00,40gm
+65,face,Absolute New York Click Cover Concealer Light Neutral MFCC01,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,
+66,face,Alix Avien Anti Aging Foundation 502,SALE,"৳ 2,200.00","৳ 1,650.00",,11gm
+67,face,Boots Sakura Bright Micellar Water,SALE,৳ 850.00,৳ 750.00,App Price: ৳ 728.00,100ml
+68,face,W7 HD Concealer - Light Cool LC3,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+69,face,Absolute New York HD Flawless Foundation-Honey AHDF05,SALE,"৳ 1,250.00","৳ 1,025.00",App Price: ৳ 994.00,28ml
+70,face,Absolute New York Spritz 2 Fix Makeup Setting Spray-Dewy FXS01,SALE,৳ 950.00,৳ 810.00,App Price: ৳ 786.00,60ml
+71,face,Miss & Mrs Nina 3 Colors Highlighter -2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,6.9gm
+72,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+73,face,Absolute New York Click Cover Concealer MFCC 10- DEEP WARM UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+74,face,Absolute New York Click Cover Concealer MFCC 05- MEDIUM NEUTRAL,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+75,face,Absolute New York Flawless Face Foundation Primer Clear NF080,SALE,৳ 950.00,৳ 810.00,App Price: ৳ 786.00,20ml
+76,face,Ambassador Olive Oil,SALE,৳ 670.00,৳ 590.00,,300ml
+77,face,Ambassador Olive Oil,SALE,৳ 560.00,৳ 490.00,,250ml
+78,face,Maybelline Fit Me Matte + Poreless Foundation  Light Beige 118,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,30ml
+79,face,White Tone Face Powder,SALE,৳ 315.00,৳ 255.00,,70gm
+80,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads (50 Pcs),SALE,৳ 350.00,৳ 225.00,App Price: ৳ 218.00,
+81,face,Maybelline Baby Skin Instant Pore Eraser (UK),SALE,"৳ 1,000.00",৳ 750.00,App Price: ৳ 728.00,22ml
+82,face,PRESTIGE Athena Beaute Cotton Wool Pleat,SALE,৳ 350.00,৳ 290.00,App Price: ৳ 281.00,
+83,face,TECHNIC PRIMER SPRAY,SALE,৳ 550.00,৳ 350.00,App Price: ৳ 340.00,31ml
+84,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+85,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+86,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+87,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+88,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+89,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+90,face,Maybelline Super Stay Active Wear 30h Foundation 05 Light Beige 30ml,SALE,"৳ 1,400.00","৳ 1,150.00",App Price: ৳ 1116.00,30ml
+91,face,Maybelline New York Fit Me Matte+Poreless Liquid Foundation Tube - 115 Ivory,SALE,৳ 950.00,৳ 795.00,App Price: ৳ 771.00,18ml
+92,face,Focallure Staymax Pore Blurring Matte Flowless Foundation 03 Cream (Fa150),SALE,৳ 460.00,৳ 415.00,App Price: ৳ 403.00,30gm
+93,face,Focallure Matchmax Baking & Setting Loose Powder 03 Natrual Beige (Fa154),SALE,৳ 650.00,৳ 585.00,App Price: ৳ 567.00,15gm
+94,face,Focallure Matchmax Baking & Setting Loose Powder 01 Clear (Fa154),SALE,৳ 650.00,৳ 585.00,App Price: ৳ 567.00,15gm
+95,face,Focallure Hangover Red Wine Blusher B01 Tequila (Fa89),SALE,৳ 460.00,৳ 415.00,App Price: ৳ 403.00,5gm
+96,face,Focallure Full Coverage Liquid Concealer 04 Medium (Fa52),SALE,৳ 400.00,৳ 360.00,App Price: ৳ 349.00,2.9gm
+97,face,Focallure Full Coverage Liquid Concealer 01 Natural (Fa52),SALE,৳ 400.00,৳ 360.00,App Price: ৳ 349.00,2.9gm
+98,face,Focallure Face Highlighter & Contour 02 Golden (Fa01),SALE,৳ 350.00,৳ 315.00,App Price: ৳ 306.00,6gm
+99,face,Focallure All In One Concealer Palette (Fa299),SALE,৳ 600.00,৳ 540.00,App Price: ৳ 513.00,1.3gm
+100,face,Absolute New York Prolong Setting Spray,SALE,"৳ 1,170.00",৳ 995.00,App Price: ৳ 945.00,50ml
+101,face,Absolute New York HD Powder Foundation–Pearl–HDPF04,SALE,"৳ 1,250.00","৳ 1,025.00",App Price: ৳ 994.00,8gm
+102,face,L'Oreal White Perfect Deep-Cleansing & Brightening With Rice Care,SALE,৳ 950.00,৳ 799.00,App Price: ৳ 775.00,100ml
+103,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+104,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+105,face,Nirvana Color Face Perfect Liquid Foundation - Light Golden F03,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+106,face,Nirvana Color Face Perfect Liquid Foundation - Light Honey F04,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+107,face,Absolute New York Hydrate Me Face Primer MFFP01,SALE,"৳ 1,250.00","৳ 1,025.00",App Price: ৳ 994.00,30ml
+108,face,Bioderma Pigmentbio H2O Cleanser,SALE,"৳ 2,250.00","৳ 2,050.00",App Price: ৳ 1989.00,250ml
+109,face,Absolute New York HD Flawless Powder Foundation Bisque HDPF03,SALE,"৳ 1,250.00","৳ 1,025.00",App Price: ৳ 994.00,8gm
+110,face,Thank You Farmer Be Beautiful Luminous CC Cream SPF30 PA++,SALE,"৳ 1,800.00","৳ 1,550.00",App Price: ৳ 1504.00,40ml
+111,face,Pond's Angel Face Natural Mattifying Face Powder,SALE,৳ 350.00,৳ 299.00,App Price: ৳ 290.00,50gm
+112,face,Nirvana Color Mattifying and Poreless Pressed Powder (Light Golden),SALE,৳ 580.00,৳ 517.00,App Price: ৳ 501.00,15gm
+113,face,The Ordinary High-Adherence Silicone Primer,SALE,"৳ 1,450.00","৳ 1,350.00",App Price: ৳ 1310.00,30ml
+114,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+115,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+116,face,W7 HD Concealer - Light Neutral LN4,SALE,৳ 450.00,৳ 345.00,App Price: ৳ 335.00,14ml
+117,face,Lavino Pure Olive Oil,SALE,৳ 220.00,৳ 196.00,App Price: ৳ 186.00,100ml
+118,face,Absolute New York HD Flawless Foundation-Caramel AHDF06,SALE,"৳ 1,250.00","৳ 1,025.00",App Price: ৳ 994.00,28ml
+119,face,Absolute New York HD Flawless Foundation-Natural AHDF01,SALE,"৳ 1,250.00","৳ 1,025.00",App Price: ৳ 994.00,28ml
+120,face,Absolute New York HD Flawless Setting Powder Correction-Brightening Banana HDSP02,SALE,"৳ 1,250.00","৳ 1,025.00",App Price: ৳ 994.00,15gm
+121,face,Technic Colour Correcting Setting Powder 20g,SALE,৳ 480.00,৳ 345.00,App Price: ৳ 335.00,20gm
+122,face,Simply Cotton Oval Cosmetic Pads (50's),SALE,৳ 350.00,৳ 295.00,App Price: ৳ 286.00,
+123,face,White Tone Face Powder,SALE,৳ 240.00,৳ 194.00,,50gm
+124,face,Maybelline Fit Me Concealer 25 Medium,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,6.8ml
+125,face,Lakme 9To5 Complexion Care Face Cream-Bronze,SALE,৳ 850.00,৳ 725.00,App Price: ৳ 703.00,30gm
+126,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+127,face,Freshh | Natural Makeup Remover,SALE,৳ 950.00,৳ 850.00,App Price: ৳ 825.00,15ml
+128,face,Maybelline Fit Me Matte +Poreless Liquid Foundation - 137,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,30ml
+129,face,Technic Pro Finish Matte Fix Foundation Beige,SALE,৳ 650.00,৳ 450.00,App Price: ৳ 437.00,30ml
+130,face,Alix Avien Highlighter Pink,SALE,"৳ 1,700.00","৳ 1,275.00",,12gm
+131,face,Alix Avien CC Cream For Sensitive Skin,SALE,"৳ 1,350.00","৳ 1,015.00",,40ml
+132,face,Thank You Farmer Be Beautiful Natural BB Cream SPF30 PA++,SALE,"৳ 2,100.00","৳ 1,749.00",App Price: ৳ 1697.00,40ml
+133,face,Pretty Cosmetic Pads-80 Pcs,SALE,৳ 280.00,৳ 225.00,App Price: ৳ 218.00,
+134,face,Clinique Take The Day Off Make Up Remover,SALE,"৳ 3,500.00","৳ 2,529.00",,125ml
+135,face,Alix Avien Anti Aging Foundation 503,SALE,"৳ 2,200.00","৳ 1,650.00",,11gm
+136,face,Alix Avien Matte Foundation 102,SALE,"৳ 1,800.00","৳ 1,350.00",,40ml
+137,face,Avene Toning Lotion,SALE,"৳ 2,250.00","৳ 2,070.00",App Price: ৳ 2008.00,200ml
+138,face,Alix Avien Powder Blush Fuschia 111,SALE,"৳ 1,600.00","৳ 1,200.00",,6gm
+139,face,Alix Avien Powder Blush Sweety 104,SALE,"৳ 1,600.00","৳ 1,200.00",,6gm
+140,face,Alix Avien Powder Blush Babe 105,SALE,"৳ 1,600.00","৳ 1,200.00",,6gm
+141,face,Alix Avien Liquid Concealer Butter Milk 108,SALE,৳ 900.00,৳ 675.00,,3.5gm
+142,face,Maybelline Fit Me Matte +Poreless Liquid Foundation - 123,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,30ml
+143,face,Alix Avien Liquid Concealer 01,SALE,৳ 900.00,৳ 675.00,,3.5ml
+144,face,Ponds BB+ Cream Instant Spot Coverage + Light Make-up Glow Ivory,,nan,৳ 350.00,App Price: ৳ 340.00,18gm
+145,face,Lakme Sun Expert Ultra Matte SPF 40 PA+++ Compact,,nan,৳ 550.00,,7gm
+146,face,Technic Matte finish Mega Blush,,nan,৳ 380.00,App Price: ৳ 369.00,11.2gm
+147,face,Technic Mega Glow Highlighter Palette,,nan,৳ 400.00,,10gm
+148,face,White Tone face Powder -30gm + White Tone face Cream -25gm COMBO Offer,COMBO,nan,৳ 249.00,,
+149,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+150,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+151,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+152,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+153,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+154,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+155,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+156,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+157,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+158,face,Pierre Cardin Two Phase Make Up Remover,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,150ml
+159,face,Pierre Cardin Porcelain Edition Compact Powder Golden Beige 955,,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+160,face,Nirvana Soft Touch Round Cotton Pad,,nan,৳ 300.00,App Price: ৳ 291.00,
+161,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+162,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+163,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+164,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+165,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+166,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+167,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+168,face,Pastel Show By Pastel Show Your Happiness Blush 205,,nan,৳ 595.00,App Price: ৳ 577.00,4.2gm
+169,face,Pastel Profashion Liquid Bronzer Soft Focus Sunshine 20,,nan,৳ 625.00,App Price: ৳ 606.00,30ml
+170,face,Makeup Revolution Conceal & Define Supersize Concealer C6,,nan,৳ 880.00,App Price: ৳ 854.00,13gm
+171,face,J.Cat Indense Mineral Compact Powder - ICP 106 Natural Fawn,,nan,৳ 850.00,App Price: ৳ 825.00,10gm
+172,face,Topface Baked Choice Rich Touch Highlighter - 104,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,6gm
+173,face,L.A.Girl HD PRO BB Cream Fair GBB941,,nan,৳ 750.00,App Price: ৳ 728.00,30ml
+174,face,Wet N Wild Photo Focus Dewy Foundation- Soft Ivory,,nan,৳ 950.00,App Price: ৳ 922.00,28ml
+175,face,Wet N Wild Photo Focus Dewy Foundation- Desert Beige,,nan,৳ 950.00,App Price: ৳ 922.00,28ml
+176,face,Wet n Wild Color Icon Blush Pearlescent Pink,,nan,৳ 440.00,App Price: ৳ 427.00,5.85gm
+177,face,Topface Instyle Twin Blush On - 6,,nan,৳ 850.00,App Price: ৳ 808.00,10gm
+178,face,Technic Peach Perfect Lowlighter,,nan,৳ 450.00,App Price: ৳ 437.00,8ml
+179,face,Christian Gio BB Cream SPF40 / PA++,,nan,৳ 500.00,App Price: ৳ 485.00,50ml
+180,face,Note Mattifying Extreme Wear Foundation 01,,nan,"৳ 1,450.00",,35ml
+181,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+182,face,Topface Mineral Sensitive Hydrating Powder Rose Beige 004,,nan,"৳ 2,190.00",App Price: ৳ 2124.00,10gm
+183,face,Guerniss Mineral Finishpact Highlighter G340,,nan,"৳ 1,760.00",App Price: ৳ 1707.00,13gm
+184,face,Maybelline New York Dream Brightening Creamy Concealer Light 20,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,3gm
+185,face,Lollis Blush On 03,,nan,৳ 875.00,App Price: ৳ 849.00,12gm
+186,face,Lollis Collagen Liquid Concealer 04,,nan,৳ 850.00,App Price: ৳ 825.00,6ml
+187,face,Wet n wild Prime Focus Impossible Primer,,nan,৳ 780.00,App Price: ৳ 757.00,25ml
+188,face,Technic Matte Mega Bronze Palette,,nan,৳ 380.00,App Price: ৳ 369.00,10gm
+189,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+190,face,Deve Clean & Clear Cleasing Milk,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,300ml
+191,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+192,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+193,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+194,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+195,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+196,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+197,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+198,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+199,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+200,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+201,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+202,face,Ireneda Soft Matte Foundation - NE03 Natural Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+203,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+204,face,PINKFLASH Duo Makeup Stick - HS02 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+205,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+206,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+207,face,Nicka K Duo Blush NDO12,,nan,৳ 400.00,App Price: ৳ 380.00,2gm
+208,face,Nicka K Hd Concealer Copper NCL008,,nan,৳ 450.00,App Price: ৳ 437.00,3.3gm
+209,face,PINKFLASH All Over Face Contour - S02 Drop (PF-F02),,nan,৳ 250.00,App Price: ৳ 243.00,36gm
+210,face,Guerniss BB Cream Shade 30,,nan,"৳ 1,640.00",App Price: ৳ 1591.00,30ml
+211,face,Guerniss BB Cream Shade 20,,nan,"৳ 1,640.00",App Price: ৳ 1591.00,30ml
+212,face,Guerniss BB Cream Shade 10,,nan,"৳ 1,640.00",App Price: ৳ 1591.00,30ml
+213,face,Topface Skin Wear Matte Effect Foundation - 3,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+214,face,Wet N Wild Photo Focus Dewy Foundation- Golden Beige,,nan,৳ 980.00,App Price: ৳ 951.00,28ml
+215,face,Wet n Wild MegaGlo Blushlighter After Sex Glow,,nan,৳ 820.00,App Price: ৳ 795.00,10gm
+216,face,NICKA K HD CONCEALER COFFEE NCL010,,nan,৳ 450.00,App Price: ৳ 437.00,3.3gm
+217,face,W7 The Bronzer Matte,,nan,৳ 550.00,App Price: ৳ 534.00,14gm
+218,face,Technic Smoothing Primer,,nan,৳ 650.00,App Price: ৳ 631.00,30ml
+219,face,J.Cat Indense Mineral Compact Powder - ICP 103 Bare Skinned,,nan,৳ 850.00,App Price: ৳ 825.00,10gm
+220,face,J.Cat Indense Mineral Compact Powder - ICP 102 Ivory,,nan,৳ 850.00,App Price: ৳ 825.00,10gm
+221,face,Makeup Revolution Conceal & Define Concealer - C10,,nan,৳ 880.00,App Price: ৳ 854.00,
+222,face,Makeup Revolution Conceal & Define Concealer - C8,,nan,৳ 880.00,App Price: ৳ 854.00,
+223,face,NICKA K SHEER AND GLOW BRONZER NECTAR SOLEIL MP512,,nan,৳ 440.00,App Price: ৳ 427.00,20gm
+224,face,L.A. Girl Pro Coverage Illuminating Foundation - Nude Beige,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+225,face,L.A Girl Pro Face Matte Pressed Powder - Creamy Natural,,nan,৳ 750.00,App Price: ৳ 728.00,7gm
+226,face,L.A Girl Pro Face Matte Pressed Powder Medium Beige GPP609,,nan,৳ 750.00,App Price: ৳ 728.00,7gm
+227,face,Wet n Wild Photo Focus Matte Foundation - Bronze Beige,,nan,৳ 950.00,App Price: ৳ 922.00,
+228,face,Technic BB Beauty Boost Foundation - Biscuit,,nan,৳ 550.00,App Price: ৳ 534.00,30ml
+229,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+230,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+231,face,L.A. Girl PRO Matte Foundation - GLM674 Natural,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,30ml
+232,face,Maybelline Fit Me Matte + Poreless Foundation- Natural Beige 220,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+233,face,L.A. Girl Pro Coverage Illuminating Foundation Sand GLM650,,nan,৳ 900.00,App Price: ৳ 873.00,28ml
+234,face,L.A. Girl Pro Coverage Illuminating Foundation- Natural,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+235,face,L.A. Girl Pro Coverage Illuminating Foundation- Fair,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+236,face,L.A. Girl Pro Coverage Illuminating Foundation- Porcelain,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+237,face,L.A. Girl HD Pro Concealer Medium Bisque GC975,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+238,face,L.A. Girl Pro Concealer Nude,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+239,face,L.A. Girl Pro Concealer Dark Cocoa,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+240,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+241,face,Revlon ColorStay Foundation For Combination/Oily Skin - Fresh Beige 250,,nan,"৳ 1,625.00",,30ml
+242,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+243,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+244,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+245,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+246,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+247,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+248,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+249,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+250,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+251,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+252,face,Pierre Cardin Two Phase Make Up Remover,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,150ml
+253,face,Pierre Cardin Porcelain Edition Compact Powder Golden Beige 955,,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+254,face,Nirvana Soft Touch Round Cotton Pad,,nan,৳ 300.00,App Price: ৳ 291.00,
+255,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+256,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+257,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+258,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+259,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+260,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+261,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+262,face,Ireneda Soft Matte Foundation - NE03 Natural Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+263,face,PINKFLASH Duo Makeup Stick - HS02 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+264,face,PINKFLASH All Over Face Contour - S02 Drop (PF-F02),,nan,৳ 250.00,App Price: ৳ 243.00,36gm
+265,face,PINKFLASH Chic In Cheek Blush - O03 Sunset (PF-F01),,nan,৳ 250.00,App Price: ৳ 243.00,1.5gm
+266,face,PINKFLASH Duo Makeup Stick - BH03 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+267,face,Nicka K Duo Blush NDO12,,nan,৳ 400.00,App Price: ৳ 380.00,2gm
+268,face,Nicka K Hd Concealer Copper NCL008,,nan,৳ 450.00,App Price: ৳ 437.00,3.3gm
+269,face,Deve Clean & Clear Cleasing Milk,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,300ml
+270,face,Makeup Revolution Conceal & Define Supersize Concealer C6,,nan,৳ 880.00,App Price: ৳ 854.00,13gm
+271,face,Guerniss Mineral Finishpact Highlighter G340,,nan,"৳ 1,760.00",App Price: ৳ 1707.00,13gm
+272,face,Technic  Colour Fix 2 IN 1 Pressed Powder & Cream Foundation Oatmeal,,nan,৳ 550.00,App Price: ৳ 534.00,12gm
+273,face,Absolute New York Poreless Me Face Primer MFFP03,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+274,face,Topface Instyle Wet And Dry Powder 005,,nan,৳ 930.00,App Price: ৳ 902.00,10gm
+275,face,Topface B B Skin Editor Matte Finish 007,,nan,"৳ 1,490.00",App Price: ৳ 1445.00,30ml
+276,face,Pastel Show By Pastel Show Your Purity Powder 102,,nan,৳ 720.00,App Price: ৳ 698.00,9.3gm
+277,face,Pastel Silky Dream Foundation 350,,nan,৳ 720.00,App Price: ৳ 698.00,30ml
+278,face,Farmasi Stay Matte Foundation Natural 03,,nan,"৳ 1,400.00",App Price: ৳ 1358.00,30ml
+279,face,SKINFOOD Milk Shake Point Make-Up Remover,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,160ml
+280,face,Pierre Cardin Porcelain Edition Compact Powder Golden Sand 160,,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+281,face,Pierre Cardin Porcelain Edition Compact Powder Honey 460,,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+282,face,Anafeli Paris SPF 15 Glowy Foundation 01,,nan,৳ 850.00,App Price: ৳ 825.00,30ml
+283,face,Nicka K Four Color Blush Palette Very Berry FL0402,,nan,৳ 625.00,App Price: ৳ 606.00,12gm
+284,face,Topface Mineral Sensitive Serum Foundation Rose Vanilla 001,,nan,"৳ 2,100.00",App Price: ৳ 2037.00,15ml
+285,face,Technic Highlighter Wand Enlumineur,,nan,৳ 480.00,App Price: ৳ 466.00,9ml
+286,face,Note Instant Bi Phase Make Up Remover,,nan,৳ 950.00,,125ml
+287,face,Note Translucent Setting Powder,,nan,৳ 700.00,,10gm
+288,face,Technic Glow Setter Setting Spray,,nan,৳ 650.00,App Price: ৳ 631.00,100ml
+289,face,NIOR Your Best Skin Soft Matte Pressed Powder Warm Vanilla,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,9gm
+290,face,Beauti4me Concealer Light Beige C02,,nan,৳ 680.00,App Price: ৳ 660.00,7ml
+291,face,Beauti4me Primer Tinted Prime & Highlight P02,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+292,face,Wet n Wild Bare Focus Clarifying Finishing Powder Translucent,,nan,৳ 750.00,App Price: ৳ 728.00,7.8gm
+293,face,Astra Long Stay Concealer SPF15 N 04W Sand,,nan,"৳ 1,400.00",App Price: ৳ 1358.00,4.5ml
+294,face,Note Baked Powder 01 Stardust,,nan,৳ 750.00,,10gm
+295,face,Lakme 9 To 5 CC Complexion Care Cream Honey 02,,nan,৳ 850.00,App Price: ৳ 825.00,30gm
+296,face,Pastel Show By Pastel Show Your Purity Powder 102,,nan,৳ 720.00,App Price: ৳ 698.00,9.3gm
+297,face,Pastel Silky Dream Foundation 350,,nan,৳ 720.00,App Price: ৳ 698.00,30ml
+298,face,Guerniss Primer Water Base,,nan,"৳ 1,460.00",App Price: ৳ 1416.00,35ml
+299,face,Guerniss Matte & Poreless Face Powder G040,,nan,"৳ 1,690.00",App Price: ৳ 1639.00,15gm
+300,face,Technic  Colour Fix 2 IN 1 Pressed Powder & Cream Foundation Ecru,,nan,৳ 550.00,App Price: ৳ 534.00,12gm
+301,face,Technic Colour Fix 2 IN 1 Pressed Powder & Cream Foundation Buff,,nan,৳ 550.00,App Price: ৳ 534.00,12gm
+302,face,Olay Double Action Moisturiser Day Cream & Primer,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,50ml
+303,face,Meril Olive Oil,,nan,৳ 315.00,,150ml
+304,face,MILANI 03 MAKE IT LAST SETTING SPRAY PRIME CORRECT SET,,nan,"৳ 1,700.00",App Price: ৳ 1649.00,60ml
+305,face,MILANI 05 MAKE IT LAST MATTE CHARCOAL SETTING SPRAY,,nan,"৳ 1,700.00",App Price: ৳ 1649.00,60ml
+306,face,NICKA K PERFECTION SETTING SPRAY ILLUMINATING GOLD FSPF03,,nan,৳ 650.00,App Price: ৳ 631.00,60ml
+307,face,NICKA K PERFECTION SETTING SPRAY MATTE 60ML,,nan,৳ 650.00,App Price: ৳ 631.00,60ml
+308,face,Nicka K Duo Contour NDO07,,nan,৳ 400.00,App Price: ৳ 388.00,
+309,face,Topface Skin Wear Matte Effect Foundation - 7,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+310,face,Topface Skin Wear Matte Effect Foundation - 5,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+311,face,Topface Skin Wear Matte Effect Foundation - 4,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+312,face,Topface Perfect Coverage Foundation - 4,,nan,"৳ 1,990.00",App Price: ৳ 1930.00,30ml
+313,face,NICKA K HD CONCEALER RED CLAY NCL014,,nan,৳ 450.00,App Price: ৳ 437.00,3.3gm
+314,face,MAKEUP REVOLUTION Blush Palette Goddess,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+315,face,Makeup Revolution Conceal & Define Concealer - C8,,nan,৳ 880.00,App Price: ৳ 854.00,
+316,face,NICKA K SHEER AND GLOW BRONZER NECTAR SOLEIL MP512,,nan,৳ 440.00,App Price: ৳ 427.00,20gm
+317,face,L.A. Girl Pro Coverage Illuminating Foundation - Nude Beige,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+318,face,L.A Girl Pro Face Matte Pressed Powder - Creamy Natural,,nan,৳ 750.00,App Price: ৳ 728.00,7gm
+319,face,L.A Girl Pro Face Matte Pressed Powder Medium Beige GPP609,,nan,৳ 750.00,App Price: ৳ 728.00,7gm
+320,face,Wet n Wild Photo Focus Matte Foundation - Bronze Beige,,nan,৳ 950.00,App Price: ৳ 922.00,
+321,face,Technic BB Beauty Boost Foundation - Biscuit,,nan,৳ 550.00,App Price: ৳ 534.00,30ml
+322,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+323,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+324,face,Glow & Lovely Face Cream (BB) Blemish Balm 18g,,nan,৳ 165.00,,18gm
+325,face,L.A. Girl PRO Matte Foundation - GLM675 Medium Beige,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,30ml
+326,face,L.A. Girl PRO Matte Foundation - GLM674 Natural,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,30ml
+327,face,Maybelline Fit Me Matte + Poreless Foundation- Natural Beige 220,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+328,face,L.A. Girl Pro Coverage Illuminating Foundation Sand GLM650,,nan,৳ 900.00,App Price: ৳ 873.00,28ml
+329,face,L.A. Girl Pro Coverage Illuminating Foundation- Natural,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+330,face,L.A. Girl Pro Coverage Illuminating Foundation- Fair,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+331,face,L.A. Girl Pro Coverage Illuminating Foundation- Porcelain,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+332,face,Revlon ColorStay Foundation For Combination/Oily Skin - Fresh Beige 250,,nan,"৳ 1,625.00",,30ml
+333,face,L.A. Girl HD Pro Concealer Medium Bisque GC975,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+334,face,L.A. Girl Pro Concealer Nude,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+335,face,L.A. Girl Pro Concealer Dark Cocoa,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+336,face,Makeup Revolution Blusher Reloaded Peach Bliss,,nan,৳ 700.00,App Price: ৳ 679.00,7.5gm
+337,face,PINKFLASH Lasting Matte Pressed Powder - Shade 111 (PF-F08),,nan,৳ 300.00,App Price: ৳ 291.00,5.5gm
+338,face,PINKFLASH Lasting Matte Pressed Powder - Shade 222 (PF-F08),,nan,৳ 300.00,App Price: ৳ 291.00,5.5gm
+339,face,PINKFLASH Pro Touch Makeup Base Primer- 20g (PF-F12),,nan,৳ 500.00,App Price: ৳ 485.00,20gm
+340,face,PINKFLASH Chic In Cheek Blush - N02 Dazzle Me (PF-F01),,nan,৳ 250.00,App Price: ৳ 243.00,1.7gm
+341,face,PINKFLASH Chic In Cheek Blush - O02 Vacance (PF-F01),,nan,৳ 250.00,App Price: ৳ 243.00,1.5gm
+342,face,PINKFLASH Double Fixing Setting Spray - 40ml (SP01),,nan,৳ 600.00,App Price: ৳ 582.00,40ml
+343,face,PINKFLASH Duo Makeup Stick - BH01 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+344,face,PINKFLASH Duo Makeup Stick - BH02 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+345,face,PINKFLASH Duo Makeup Stick - HS01 (PF-F21),,nan,৳ 400.00,App Price: ৳ 380.00,
+346,face,Ireneda Crush Crush Powder Blush - OR01 Early Peach (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+347,face,Ireneda Crush Crush Powder Blush - PK02 Bubblegum (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+348,face,PINKFLASH Lasting Matte Loose Powder - Shade 222 (PF-F06),,nan,৳ 350.00,App Price: ৳ 340.00,6gm
+349,face,PINKFLASH Matte & Poreless Pressed Powder YL01 (PF-F17),,nan,৳ 700.00,App Price: ৳ 679.00,9gm
+350,face,Makeup Revolution Blusher Reloaded Pop My Cherry,,nan,৳ 700.00,App Price: ৳ 679.00,
+351,face,NIOR Your Best Skin Soft Matte Pressed Powder Warm Vanilla,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,9gm
+352,face,Hawaa Olive Oil,,nan,৳ 220.00,App Price: ৳ 213.00,100ml
+353,face,Makeup Revolution Fast Base Blush Stick Rose,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,14gm
+354,face,Makeup Revolution I Heart Revolution Chocolate Contour Palette Medium,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,4.5gm
+355,face,Makeup Revolution Relove Colour Play Blushed Duo Cute,,nan,৳ 780.00,App Price: ৳ 757.00,5.8gm
+356,face,Makeup Revolution Relove Colour Play Blushed Duo Kindness,,nan,৳ 780.00,App Price: ৳ 757.00,5.8gm
+357,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+358,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+359,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+360,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+361,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+362,face,Pierre Cardin Two Phase Make Up Remover,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,150ml
+363,face,Pierre Cardin Porcelain Edition Compact Powder Golden Beige 955,,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+364,face,Nirvana Soft Touch Round Cotton Pad,,nan,৳ 300.00,App Price: ৳ 291.00,
+365,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+366,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+367,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+368,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+369,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+370,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+371,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+372,face,Ireneda Soft Matte Foundation - NE03 Natural Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+373,face,PINKFLASH Duo Makeup Stick - HS02 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+374,face,PINKFLASH All Over Face Contour - S02 Drop (PF-F02),,nan,৳ 250.00,App Price: ৳ 243.00,36gm
+375,face,PINKFLASH Chic In Cheek Blush - O03 Sunset (PF-F01),,nan,৳ 250.00,App Price: ৳ 243.00,1.5gm
+376,face,PINKFLASH Duo Makeup Stick - BH03 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+377,face,Nicka K Duo Blush NDO12,,nan,৳ 400.00,App Price: ৳ 380.00,2gm
+378,face,SKINFOOD Milk Shake Point Make-Up Remover,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,160ml
+379,face,Lucy Oliva Olive Oil,,nan,৳ 120.00,,50ml
+380,face,Zayn & Myza Pollution Defense CC With SPF 30 Compact - Natural Nude,,nan,৳ 550.00,,9gm
+381,face,Nicka K Four Color Blush Palette Very Berry FL0402,,nan,৳ 625.00,App Price: ৳ 606.00,12gm
+382,face,Maybelline Super Stay Full Coverage Powder Foundation Golden 312,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,6gm
+383,face,Topface Mineral Sensitive Serum Foundation Rose Vanilla 001,,nan,"৳ 2,100.00",App Price: ৳ 2037.00,15ml
+384,face,Makeup Revolution Hydrate & Fix Fixing Spray,,nan,৳ 920.00,App Price: ৳ 892.00,100ml
+385,face,Anafeli Paris SPF 15 Glowy Foundation 01,,nan,৳ 850.00,App Price: ৳ 825.00,30ml
+386,face,Note Detox And Protect Foundation 02 Pump Natural Beige,,nan,"৳ 1,450.00",,35ml
+387,face,Note Bronzing Powder 30,,nan,"৳ 1,300.00",,20gm
+388,face,Note Baked Powder 01 Stardust,,nan,৳ 750.00,,10gm
+389,face,Lakme 9 To 5 CC Complexion Care Cream Honey 02,,nan,৳ 850.00,App Price: ৳ 825.00,30gm
+390,face,Pastel Show By Pastel Show Your Purity Powder 102,,nan,৳ 720.00,App Price: ৳ 698.00,9.3gm
+391,face,Pastel Silky Dream Foundation 350,,nan,৳ 720.00,App Price: ৳ 698.00,30ml
+392,face,Guerniss Primer Water Base,,nan,"৳ 1,460.00",App Price: ৳ 1416.00,35ml
+393,face,Guerniss Matte & Poreless Face Powder G040,,nan,"৳ 1,690.00",App Price: ৳ 1639.00,15gm
+394,face,Technic  Colour Fix 2 IN 1 Pressed Powder & Cream Foundation Ecru,,nan,৳ 550.00,App Price: ৳ 534.00,12gm
+395,face,Technic Colour Fix 2 IN 1 Pressed Powder & Cream Foundation Buff,,nan,৳ 550.00,App Price: ৳ 534.00,12gm
+396,face,Olay Double Action Moisturiser Day Cream & Primer,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,50ml
+397,face,Meril Olive Oil,,nan,৳ 315.00,,150ml
+398,face,MILANI 03 MAKE IT LAST SETTING SPRAY PRIME CORRECT SET,,nan,"৳ 1,700.00",App Price: ৳ 1649.00,60ml
+399,face,MILANI 05 MAKE IT LAST MATTE CHARCOAL SETTING SPRAY,,nan,"৳ 1,700.00",App Price: ৳ 1649.00,60ml
+400,face,NICKA K PERFECTION SETTING SPRAY ILLUMINATING GOLD FSPF03,,nan,৳ 650.00,App Price: ৳ 631.00,60ml
+401,face,NICKA K PERFECTION SETTING SPRAY MATTE 60ML,,nan,৳ 650.00,App Price: ৳ 631.00,60ml
+402,face,Nicka K Duo Contour NDO07,,nan,৳ 400.00,App Price: ৳ 388.00,
+403,face,Topface Skin Wear Matte Effect Foundation - 7,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+404,face,Topface Skin Wear Matte Effect Foundation - 5,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+405,face,Topface Skin Wear Matte Effect Foundation - 4,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+406,face,Topface Perfect Coverage Foundation - 4,,nan,"৳ 1,990.00",App Price: ৳ 1930.00,30ml
+407,face,NICKA K HD CONCEALER RED CLAY NCL014,,nan,৳ 450.00,App Price: ৳ 437.00,3.3gm
+408,face,MAKEUP REVOLUTION Blush Palette Goddess,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+409,face,MAKEUP REVOLUTION Ultra Blush Palette Hot Spice 1.6g,,nan,"৳ 1,250.00",,1.6gm
+410,face,MAKEUP REVOLUTION Conceal and Define Concealer C7 4g,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+411,face,Pastel Advance Powder45,,nan,৳ 650.00,App Price: ৳ 631.00,11gm
+412,face,Pastel Advance Powder 35,,nan,৳ 650.00,App Price: ৳ 631.00,11gm
+413,face,Pastel Terracota Blush On 2,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,9gm
+414,face,Pastel Terracota Blush On 1,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,9gm
+415,face,Wet n Wild color icon Blush Apri Cot In The Middle E3272,,nan,৳ 440.00,App Price: ৳ 427.00,5.85gm
+416,face,W7 12 Hour Hd Foundation Honey,,nan,৳ 650.00,App Price: ৳ 631.00,30ml
+417,face,Athena Beaute 200 Cotton Wool Balls,,nan,৳ 350.00,App Price: ৳ 340.00,
+418,face,Wet N Wild Photo Focus Dewy Foundation Soft Beige,,nan,৳ 980.00,App Price: ৳ 951.00,28ml
+419,face,Wet N Wild Photo Focus Dewy Foundation Classic Beige,,nan,৳ 950.00,App Price: ৳ 922.00,28ml
+420,face,MAKEUP REVOLUTION Conceal and Define Concealer C7 4g,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+421,face,NICKA K 24K GOLD FACE PRIMER,,nan,৳ 900.00,App Price: ৳ 873.00,30ml
+422,face,Wet n Wild color icon Blush Apri Cot In The Middle E3272,,nan,৳ 440.00,App Price: ৳ 427.00,5.85gm
+423,face,Glow & Lovely Face Cream (BB) Blemish Balm 40g,,nan,৳ 240.00,,40gm
+424,face,Pastel Advance Powder45,,nan,৳ 650.00,App Price: ৳ 631.00,11gm
+425,face,Pastel Advance Powder 35,,nan,৳ 650.00,App Price: ৳ 631.00,11gm
+426,face,Pastel Terracota Blush On 2,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,9gm
+427,face,Pastel Terracota Blush On 1,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,9gm
+428,face,NICKA K MINERAL PRESSED POWDER NATURAL MP110,,nan,৳ 480.00,App Price: ৳ 466.00,10gm
+429,face,NICKA K PERFECTION LIQUID ILLUMINATOR BRONZE NKH12,,nan,৳ 480.00,App Price: ৳ 466.00,20ml
+430,face,L.A. Girl Pro Concealer Peach Corrector,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+431,face,L.A. Girl Pro Concealer Light Ivory,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+432,face,L.A. Girl Pro Concealer Beautiful Bronze GC987,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+433,face,W7 Prime Magic Face Primer,,nan,৳ 750.00,App Price: ৳ 728.00,30ml
+434,face,L.A.Girl Pro Prep Primer High Definition,,nan,৳ 650.00,App Price: ৳ 631.00,15ml
+435,face,L.A. Girl Pro Concealer Toffee,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+436,face,L.A. Girl Pro Concealer Green GC992,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+437,face,L.A. Girl Pro Coverage Illuminating Foundation- Warm Beige GLM647,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+438,face,Wet n Wild Photo Focus Matte Foundation - Classic Beige,,nan,৳ 950.00,App Price: ৳ 922.00,
+439,face,Wet n Wild Photo Focus Matte Foundation - Desert Beige,,nan,৳ 990.00,App Price: ৳ 960.00,
+440,face,Makeup Revolution Sophx Highlighter Palette,,nan,"৳ 1,550.00",App Price: ৳ 1504.00,16gm
+441,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+442,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+443,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+444,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+445,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+446,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+447,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+448,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+449,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+450,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+451,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+452,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+453,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+454,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+455,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+456,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+457,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+458,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+459,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+460,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+461,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+462,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+463,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+464,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+465,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+466,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+467,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+468,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+469,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+470,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+471,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+472,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+473,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+474,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+475,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+476,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+477,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+478,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+479,face,Pierre Cardin Two Phase Make Up Remover,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,150ml
+480,face,Pierre Cardin Porcelain Edition Compact Powder Golden Beige 955,,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+481,face,Nirvana Soft Touch Round Cotton Pad,,nan,৳ 300.00,App Price: ৳ 291.00,
+482,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+483,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+484,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+485,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+486,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+487,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+488,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+489,face,Makeup Revolution Conceal & Define Supersize Concealer C6,,nan,৳ 880.00,App Price: ৳ 854.00,13gm
+490,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+491,face,Guerniss Mineral Finishpact Highlighter G340,,nan,"৳ 1,760.00",App Price: ৳ 1707.00,13gm
+492,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+493,face,Deve Clean & Clear Cleasing Milk,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,300ml
+494,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+495,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+496,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+497,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+498,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+499,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+500,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+501,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+502,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+503,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+504,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+505,face,Ireneda Soft Matte Foundation - NE03 Natural Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+506,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+507,face,PINKFLASH Duo Makeup Stick - HS02 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+508,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+509,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+510,face,Nicka K Duo Blush NDO12,,nan,৳ 400.00,App Price: ৳ 380.00,2gm
+511,face,Nicka K Hd Concealer Copper NCL008,,nan,৳ 450.00,App Price: ৳ 437.00,3.3gm
+512,face,PINKFLASH All Over Face Contour - S02 Drop (PF-F02),,nan,৳ 250.00,App Price: ৳ 243.00,36gm
+513,face,Makeup Revolution Conceal & Define Concealer - C8,,nan,৳ 880.00,App Price: ৳ 854.00,
+514,face,NICKA K SHEER AND GLOW BRONZER NECTAR SOLEIL MP512,,nan,৳ 440.00,App Price: ৳ 427.00,20gm
+515,face,L.A. Girl Pro Coverage Illuminating Foundation - Nude Beige,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+516,face,L.A Girl Pro Face Matte Pressed Powder - Creamy Natural,,nan,৳ 750.00,App Price: ৳ 728.00,7gm
+517,face,L.A Girl Pro Face Matte Pressed Powder Medium Beige GPP609,,nan,৳ 750.00,App Price: ৳ 728.00,7gm
+518,face,Wet n Wild Photo Focus Matte Foundation - Bronze Beige,,nan,৳ 950.00,App Price: ৳ 922.00,
+519,face,Technic BB Beauty Boost Foundation - Biscuit,,nan,৳ 550.00,App Price: ৳ 534.00,30ml
+520,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+521,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+522,face,L.A. Girl PRO Matte Foundation - GLM674 Natural,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,30ml
+523,face,Maybelline Fit Me Matte + Poreless Foundation- Natural Beige 220,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+524,face,L.A. Girl Pro Coverage Illuminating Foundation Sand GLM650,,nan,৳ 900.00,App Price: ৳ 873.00,28ml
+525,face,L.A. Girl Pro Coverage Illuminating Foundation- Natural,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+526,face,L.A. Girl Pro Coverage Illuminating Foundation- Fair,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+527,face,L.A. Girl Pro Coverage Illuminating Foundation- Porcelain,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+528,face,L.A. Girl HD Pro Concealer Medium Bisque GC975,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+529,face,L.A. Girl Pro Concealer Nude,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+530,face,L.A. Girl Pro Concealer Dark Cocoa,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+531,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+532,face,Revlon ColorStay Foundation For Combination/Oily Skin - Fresh Beige 250,,nan,"৳ 1,625.00",,30ml
+533,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+534,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+535,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+536,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+537,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+538,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+539,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+540,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+541,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+542,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+543,face,Pierre Cardin Two Phase Make Up Remover,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,150ml
+544,face,Pierre Cardin Porcelain Edition Compact Powder Golden Beige 955,,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+545,face,Nirvana Soft Touch Round Cotton Pad,,nan,৳ 300.00,App Price: ৳ 291.00,
+546,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+547,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+548,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+549,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+550,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+551,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+552,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+553,face,Ireneda Soft Matte Foundation - NE03 Natural Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+554,face,PINKFLASH Duo Makeup Stick - HS02 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+555,face,PINKFLASH All Over Face Contour - S02 Drop (PF-F02),,nan,৳ 250.00,App Price: ৳ 243.00,36gm
+556,face,PINKFLASH Chic In Cheek Blush - O03 Sunset (PF-F01),,nan,৳ 250.00,App Price: ৳ 243.00,1.5gm
+557,face,PINKFLASH Duo Makeup Stick - BH03 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+558,face,Nicka K Duo Blush NDO12,,nan,৳ 400.00,App Price: ৳ 380.00,2gm
+559,face,Nicka K Hd Concealer Copper NCL008,,nan,৳ 450.00,App Price: ৳ 437.00,3.3gm
+560,face,Deve Clean & Clear Cleasing Milk,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,300ml
+561,face,Makeup Revolution Conceal & Define Supersize Concealer C6,,nan,৳ 880.00,App Price: ৳ 854.00,13gm
+562,face,Guerniss Mineral Finishpact Highlighter G340,,nan,"৳ 1,760.00",App Price: ৳ 1707.00,13gm
+563,face,Pastel Show By Pastel Show Your Purity Powder 102,,nan,৳ 720.00,App Price: ৳ 698.00,9.3gm
+564,face,Pastel Silky Dream Foundation 350,,nan,৳ 720.00,App Price: ৳ 698.00,30ml
+565,face,SKINFOOD Milk Shake Point Make-Up Remover,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,160ml
+566,face,Anafeli Paris SPF 15 Glowy Foundation 01,,nan,৳ 850.00,App Price: ৳ 825.00,30ml
+567,face,Nicka K Four Color Blush Palette Very Berry FL0402,,nan,৳ 625.00,App Price: ৳ 606.00,12gm
+568,face,Topface Mineral Sensitive Serum Foundation Rose Vanilla 001,,nan,"৳ 2,100.00",App Price: ৳ 2037.00,15ml
+569,face,NIOR Your Best Skin Soft Matte Pressed Powder Warm Vanilla,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,9gm
+570,face,Note Baked Powder 01 Stardust,,nan,৳ 750.00,,10gm
+571,face,Lakme 9 To 5 CC Complexion Care Cream Honey 02,,nan,৳ 850.00,App Price: ৳ 825.00,30gm
+572,face,Pastel Show By Pastel Show Your Purity Powder 102,,nan,৳ 720.00,App Price: ৳ 698.00,9.3gm
+573,face,Pastel Silky Dream Foundation 350,,nan,৳ 720.00,App Price: ৳ 698.00,30ml
+574,face,Guerniss Primer Water Base,,nan,"৳ 1,460.00",App Price: ৳ 1416.00,35ml
+575,face,Guerniss Matte & Poreless Face Powder G040,,nan,"৳ 1,690.00",App Price: ৳ 1639.00,15gm
+576,face,Technic  Colour Fix 2 IN 1 Pressed Powder & Cream Foundation Ecru,,nan,৳ 550.00,App Price: ৳ 534.00,12gm
+577,face,Technic Colour Fix 2 IN 1 Pressed Powder & Cream Foundation Buff,,nan,৳ 550.00,App Price: ৳ 534.00,12gm
+578,face,Olay Double Action Moisturiser Day Cream & Primer,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,50ml
+579,face,Meril Olive Oil,,nan,৳ 315.00,,150ml
+580,face,MILANI 03 MAKE IT LAST SETTING SPRAY PRIME CORRECT SET,,nan,"৳ 1,700.00",App Price: ৳ 1649.00,60ml
+581,face,MILANI 05 MAKE IT LAST MATTE CHARCOAL SETTING SPRAY,,nan,"৳ 1,700.00",App Price: ৳ 1649.00,60ml
+582,face,NICKA K PERFECTION SETTING SPRAY ILLUMINATING GOLD FSPF03,,nan,৳ 650.00,App Price: ৳ 631.00,60ml
+583,face,NICKA K PERFECTION SETTING SPRAY MATTE 60ML,,nan,৳ 650.00,App Price: ৳ 631.00,60ml
+584,face,Nicka K Duo Contour NDO07,,nan,৳ 400.00,App Price: ৳ 388.00,
+585,face,Topface Skin Wear Matte Effect Foundation - 7,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+586,face,Topface Skin Wear Matte Effect Foundation - 5,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+587,face,Topface Skin Wear Matte Effect Foundation - 4,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+588,face,Topface Perfect Coverage Foundation - 4,,nan,"৳ 1,990.00",App Price: ৳ 1930.00,30ml
+589,face,NICKA K HD CONCEALER RED CLAY NCL014,,nan,৳ 450.00,App Price: ৳ 437.00,3.3gm
+590,face,MAKEUP REVOLUTION Blush Palette Goddess,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,
+591,face,Makeup Revolution Conceal & Define Concealer - C8,,nan,৳ 880.00,App Price: ৳ 854.00,
+592,face,NICKA K SHEER AND GLOW BRONZER NECTAR SOLEIL MP512,,nan,৳ 440.00,App Price: ৳ 427.00,20gm
+593,face,L.A. Girl Pro Coverage Illuminating Foundation - Nude Beige,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+594,face,L.A Girl Pro Face Matte Pressed Powder - Creamy Natural,,nan,৳ 750.00,App Price: ৳ 728.00,7gm
+595,face,L.A Girl Pro Face Matte Pressed Powder Medium Beige GPP609,,nan,৳ 750.00,App Price: ৳ 728.00,7gm
+596,face,Wet n Wild Photo Focus Matte Foundation - Bronze Beige,,nan,৳ 950.00,App Price: ৳ 922.00,
+597,face,Technic BB Beauty Boost Foundation - Biscuit,,nan,৳ 550.00,App Price: ৳ 534.00,30ml
+598,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+599,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+600,face,L.A. Girl PRO Matte Foundation - GLM674 Natural,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,30ml
+601,face,Maybelline Fit Me Matte + Poreless Foundation- Natural Beige 220,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+602,face,L.A. Girl Pro Coverage Illuminating Foundation Sand GLM650,,nan,৳ 900.00,App Price: ৳ 873.00,28ml
+603,face,L.A. Girl Pro Coverage Illuminating Foundation- Natural,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+604,face,L.A. Girl Pro Coverage Illuminating Foundation- Fair,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+605,face,L.A. Girl Pro Coverage Illuminating Foundation- Porcelain,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+606,face,Revlon ColorStay Foundation For Combination/Oily Skin - Fresh Beige 250,,nan,"৳ 1,625.00",,30ml
+607,face,L.A. Girl HD Pro Concealer Medium Bisque GC975,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+608,face,L.A. Girl Pro Concealer Nude,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+609,face,L.A. Girl Pro Concealer Dark Cocoa,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+610,face,NIOR Your Best Skin Soft Matte Pressed Powder Warm Vanilla,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,9gm
+611,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+612,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+613,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+614,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+615,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+616,face,Pierre Cardin Two Phase Make Up Remover,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,150ml
+617,face,Pierre Cardin Porcelain Edition Compact Powder Golden Beige 955,,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+618,face,Nirvana Soft Touch Round Cotton Pad,,nan,৳ 300.00,App Price: ৳ 291.00,
+619,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+620,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+621,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+622,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+623,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+624,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+625,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+626,face,Ireneda Soft Matte Foundation - NE03 Natural Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+627,face,PINKFLASH Duo Makeup Stick - HS02 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+628,face,PINKFLASH All Over Face Contour - S02 Drop (PF-F02),,nan,৳ 250.00,App Price: ৳ 243.00,36gm
+629,face,PINKFLASH Chic In Cheek Blush - O03 Sunset (PF-F01),,nan,৳ 250.00,App Price: ৳ 243.00,1.5gm
+630,face,PINKFLASH Duo Makeup Stick - BH03 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+631,face,Nicka K Duo Blush NDO12,,nan,৳ 400.00,App Price: ৳ 380.00,2gm
+632,face,SKINFOOD Milk Shake Point Make-Up Remover,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,160ml
+633,face,Nicka K Four Color Blush Palette Very Berry FL0402,,nan,৳ 625.00,App Price: ৳ 606.00,12gm
+634,face,Topface Mineral Sensitive Serum Foundation Rose Vanilla 001,,nan,"৳ 2,100.00",App Price: ৳ 2037.00,15ml
+635,face,Anafeli Paris SPF 15 Glowy Foundation 01,,nan,৳ 850.00,App Price: ৳ 825.00,30ml
+636,face,Note Baked Powder 01 Stardust,,nan,৳ 750.00,,10gm
+637,face,Lakme 9 To 5 CC Complexion Care Cream Honey 02,,nan,৳ 850.00,App Price: ৳ 825.00,30gm
+638,face,Pastel Show By Pastel Show Your Purity Powder 102,,nan,৳ 720.00,App Price: ৳ 698.00,9.3gm
+639,face,Pastel Silky Dream Foundation 350,,nan,৳ 720.00,App Price: ৳ 698.00,30ml
+640,face,Guerniss Primer Water Base,,nan,"৳ 1,460.00",App Price: ৳ 1416.00,35ml
+641,face,Guerniss Matte & Poreless Face Powder G040,,nan,"৳ 1,690.00",App Price: ৳ 1639.00,15gm
+642,face,Technic  Colour Fix 2 IN 1 Pressed Powder & Cream Foundation Ecru,,nan,৳ 550.00,App Price: ৳ 534.00,12gm
+643,face,Technic Colour Fix 2 IN 1 Pressed Powder & Cream Foundation Buff,,nan,৳ 550.00,App Price: ৳ 534.00,12gm
+644,face,Olay Double Action Moisturiser Day Cream & Primer,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,50ml
+645,face,Meril Olive Oil,,nan,৳ 315.00,,150ml
+646,face,MILANI 03 MAKE IT LAST SETTING SPRAY PRIME CORRECT SET,,nan,"৳ 1,700.00",App Price: ৳ 1649.00,60ml
+647,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+648,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+649,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+650,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+651,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+652,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+653,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+654,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+655,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+656,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+657,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+658,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+659,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+660,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+661,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+662,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+663,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+664,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+665,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+666,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+667,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+668,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+669,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+670,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+671,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+672,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+673,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+674,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+675,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+676,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+677,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+678,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+679,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+680,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+681,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+682,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+683,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+684,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+685,face,Pierre Cardin Two Phase Make Up Remover,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,150ml
+686,face,Pierre Cardin Porcelain Edition Compact Powder Golden Beige 955,,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+687,face,Nirvana Soft Touch Round Cotton Pad,,nan,৳ 300.00,App Price: ৳ 291.00,
+688,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+689,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+690,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+691,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+692,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+693,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+694,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+695,face,Makeup Revolution Conceal & Define Supersize Concealer C6,,nan,৳ 880.00,App Price: ৳ 854.00,13gm
+696,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+697,face,Guerniss Mineral Finishpact Highlighter G340,,nan,"৳ 1,760.00",App Price: ৳ 1707.00,13gm
+698,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+699,face,Deve Clean & Clear Cleasing Milk,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,300ml
+700,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+701,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+702,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+703,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+704,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+705,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+706,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+707,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+708,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+709,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+710,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+711,face,Ireneda Soft Matte Foundation - NE03 Natural Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+712,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+713,face,PINKFLASH Duo Makeup Stick - HS02 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+714,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+715,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+716,face,Nicka K Duo Blush NDO12,,nan,৳ 400.00,App Price: ৳ 380.00,2gm
+717,face,Nicka K Hd Concealer Copper NCL008,,nan,৳ 450.00,App Price: ৳ 437.00,3.3gm
+718,face,PINKFLASH All Over Face Contour - S02 Drop (PF-F02),,nan,৳ 250.00,App Price: ৳ 243.00,36gm
+719,face,Makeup Revolution Conceal & Define Concealer - C8,,nan,৳ 880.00,App Price: ৳ 854.00,
+720,face,NICKA K SHEER AND GLOW BRONZER NECTAR SOLEIL MP512,,nan,৳ 440.00,App Price: ৳ 427.00,20gm
+721,face,L.A. Girl Pro Coverage Illuminating Foundation - Nude Beige,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+722,face,L.A Girl Pro Face Matte Pressed Powder - Creamy Natural,,nan,৳ 750.00,App Price: ৳ 728.00,7gm
+723,face,L.A Girl Pro Face Matte Pressed Powder Medium Beige GPP609,,nan,৳ 750.00,App Price: ৳ 728.00,7gm
+724,face,Wet n Wild Photo Focus Matte Foundation - Bronze Beige,,nan,৳ 950.00,App Price: ৳ 922.00,
+725,face,Technic BB Beauty Boost Foundation - Biscuit,,nan,৳ 550.00,App Price: ৳ 534.00,30ml
+726,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+727,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+728,face,L.A. Girl PRO Matte Foundation - GLM674 Natural,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,30ml
+729,face,Maybelline Fit Me Matte + Poreless Foundation- Natural Beige 220,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+730,face,L.A. Girl Pro Coverage Illuminating Foundation Sand GLM650,,nan,৳ 900.00,App Price: ৳ 873.00,28ml
+731,face,L.A. Girl Pro Coverage Illuminating Foundation- Natural,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+732,face,L.A. Girl Pro Coverage Illuminating Foundation- Fair,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+733,face,L.A. Girl Pro Coverage Illuminating Foundation- Porcelain,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+734,face,L.A. Girl HD Pro Concealer Medium Bisque GC975,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+735,face,L.A. Girl Pro Concealer Nude,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+736,face,L.A. Girl Pro Concealer Dark Cocoa,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+737,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+738,face,Revlon ColorStay Foundation For Combination/Oily Skin - Fresh Beige 250,,nan,"৳ 1,625.00",,30ml
+739,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+740,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+741,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+742,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+743,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+744,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+745,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+746,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+747,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+748,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+749,face,Pierre Cardin Two Phase Make Up Remover,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,150ml
+750,face,Pierre Cardin Porcelain Edition Compact Powder Golden Beige 955,,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+751,face,Nirvana Soft Touch Round Cotton Pad,,nan,৳ 300.00,App Price: ৳ 291.00,
+752,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+753,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+754,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+755,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+756,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+757,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+758,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+759,face,Ireneda Soft Matte Foundation - NE03 Natural Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+760,face,PINKFLASH Duo Makeup Stick - HS02 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+761,face,PINKFLASH All Over Face Contour - S02 Drop (PF-F02),,nan,৳ 250.00,App Price: ৳ 243.00,36gm
+762,face,PINKFLASH Chic In Cheek Blush - O03 Sunset (PF-F01),,nan,৳ 250.00,App Price: ৳ 243.00,1.5gm
+763,face,PINKFLASH Duo Makeup Stick - BH03 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+764,face,Nicka K Duo Blush NDO12,,nan,৳ 400.00,App Price: ৳ 380.00,2gm
+765,face,Nicka K Hd Concealer Copper NCL008,,nan,৳ 450.00,App Price: ৳ 437.00,3.3gm
+766,face,Deve Clean & Clear Cleasing Milk,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,300ml
+767,face,Makeup Revolution Conceal & Define Supersize Concealer C6,,nan,৳ 880.00,App Price: ৳ 854.00,13gm
+768,face,Guerniss Mineral Finishpact Highlighter G340,,nan,"৳ 1,760.00",App Price: ৳ 1707.00,13gm
+769,face,Pastel Show By Pastel Show Your Purity Powder 102,,nan,৳ 720.00,App Price: ৳ 698.00,9.3gm
+770,face,Pastel Silky Dream Foundation 350,,nan,৳ 720.00,App Price: ৳ 698.00,30ml
+771,face,NIOR Your Best Skin Soft Matte Pressed Powder Warm Vanilla,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,9gm
+772,face,Pastel Show By Pastel Show Your Purity Powder 102,,nan,৳ 720.00,App Price: ৳ 698.00,9.3gm
+773,face,Pastel Silky Dream Foundation 350,,nan,৳ 720.00,App Price: ৳ 698.00,30ml
+774,face,Makeup Revolution Conceal & Define Concealer - C8,,nan,৳ 880.00,App Price: ৳ 854.00,
+775,face,NICKA K SHEER AND GLOW BRONZER NECTAR SOLEIL MP512,,nan,৳ 440.00,App Price: ৳ 427.00,20gm
+776,face,L.A. Girl Pro Coverage Illuminating Foundation - Nude Beige,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+777,face,L.A Girl Pro Face Matte Pressed Powder - Creamy Natural,,nan,৳ 750.00,App Price: ৳ 728.00,7gm
+778,face,L.A Girl Pro Face Matte Pressed Powder Medium Beige GPP609,,nan,৳ 750.00,App Price: ৳ 728.00,7gm
+779,face,Wet n Wild Photo Focus Matte Foundation - Bronze Beige,,nan,৳ 950.00,App Price: ৳ 922.00,
+780,face,Technic BB Beauty Boost Foundation - Biscuit,,nan,৳ 550.00,App Price: ৳ 534.00,30ml
+781,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+782,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+783,face,L.A. Girl PRO Matte Foundation - GLM674 Natural,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,30ml
+784,face,Maybelline Fit Me Matte + Poreless Foundation- Natural Beige 220,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+785,face,L.A. Girl Pro Coverage Illuminating Foundation Sand GLM650,,nan,৳ 900.00,App Price: ৳ 873.00,28ml
+786,face,L.A. Girl Pro Coverage Illuminating Foundation- Natural,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+787,face,L.A. Girl Pro Coverage Illuminating Foundation- Fair,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+788,face,L.A. Girl Pro Coverage Illuminating Foundation- Porcelain,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+789,face,Revlon ColorStay Foundation For Combination/Oily Skin - Fresh Beige 250,,nan,"৳ 1,625.00",,30ml
+790,face,L.A. Girl HD Pro Concealer Medium Bisque GC975,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+791,face,L.A. Girl Pro Concealer Nude,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+792,face,L.A. Girl Pro Concealer Dark Cocoa,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+793,face,NIOR Your Best Skin Soft Matte Pressed Powder Warm Vanilla,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,9gm
+794,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+795,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+796,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+797,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+798,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+799,face,Pierre Cardin Two Phase Make Up Remover,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,150ml
+800,face,Pierre Cardin Porcelain Edition Compact Powder Golden Beige 955,,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+801,face,Nirvana Soft Touch Round Cotton Pad,,nan,৳ 300.00,App Price: ৳ 291.00,
+802,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+803,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+804,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+805,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+806,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+807,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+808,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+809,face,Ireneda Soft Matte Foundation - NE03 Natural Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+810,face,PINKFLASH Duo Makeup Stick - HS02 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+811,face,PINKFLASH All Over Face Contour - S02 Drop (PF-F02),,nan,৳ 250.00,App Price: ৳ 243.00,36gm
+812,face,Nicka K Duo Blush NDO12,,nan,৳ 400.00,App Price: ৳ 380.00,2gm
+813,face,Pastel Show By Pastel Show Your Purity Powder 102,,nan,৳ 720.00,App Price: ৳ 698.00,9.3gm
+814,face,Pastel Silky Dream Foundation 350,,nan,৳ 720.00,App Price: ৳ 698.00,30ml
+815,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+816,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+817,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+818,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+819,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+820,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+821,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+822,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+823,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+824,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+825,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+826,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+827,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+828,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+829,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+830,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+831,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+832,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+833,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+834,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+835,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+836,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+837,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+838,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+839,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+840,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+841,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+842,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+843,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+844,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+845,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+846,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+847,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+848,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+849,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+850,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+851,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+852,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+853,face,Pierre Cardin Two Phase Make Up Remover,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,150ml
+854,face,Pierre Cardin Porcelain Edition Compact Powder Golden Beige 955,,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+855,face,Nirvana Soft Touch Round Cotton Pad,,nan,৳ 300.00,App Price: ৳ 291.00,
+856,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+857,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+858,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+859,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+860,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+861,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+862,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+863,face,Makeup Revolution Conceal & Define Supersize Concealer C6,,nan,৳ 880.00,App Price: ৳ 854.00,13gm
+864,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+865,face,Guerniss Mineral Finishpact Highlighter G340,,nan,"৳ 1,760.00",App Price: ৳ 1707.00,13gm
+866,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+867,face,Deve Clean & Clear Cleasing Milk,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,300ml
+868,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+869,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+870,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+871,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+872,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+873,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+874,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+875,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+876,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+877,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+878,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+879,face,Ireneda Soft Matte Foundation - NE03 Natural Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+880,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+881,face,PINKFLASH Duo Makeup Stick - HS02 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+882,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+883,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+884,face,Nicka K Duo Blush NDO12,,nan,৳ 400.00,App Price: ৳ 380.00,2gm
+885,face,Nicka K Hd Concealer Copper NCL008,,nan,৳ 450.00,App Price: ৳ 437.00,3.3gm
+886,face,PINKFLASH All Over Face Contour - S02 Drop (PF-F02),,nan,৳ 250.00,App Price: ৳ 243.00,36gm
+887,face,Makeup Revolution Conceal & Define Concealer - C8,,nan,৳ 880.00,App Price: ৳ 854.00,
+888,face,NICKA K SHEER AND GLOW BRONZER NECTAR SOLEIL MP512,,nan,৳ 440.00,App Price: ৳ 427.00,20gm
+889,face,L.A. Girl Pro Coverage Illuminating Foundation - Nude Beige,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+890,face,L.A Girl Pro Face Matte Pressed Powder - Creamy Natural,,nan,৳ 750.00,App Price: ৳ 728.00,7gm
+891,face,L.A Girl Pro Face Matte Pressed Powder Medium Beige GPP609,,nan,৳ 750.00,App Price: ৳ 728.00,7gm
+892,face,Wet n Wild Photo Focus Matte Foundation - Bronze Beige,,nan,৳ 950.00,App Price: ৳ 922.00,
+893,face,Technic BB Beauty Boost Foundation - Biscuit,,nan,৳ 550.00,App Price: ৳ 534.00,30ml
+894,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+895,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+896,face,L.A. Girl PRO Matte Foundation - GLM674 Natural,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,30ml
+897,face,Maybelline Fit Me Matte + Poreless Foundation- Natural Beige 220,,nan,"৳ 1,250.00",App Price: ৳ 1213.00,30ml
+898,face,L.A. Girl Pro Coverage Illuminating Foundation Sand GLM650,,nan,৳ 900.00,App Price: ৳ 873.00,28ml
+899,face,L.A. Girl Pro Coverage Illuminating Foundation- Natural,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+900,face,L.A. Girl Pro Coverage Illuminating Foundation- Fair,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+901,face,L.A. Girl Pro Coverage Illuminating Foundation- Porcelain,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,28ml
+902,face,L.A. Girl HD Pro Concealer Medium Bisque GC975,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+903,face,L.A. Girl Pro Concealer Nude,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+904,face,L.A. Girl Pro Concealer Dark Cocoa,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+905,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+906,face,Revlon ColorStay Foundation For Combination/Oily Skin - Fresh Beige 250,,nan,"৳ 1,625.00",,30ml
+907,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+908,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+909,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+910,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+911,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+912,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+913,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+914,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+915,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+916,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+917,face,Pierre Cardin Two Phase Make Up Remover,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,150ml
+918,face,Pierre Cardin Porcelain Edition Compact Powder Golden Beige 955,,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+919,face,Nirvana Soft Touch Round Cotton Pad,,nan,৳ 300.00,App Price: ৳ 291.00,
+920,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+921,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+922,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+923,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+924,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+925,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+926,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+927,face,Ireneda Soft Matte Foundation - NE03 Natural Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+928,face,PINKFLASH Duo Makeup Stick - HS02 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+929,face,PINKFLASH All Over Face Contour - S02 Drop (PF-F02),,nan,৳ 250.00,App Price: ৳ 243.00,36gm
+930,face,Nicka K Duo Blush NDO12,,nan,৳ 400.00,App Price: ৳ 380.00,2gm
+931,face,Nicka K Hd Concealer Copper NCL008,,nan,৳ 450.00,App Price: ৳ 437.00,3.3gm
+932,face,Deve Clean & Clear Cleasing Milk,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,300ml
+933,face,Makeup Revolution Conceal & Define Supersize Concealer C6,,nan,৳ 880.00,App Price: ৳ 854.00,13gm
+934,face,Guerniss Mineral Finishpact Highlighter G340,,nan,"৳ 1,760.00",App Price: ৳ 1707.00,13gm
+935,face,Pastel Show By Pastel Show Your Purity Powder 102,,nan,৳ 720.00,App Price: ৳ 698.00,9.3gm
+936,face,Pastel Silky Dream Foundation 350,,nan,৳ 720.00,App Price: ৳ 698.00,30ml
+937,face,Pastel Show By Pastel Show Your Purity Powder 102,,nan,৳ 720.00,App Price: ৳ 698.00,9.3gm
+938,face,Pastel Silky Dream Foundation 350,,nan,৳ 720.00,App Price: ৳ 698.00,30ml
+939,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+940,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+941,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+942,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+943,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+944,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+945,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+946,face,Pierre Cardin Two Phase Make Up Remover,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,150ml
+947,face,Pierre Cardin Porcelain Edition Compact Powder Golden Beige 955,,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+948,face,Nirvana Soft Touch Round Cotton Pad,,nan,৳ 300.00,App Price: ৳ 291.00,
+949,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+950,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+951,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+952,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+953,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+954,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+955,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+956,face,Ireneda Soft Matte Foundation - NE03 Natural Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+957,face,PINKFLASH Duo Makeup Stick - HS02 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+958,face,PINKFLASH All Over Face Contour - S02 Drop (PF-F02),,nan,৳ 250.00,App Price: ৳ 243.00,36gm
+959,face,Nicka K Duo Blush NDO12,,nan,৳ 400.00,App Price: ৳ 380.00,2gm
+960,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+961,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+962,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+963,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+964,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+965,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+966,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+967,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+968,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+969,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+970,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+971,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+972,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+973,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+974,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+975,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+976,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+977,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+978,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+979,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+980,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+981,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+982,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+983,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+984,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+985,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+986,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+987,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+988,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+989,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+990,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+991,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+992,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+993,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+994,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+995,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+996,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+997,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+998,face,Pierre Cardin Two Phase Make Up Remover,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,150ml
+999,face,Pierre Cardin Porcelain Edition Compact Powder Golden Beige 955,,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+1000,face,Nirvana Soft Touch Round Cotton Pad,,nan,৳ 300.00,App Price: ৳ 291.00,
+1001,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+1002,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1003,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1004,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1005,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1006,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1007,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+1008,face,Makeup Revolution Conceal & Define Supersize Concealer C6,,nan,৳ 880.00,App Price: ৳ 854.00,13gm
+1009,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+1010,face,Guerniss Mineral Finishpact Highlighter G340,,nan,"৳ 1,760.00",App Price: ৳ 1707.00,13gm
+1011,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+1012,face,Deve Clean & Clear Cleasing Milk,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,300ml
+1013,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+1014,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+1015,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+1016,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+1017,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+1018,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1019,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1020,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1021,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1022,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1023,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+1024,face,Ireneda Soft Matte Foundation - NE03 Natural Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+1025,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+1026,face,PINKFLASH Duo Makeup Stick - HS02 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+1027,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+1028,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+1029,face,Nicka K Duo Blush NDO12,,nan,৳ 400.00,App Price: ৳ 380.00,2gm
+1030,face,Nicka K Hd Concealer Copper NCL008,,nan,৳ 450.00,App Price: ৳ 437.00,3.3gm
+1031,face,PINKFLASH All Over Face Contour - S02 Drop (PF-F02),,nan,৳ 250.00,App Price: ৳ 243.00,36gm
+1032,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+1033,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+1034,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+1035,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+1036,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+1037,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+1038,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+1039,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+1040,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+1041,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+1042,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+1043,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+1044,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+1045,face,Pierre Cardin Two Phase Make Up Remover,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,150ml
+1046,face,Pierre Cardin Porcelain Edition Compact Powder Golden Beige 955,,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+1047,face,Nirvana Soft Touch Round Cotton Pad,,nan,৳ 300.00,App Price: ৳ 291.00,
+1048,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+1049,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1050,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1051,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1052,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1053,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1054,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+1055,face,Ireneda Soft Matte Foundation - NE03 Natural Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+1056,face,PINKFLASH Duo Makeup Stick - HS02 (PF-F21),,nan,৳ 400.00,App Price: ৳ 388.00,
+1057,face,PINKFLASH All Over Face Contour - S02 Drop (PF-F02),,nan,৳ 250.00,App Price: ৳ 243.00,36gm
+1058,face,Nicka K Duo Blush NDO12,,nan,৳ 400.00,App Price: ৳ 380.00,2gm
+1059,face,Nicka K Hd Concealer Copper NCL008,,nan,৳ 450.00,App Price: ৳ 437.00,3.3gm
+1060,face,Deve Clean & Clear Cleasing Milk,,nan,"৳ 1,150.00",App Price: ৳ 1116.00,300ml
+1061,face,Makeup Revolution Conceal & Define Supersize Concealer C6,,nan,৳ 880.00,App Price: ৳ 854.00,13gm
+1062,face,Guerniss Mineral Finishpact Highlighter G340,,nan,"৳ 1,760.00",App Price: ৳ 1707.00,13gm
+1063,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+1064,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+1065,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+1066,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1067,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+1068,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1069,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+1070,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1071,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+1072,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1073,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+1074,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+1075,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+1076,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+1077,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+1078,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1079,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+1080,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+1081,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+1082,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+1083,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+1084,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+1085,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+1086,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+1087,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+1088,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1089,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+1090,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+1091,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+1092,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+1093,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1094,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+1095,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+1096,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+1097,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+1098,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+1099,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+1100,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+1101,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+1102,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+1103,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+1104,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1105,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1106,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1107,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1108,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1109,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+1110,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+1111,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+1112,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+1113,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+1114,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+1115,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+1116,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+1117,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1118,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1119,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1120,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1121,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1122,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+1123,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+1124,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+1125,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+1126,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+1127,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+1128,face,Maybelline Baby Skin Instant Pore Eraser (USA),,nan,৳ 900.00,App Price: ৳ 873.00,22ml
+1129,face,L.A. Girl Pro Concealer Medium Beige,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+1130,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+1131,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+1132,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+1133,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+1134,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+1135,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+1136,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+1137,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+1138,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+1139,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+1140,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1141,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1142,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1143,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1144,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1145,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+1146,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+1147,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1148,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+1149,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1150,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+1151,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1152,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+1153,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1154,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+1155,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+1156,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+1157,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+1158,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+1159,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1160,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+1161,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+1162,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+1163,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+1164,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+1165,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+1166,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+1167,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+1168,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+1169,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1170,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+1171,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+1172,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+1173,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+1174,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1175,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+1176,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+1177,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+1178,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+1179,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+1180,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+1181,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+1182,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+1183,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+1184,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+1185,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1186,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1187,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1188,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1189,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1190,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+1191,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+1192,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+1193,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+1194,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+1195,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+1196,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+1197,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+1198,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1199,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1200,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1201,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1202,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1203,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+1204,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+1205,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+1206,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+1207,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+1208,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+1209,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+1210,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+1211,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+1212,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+1213,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+1214,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+1215,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+1216,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+1217,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1218,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1219,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1220,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1221,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1222,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+1223,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+1224,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1225,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+1226,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1227,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+1228,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1229,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+1230,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1231,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+1232,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+1233,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+1234,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+1235,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+1236,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1237,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+1238,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+1239,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+1240,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+1241,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+1242,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+1243,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+1244,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+1245,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+1246,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1247,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+1248,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+1249,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+1250,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+1251,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1252,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+1253,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+1254,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+1255,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+1256,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+1257,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+1258,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+1259,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+1260,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+1261,face,Makeup Revolution Superdewy Liquid Blusher You Had Me At First Blush,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,15ml
+1262,face,Ireneda Crush Crush Powder Blush - OR03 Black Tea (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1263,face,Ireneda Crush Crush Powder Blush - PK01 Delicate Petal (IR07),,nan,৳ 300.00,App Price: ৳ 291.00,2.7gm
+1264,face,Ireneda Trust Me Concealer - NE01 Light (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1265,face,Ireneda Trust Me Concealer - CL02 Peach (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1266,face,Ireneda Trust Me Concealer - YL03 Natural (IR-F01),,nan,৳ 350.00,App Price: ৳ 340.00,2.5gm
+1267,face,Ireneda Soft Matte Foundation - YL02 Sand Beige (IR-F02),,nan,৳ 600.00,App Price: ৳ 582.00,0.38gm
+1268,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+1269,face,Note Detox And Protect Foundation 01 Pump Beige,,nan,"৳ 1,450.00",,35ml
+1270,face,Makeup Revolution Conceal & Define Powder P10,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,4gm
+1271,face,Makeup Revolution Makeup Revolution Conceal & Define Concealer C2,,nan,৳ 880.00,App Price: ৳ 854.00,4gm
+1272,face,Laikou Olive Makeup Remover,,nan,৳ 550.00,App Price: ৳ 534.00,100ml
+1273,face,Makeup Revolution Relove By Revolution Super Matte Pressed Warm Beige,,nan,৳ 430.00,App Price: ৳ 417.00,6gm
+1274,face,Technic Contour Blush & Highlighter Palette,,nan,৳ 750.00,App Price: ৳ 728.00,
+1275,face,NIOR Your Best Skin Soft Matte Foundation Vanilla Ice,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,30gm
+1276,face,NIOR Your Best Skin Perfecting Concealer Desert,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,9.5gm
+1277,face,Dr. C. Tuna Light To Medium Tea Tree BB Cream,,nan,"৳ 1,300.00",,50ml
+1278,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+1279,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1280,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+1281,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1282,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+1283,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1284,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+1285,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1286,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+1287,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+1288,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+1289,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+1290,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+1291,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1292,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+1293,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+1294,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+1295,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+1296,face,RIBANA Make-up Remover Soap,SALE,৳ 500.00,৳ 440.00,App Price: ৳ 427.00,95gm
+1297,face,Boots cucumber cleansing lotion Sweep the night away 150ml,SALE,৳ 550.00,৳ 495.00,App Price: ৳ 480.00,150ml
+1298,face,Absolute New York Click Cover Concealer MFCC 04- MEDIUM OLIVE UNDERTONE,SALE,৳ 650.00,৳ 520.00,App Price: ৳ 504.00,28gm
+1299,face,PRESTIGE Athena Beaute 100 Cotton Wool Balls,SALE,৳ 325.00,৳ 225.00,App Price: ৳ 218.00,
+1300,face,Xpel TEA TREE facial Cleansing Wipes,SALE,৳ 450.00,৳ 350.00,App Price: ৳ 340.00,
+1301,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1302,face,Technic Banana Bright Loose Powder,SALE,৳ 550.00,৳ 399.00,App Price: ৳ 387.00,10gm
+1303,face,Miss & Mrs Nina 3 Colors Blush - 2,SALE,৳ 290.00,৳ 275.00,App Price: ৳ 267.00,7.9gm
+1304,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1305,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+1306,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1307,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+1308,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1309,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+1310,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1311,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+1312,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1313,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1314,face,Nirvana Color Face Perfect Liquid Foundation - Light Beige F02,SALE,৳ 750.00,৳ 668.00,App Price: ৳ 648.00,30ml
+1315,face,Athena 100 Cotton Wool Balls,SALE,৳ 250.00,৳ 220.00,App Price: ৳ 213.00,
+1316,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1317,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1318,face,Miss & Mrs Nina 5 Colors Cheek Glow Looks - 02,SALE,৳ 470.00,৳ 410.00,App Price: ৳ 398.00,12.5gm
+1319,face,W7 HD Concealer - Light warm LW5,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1320,face,W7 HD Concealer - Fair Neutral FN2,SALE,৳ 450.00,৳ 405.00,App Price: ৳ 393.00,14ml
+1321,face,W7 HD Concealer  - Fair Cool FC1,SALE,৳ 450.00,৳ 375.00,App Price: ৳ 364.00,14ml
+1322,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1323,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,
+1324,face,PRESTIGE Athena Beaute Cotton Wool Cosmetic Pads,SALE,৳ 275.00,৳ 245.00,App Price: ৳ 238.00,

@@ -1,22 +1,1009 @@
 ,category,product_title,product_ribbon,product_prev_price,product_curr_price,product_app_price,product_weight
-0,beauty-bonanza-clearance-sale,Natures Response Energising Blend Essential Oil,,"৳ 1,250.00",৳ 515.00, ,10ml
-1,beauty-bonanza-clearance-sale,HB Factory Red Ginseng Cleansing Foam,,"৳ 1,250.00",৳ 515.00,App Price: ৳ 825.00,80ml
-2,beauty-bonanza-clearance-sale,Flormar Stylematic Lipliner Coconude SL11,,"৳ 1,250.00",৳ 515.00, ,0.35gm
-3,beauty-bonanza-clearance-sale,Grace Day Papain Plex Ampoule,SALE,"৳ 1,250.00",৳ 515.00,App Price: ৳ 1116.00,50ml
-4,beauty-bonanza-clearance-sale,WAHL 11 Piece Rechargeable Multigroomer Kit,SALE,"৳ 1,250.00",৳ 515.00,App Price: ৳ 2280.00,
-5,beauty-bonanza-clearance-sale,The Body Shop White Musk Flora Scented Body Lotion,SALE,"৳ 1,250.00",৳ 515.00,App Price: ৳ 1833.00,250ml
-6,beauty-bonanza-clearance-sale,Beverly Hills Polo Club No 2 Women Eau De Parfum,SALE,"৳ 1,250.00",৳ 515.00,App Price: ৳ 1397.00,50ml
-7,beauty-bonanza-clearance-sale,Chanel Bleu De Chanel Eau De Toilette (EDT),SALE,"৳ 1,250.00",৳ 515.00, ,150ml
-8,beauty-bonanza-clearance-sale,"Eucerin Skin Calming Cream Full Body Lotion for Dry, Itchy Skin, Natural Oatmeal Enriched",SALE,"৳ 1,250.00",৳ 515.00,App Price: ৳ 1663.00,226gm
-9,beauty-bonanza-clearance-sale,NEOGEN - Dermalogy Real Vita C Powder Lemon,SALE,"৳ 1,250.00",৳ 515.00,App Price: ৳ 1746.00,20gm
-10,beauty-bonanza-clearance-sale,Hugo Boss Boss Orange Pour Femme Eau de Toilette,SALE,"৳ 1,250.00",৳ 515.00,App Price: ৳ 4365.00,75ml
-11,beauty-bonanza-clearance-sale,Technic Pro Pigment Loose Eye Shadow Powder - Shoop Shoop Pink,SALE,"৳ 1,250.00",৳ 515.00,App Price: ৳ 315.00,2gm
-12,beauty-bonanza-clearance-sale,Technic Pro Pigment Loose Eye Shadow Powder - Merry Mermaid,SALE,"৳ 1,250.00",৳ 515.00,App Price: ৳ 315.00,2gm
-13,beauty-bonanza-clearance-sale,Alpecin Sport Caffeine Shampoo CTX,SALE,"৳ 1,250.00",৳ 515.00,App Price: ৳ 1504.00,250ml
-14,beauty-bonanza-clearance-sale,Vatika Hair Fall Control Shampoo with Cactus & Gergir,SALE,"৳ 1,250.00",৳ 515.00,App Price: ৳ 713.00,400ml
-15,beauty-bonanza-clearance-sale,Clinique for Men Face Wash Oily Skin Formula,SALE,"৳ 1,250.00",৳ 515.00, ,200ml
-16,beauty-bonanza-clearance-sale,Alpecin Medicinal Shampoo Concentrate for dandruff,SALE,"৳ 1,250.00",৳ 515.00,App Price: ৳ 1504.00,200ml
-17,beauty-bonanza-clearance-sale,Technic Pro Pigment Loose Eye Shadow Powder - Blue'd Up,SALE,"৳ 1,250.00",৳ 515.00,App Price: ৳ 315.00,2gm
-18,beauty-bonanza-clearance-sale,Clinique 7 Day Scrub Cream Rinse-Off Formula,SALE,"৳ 1,250.00",৳ 515.00, ,100ml
-19,beauty-bonanza-clearance-sale,Issey Miyake Nuit D’issey Parfum For Men,SALE,"৳ 1,250.00",৳ 515.00,App Price: ৳ 7275.00,125ml
-20,beauty-bonanza-clearance-sale,Listerine Reach Toothbrush Access Firm Toothbrush,SALE,"৳ 1,250.00",৳ 515.00,App Price: ৳ 184.00,
+0,beauty-bonanza-clearance-sale,Natures Response Energising Blend  Essential Oil,,nan,৳ 515.00,,10ml
+1,beauty-bonanza-clearance-sale,Flormar Stylematic Lipliner Coconude SL11,,nan,৳ 700.00,,0.35gm
+2,beauty-bonanza-clearance-sale,HB Factory Red Ginseng Cleansing Foam,,nan,৳ 850.00,App Price: ৳ 825.00,80ml
+3,beauty-bonanza-clearance-sale,Listerine Reach Toothbrush Access Firm Toothbrush,SALE,৳ 250.00,৳ 190.00,App Price: ৳ 184.00,
+4,beauty-bonanza-clearance-sale,Clinique 7 Day Scrub Cream Rinse-Off Formula,SALE,"৳ 4,000.00","৳ 3,000.00",,100ml
+5,beauty-bonanza-clearance-sale,Wazih Organic Marigold Flower Powder,SALE,৳ 250.00,৳ 200.00,App Price: ৳ 194.00,80gm
+6,beauty-bonanza-clearance-sale,Grace Day Aqua Forest Mist,SALE,"৳ 1,250.00","৳ 1,150.00",App Price: ৳ 1116.00,100ml
+7,beauty-bonanza-clearance-sale,Irish Spring 5 in 1 Hair Body Wash and Shampoo,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,532ml
+8,beauty-bonanza-clearance-sale,W7 Glamorous Artificial Nails Red Carpet,SALE,৳ 475.00,৳ 425.00,App Price: ৳ 412.00,2gm
+9,beauty-bonanza-clearance-sale,Issey Miyake Nuit D’issey Parfum For Men,SALE,"৳ 8,500.00","৳ 7,500.00",App Price: ৳ 7275.00,125ml
+10,beauty-bonanza-clearance-sale,Eucerin Dermo Purifyer Oil Control Scrub,SALE,"৳ 1,850.00","৳ 1,750.00",App Price: ৳ 1698.00,100ml
+11,beauty-bonanza-clearance-sale,Enchanteur Satin Smooth Enticing Lotion with Aloe Vera & Olive Butter,SALE,৳ 750.00,৳ 595.00,App Price: ৳ 577.00,250ml
+12,beauty-bonanza-clearance-sale,Clinique Happy Perfume Spray for Women,SALE,"৳ 6,200.00","৳ 4,449.00",App Price: ৳ 4316.00,100ml
+13,beauty-bonanza-clearance-sale,Alpecin Medicinal Shampoo Concentrate for oily hair,SALE,"৳ 1,850.00","৳ 1,550.00",App Price: ৳ 1504.00,200ml
+14,beauty-bonanza-clearance-sale,Vatika Hair Fall Control Shampoo with Cactus & Gergir,SALE,৳ 950.00,৳ 750.00,App Price: ৳ 728.00,400ml
+15,beauty-bonanza-clearance-sale,Alpecin Medicinal Shampoo Concentrate for dandruff,SALE,"৳ 1,850.00","৳ 1,550.00",App Price: ৳ 1504.00,200ml
+16,beauty-bonanza-clearance-sale,La Roche-Posay Hydraphase UV Intense Moisturiser Rich,SALE,"৳ 2,950.00","৳ 2,350.00",App Price: ৳ 2280.00,50ml
+17,beauty-bonanza-clearance-sale,Clinique for Men Face Wash Oily Skin Formula,SALE,"৳ 8,500.00","৳ 6,099.00",,200ml
+18,beauty-bonanza-clearance-sale,Technic Pro Pigment Loose Eye Shadow Powder - Blue'd Up,SALE,৳ 395.00,৳ 325.00,App Price: ৳ 315.00,2gm
+19,beauty-bonanza-clearance-sale,Technic Pro Pigment Loose Eye Shadow Powder - Shoop Shoop Pink,SALE,৳ 395.00,৳ 325.00,App Price: ৳ 315.00,2gm
+20,beauty-bonanza-clearance-sale,Technic Pro Pigment Loose Eye Shadow Powder - Merry Mermaid,SALE,৳ 395.00,৳ 325.00,App Price: ৳ 315.00,2gm
+21,beauty-bonanza-clearance-sale,The Body Shop White Musk Flora Scented Body Lotion,SALE,"৳ 2,700.00","৳ 1,890.00",App Price: ৳ 1833.00,250ml
+22,beauty-bonanza-clearance-sale,Beverly Hills Polo Club No 2 Women Eau De Parfum,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+23,beauty-bonanza-clearance-sale,WAHL 11 Piece Rechargeable Multigroomer Kit,SALE,"৳ 2,650.00","৳ 2,350.00",App Price: ৳ 2280.00,
+24,beauty-bonanza-clearance-sale,Grace Day Papain Plex Ampoule,SALE,"৳ 1,250.00","৳ 1,150.00",App Price: ৳ 1116.00,50ml
+25,beauty-bonanza-clearance-sale,NEOGEN - Dermalogy Real Vita C Powder Lemon,SALE,"৳ 1,950.00","৳ 1,800.00",App Price: ৳ 1746.00,20gm
+26,beauty-bonanza-clearance-sale,Chanel Bleu De Chanel Eau De Toilette (EDT),SALE,"৳ 22,000.00","৳ 21,340.00",,150ml
+27,beauty-bonanza-clearance-sale,Alpecin Sport Caffeine Shampoo CTX,SALE,"৳ 1,850.00","৳ 1,550.00",App Price: ৳ 1504.00,250ml
+28,beauty-bonanza-clearance-sale,Hugo Boss Boss Orange Pour Femme Eau de Toilette,SALE,"৳ 5,500.00","৳ 4,500.00",App Price: ৳ 4365.00,75ml
+29,beauty-bonanza-clearance-sale,Alix Avien Matte Lipstick 206,SALE,"৳ 1,350.00","৳ 1,015.00",,4.5gm
+30,beauty-bonanza-clearance-sale,Jergens Natural Glow 3 Days to Glow Moisturizer Medium To Deep Skin Tones,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,118ml
+31,beauty-bonanza-clearance-sale,Avene Toning Lotion,SALE,"৳ 2,250.00","৳ 2,070.00",App Price: ৳ 2008.00,200ml
+32,beauty-bonanza-clearance-sale,Avene Physiolift Serum,SALE,"৳ 3,450.00","৳ 3,380.00",App Price: ৳ 3279.00,30ml
+33,beauty-bonanza-clearance-sale,La Roche-Posay Sensitive Skin Soothing Lotion,SALE,"৳ 2,950.00","৳ 2,350.00",App Price: ৳ 2280.00,200ml
+34,beauty-bonanza-clearance-sale,The Body Shop Strawberry Home Fragrance Oil,SALE,"৳ 1,000.00",৳ 700.00,App Price: ৳ 679.00,10ml
+35,beauty-bonanza-clearance-sale,Azzaro Chrome EDT Spray,SALE,"৳ 6,800.00","৳ 4,950.00",App Price: ৳ 4802.00,100ml
+36,beauty-bonanza-clearance-sale,Azzaro Chrome United EDT,SALE,"৳ 6,800.00","৳ 4,850.00",App Price: ৳ 4705.00,100ml
+37,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 1 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+38,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No 2 Gift Set For Men Eau De Toilette 50ml With Sport Deodorant 175ml,SALE,"৳ 1,800.00","৳ 1,620.00",App Price: ৳ 1571.00,225ml
+39,beauty-bonanza-clearance-sale,Lauder Pleasures For Men Cologne Spray,SALE,"৳ 7,000.00","৳ 5,900.00",App Price: ৳ 5723.00,100ml
+40,beauty-bonanza-clearance-sale,Clinique Smart Custom Repair Moisturizer SPF 15,SALE,"৳ 13,000.00","৳ 9,750.00",,50ml
+41,beauty-bonanza-clearance-sale,Carolina Herrera 212 VIP Are You On The List EDP For her,SALE,"৳ 9,500.00","৳ 6,950.00",App Price: ৳ 6742.00,125ml
+42,beauty-bonanza-clearance-sale,Grace Day 15% Aloe Cream,SALE,"৳ 1,200.00","৳ 1,150.00",App Price: ৳ 1116.00,50ml
+43,beauty-bonanza-clearance-sale,Grace Day Anti Dust Peeling Pollution Gel,SALE,"৳ 1,350.00","৳ 1,250.00",App Price: ৳ 1213.00,180ml
+44,beauty-bonanza-clearance-sale,Grace Day Pure Plex Peptide Skin Toner,SALE,"৳ 1,750.00","৳ 1,650.00",App Price: ৳ 1601.00,250ml
+45,beauty-bonanza-clearance-sale,Grace Day Bouquet Marine Mist ,SALE,"৳ 1,250.00","৳ 1,150.00",App Price: ৳ 1116.00,100ml
+46,beauty-bonanza-clearance-sale,Nivea Hyaluron Cellular Filler Elasticity Reshape Anti-Age Day Cream,SALE,"৳ 2,500.00","৳ 1,650.00",App Price: ৳ 1601.00,50ml
+47,beauty-bonanza-clearance-sale,Superdrug Naturally Radiant Brightening Radiance Balm,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 903.00,50ml
+48,beauty-bonanza-clearance-sale,Paco Rabanne  Lady Million Deodorant Spray,SALE,"৳ 2,800.00","৳ 2,350.00",App Price: ৳ 2280.00,150ml
+49,beauty-bonanza-clearance-sale,Tabac Original Beard & Shaving Oil,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,50ml
+50,beauty-bonanza-clearance-sale,The Body Shop Oils of Life Intensely Revitalising Eye Cream Gel,SALE,"৳ 3,450.00","৳ 2,760.00",App Price: ৳ 2677.00,20ml
+51,beauty-bonanza-clearance-sale,Jergens Natural Glow 3 Days to Glow Moisturizer Medium To Deep Skin Tones,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,118ml
+52,beauty-bonanza-clearance-sale,Avene Toning Lotion,SALE,"৳ 2,250.00","৳ 2,070.00",App Price: ৳ 2008.00,200ml
+53,beauty-bonanza-clearance-sale,Avene Physiolift Serum,SALE,"৳ 3,450.00","৳ 3,380.00",App Price: ৳ 3279.00,30ml
+54,beauty-bonanza-clearance-sale,La Roche-Posay Sensitive Skin Soothing Lotion,SALE,"৳ 2,950.00","৳ 2,350.00",App Price: ৳ 2280.00,200ml
+55,beauty-bonanza-clearance-sale,The Body Shop Strawberry Home Fragrance Oil,SALE,"৳ 1,000.00",৳ 700.00,App Price: ৳ 679.00,10ml
+56,beauty-bonanza-clearance-sale,Azzaro Chrome EDT Spray,SALE,"৳ 6,800.00","৳ 4,950.00",App Price: ৳ 4802.00,100ml
+57,beauty-bonanza-clearance-sale,Azzaro Chrome United EDT,SALE,"৳ 6,800.00","৳ 4,850.00",App Price: ৳ 4705.00,100ml
+58,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 1 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+59,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No 2 Gift Set For Men Eau De Toilette 50ml With Sport Deodorant 175ml,SALE,"৳ 1,800.00","৳ 1,620.00",App Price: ৳ 1571.00,225ml
+60,beauty-bonanza-clearance-sale,Lauder Pleasures For Men Cologne Spray,SALE,"৳ 7,000.00","৳ 5,900.00",App Price: ৳ 5723.00,100ml
+61,beauty-bonanza-clearance-sale,Clinique Smart Custom Repair Moisturizer SPF 15,SALE,"৳ 13,000.00","৳ 9,750.00",,50ml
+62,beauty-bonanza-clearance-sale,Carolina Herrera 212 VIP Are You On The List EDP For her,SALE,"৳ 9,500.00","৳ 6,950.00",App Price: ৳ 6742.00,125ml
+63,beauty-bonanza-clearance-sale,Alpecin Aktiv-Shampoo A2,SALE,"৳ 1,850.00","৳ 1,550.00",App Price: ৳ 1504.00,250ml
+64,beauty-bonanza-clearance-sale,Alpecin Fresh Medicinal Vital Scalp and Hair Tonic,SALE,"৳ 1,850.00","৳ 1,550.00",App Price: ৳ 1504.00,200ml
+65,beauty-bonanza-clearance-sale,Alpecin Power Grey Shampoo,SALE,"৳ 1,850.00","৳ 1,550.00",App Price: ৳ 1504.00,200ml
+66,beauty-bonanza-clearance-sale,Superdrug Naturally Radiant Brightening Radiance Balm,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 903.00,50ml
+67,beauty-bonanza-clearance-sale,Nivea Hyaluron Cellular Filler Elasticity Reshape Anti-Age Day Cream,SALE,"৳ 2,500.00","৳ 1,650.00",App Price: ৳ 1601.00,50ml
+68,beauty-bonanza-clearance-sale,Krasna Advanced Reverse Solution Juvenis Cream,SALE,"৳ 1,700.00","৳ 1,680.00",App Price: ৳ 1630.00,50ml
+69,beauty-bonanza-clearance-sale,Grace Day 15% Aloe Cream,SALE,"৳ 1,200.00","৳ 1,150.00",App Price: ৳ 1116.00,50ml
+70,beauty-bonanza-clearance-sale,Grace Day Anti Dust Peeling Pollution Gel,SALE,"৳ 1,350.00","৳ 1,250.00",App Price: ৳ 1213.00,180ml
+71,beauty-bonanza-clearance-sale,Grace Day Pure Plex Peptide Skin Toner,SALE,"৳ 1,750.00","৳ 1,650.00",App Price: ৳ 1601.00,250ml
+72,beauty-bonanza-clearance-sale,Grace Day Bouquet Marine Mist ,SALE,"৳ 1,250.00","৳ 1,150.00",App Price: ৳ 1116.00,100ml
+73,beauty-bonanza-clearance-sale,Clinique Take The Day Off Make Up Remover,SALE,"৳ 3,500.00","৳ 2,529.00",,125ml
+74,beauty-bonanza-clearance-sale,WAHL 9 Piece Rechargeable Stubble & Beard Kit,SALE,"৳ 2,650.00","৳ 2,350.00",App Price: ৳ 2280.00,
+75,beauty-bonanza-clearance-sale,Tabac Original Beard & Shaving Oil,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,50ml
+76,beauty-bonanza-clearance-sale,Paco Rabanne  Lady Million Deodorant Spray,SALE,"৳ 2,800.00","৳ 2,350.00",App Price: ৳ 2280.00,150ml
+77,beauty-bonanza-clearance-sale,The Body Shop Oils of Life Intensely Revitalising Eye Cream Gel,SALE,"৳ 3,450.00","৳ 2,760.00",App Price: ৳ 2677.00,20ml
+78,beauty-bonanza-clearance-sale,Aveeno Baby Oat Extract Bubble Bath,SALE,"৳ 3,500.00","৳ 2,450.00",App Price: ৳ 2377.00,568ml
+79,beauty-bonanza-clearance-sale,Vanicream Gentle Body Wash,SALE,"৳ 2,650.00","৳ 1,999.00",App Price: ৳ 1939.00,355ml
+80,beauty-bonanza-clearance-sale,The Body Shop Oils Of Life Revitalising Facial Roller,SALE,"৳ 2,650.00","৳ 2,120.00",App Price: ৳ 2056.00,
+81,beauty-bonanza-clearance-sale,Elizabeth Arden NYC EDP Spray,SALE,"৳ 5,100.00","৳ 3,500.00",App Price: ৳ 3395.00,75ml
+82,beauty-bonanza-clearance-sale,Chanel Allure Body Lotion,SALE,"৳ 12,000.00","৳ 8,500.00",,200ml
+83,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 2 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+84,beauty-bonanza-clearance-sale,Ralph Lauren Polo Big Pony 2 EDT Spray Pink For Women,SALE,"৳ 8,500.00","৳ 6,850.00",App Price: ৳ 6645.00,100ml
+85,beauty-bonanza-clearance-sale,Remington G2 Graphite Series Multi Grooming Kit  PG2000,SALE,"৳ 3,475.00","৳ 3,150.00",App Price: ৳ 3056.00,204gm
+86,beauty-bonanza-clearance-sale,Elizabeth Arden NYC EDP Spray,SALE,"৳ 5,100.00","৳ 3,500.00",App Price: ৳ 3395.00,75ml
+87,beauty-bonanza-clearance-sale,Chanel Allure Body Lotion,SALE,"৳ 12,000.00","৳ 8,500.00",,200ml
+88,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 2 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+89,beauty-bonanza-clearance-sale,Alix Avien Contour Brush,SALE,"৳ 1,350.00","৳ 1,015.00",,
+90,beauty-bonanza-clearance-sale,Vanicream Gentle Body Wash,SALE,"৳ 2,650.00","৳ 1,999.00",App Price: ৳ 1939.00,355ml
+91,beauty-bonanza-clearance-sale,No7 Hydraluminous Day Cream SPF 15,SALE,"৳ 1,850.00","৳ 1,550.00",App Price: ৳ 1504.00,50ml
+92,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+93,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+94,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+95,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+96,beauty-bonanza-clearance-sale,LIL'AFIX Professional Conditioner Spray - Pink,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,400ml
+97,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+98,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+99,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+100,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+101,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+102,beauty-bonanza-clearance-sale,Revox Just Blend Oil Nourishing Serum,,nan,৳ 950.00,App Price: ৳ 922.00,30ml
+103,beauty-bonanza-clearance-sale,Revox Skin Therapy Oil,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,75ml
+104,beauty-bonanza-clearance-sale,J.Cat Rockin' The Night Sparkling Powder SP217 Amber Jewelry,,nan,৳ 300.00,App Price: ৳ 291.00,4gm
+105,beauty-bonanza-clearance-sale,Spa Secrets Clay & Gel Face Mask Set,,nan,"৳ 1,550.00",App Price: ৳ 1504.00,120ml
+106,beauty-bonanza-clearance-sale,Dorco PACE 4 Blade Disposable Razors For Men,,nan,৳ 850.00,App Price: ৳ 825.00,
+107,beauty-bonanza-clearance-sale,Ralph Lauren Polo Eau de Toilette,,nan,"৳ 8,500.00",App Price: ৳ 8245.00,118ml
+108,beauty-bonanza-clearance-sale,Revlon Ultra Hd Matte Lip Color Devotion,,nan,"৳ 1,950.00",,5.9gm
+109,beauty-bonanza-clearance-sale,Pastel Advance Powder 50,,nan,৳ 650.00,App Price: ৳ 631.00,11gm
+110,beauty-bonanza-clearance-sale,NICKA K EYE PENCIL PUSH A082,,nan,৳ 185.00,App Price: ৳ 179.00,1gm
+111,beauty-bonanza-clearance-sale,Flormar Silk Matte Liquid Lipstick 07 Claret Red,,nan,"৳ 1,000.00",,4.5ml
+112,beauty-bonanza-clearance-sale,Beauty Formulas Tea Tree Deep Cleansing Shampoo,,nan,৳ 550.00,App Price: ৳ 534.00,200ml
+113,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+114,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+115,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+116,beauty-bonanza-clearance-sale,TTM Fair Radiance Skin Enhancement Mask,,nan,৳ 420.00,App Price: ৳ 407.00,33ml
+117,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+118,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+119,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+120,beauty-bonanza-clearance-sale,Revlon Nearly Naked Pressed Powder Fair,,nan,"৳ 1,250.00",,8gm
+121,beauty-bonanza-clearance-sale,Flormar Silk Matte Liquid Lipstick 13 Pink Dream,,nan,"৳ 1,100.00",,4.5ml
+122,beauty-bonanza-clearance-sale,Flormar Glitter Nail Enamel GL44 Purple Glare,,nan,৳ 320.00,,11ml
+123,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+124,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+125,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+126,beauty-bonanza-clearance-sale,Azzaro Eau De Toilette Spray,,nan,"৳ 4,500.00",App Price: ৳ 4365.00,100ml
+127,beauty-bonanza-clearance-sale,Olay Beauty Fluid Sensitive Moisturiser,,nan,"৳ 1,950.00",App Price: ৳ 1892.00,200ml
+128,beauty-bonanza-clearance-sale,Lebelage Cica Propolis Myrrh Ampoule,,nan,৳ 900.00,App Price: ৳ 873.00,15ml
+129,beauty-bonanza-clearance-sale,Xpel Tea Tree Antibacterial Handwash,,nan,৳ 550.00,App Price: ৳ 534.00,500ml
+130,beauty-bonanza-clearance-sale,SKINFOOD Vege Garden Cleansing Foam Wild Berry,,nan,৳ 950.00,App Price: ৳ 922.00,150ml
+131,beauty-bonanza-clearance-sale,Pastel Terracota Blush On 2,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,9gm
+132,beauty-bonanza-clearance-sale,Pastel Terracota Blush On 1,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,9gm
+133,beauty-bonanza-clearance-sale,NICKA K LIP PENCIL SACHET A21,,nan,৳ 185.00,App Price: ৳ 179.00,1gm
+134,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+135,beauty-bonanza-clearance-sale,Revlon Nearly Naked Pressed Powder Fair,,nan,"৳ 1,250.00",,8gm
+136,beauty-bonanza-clearance-sale,TTM Fair Radiance Skin Enhancement Mask,,nan,৳ 420.00,App Price: ৳ 407.00,33ml
+137,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+138,beauty-bonanza-clearance-sale,Revox Just Blend Oil Nourishing Serum,,nan,৳ 950.00,App Price: ৳ 922.00,30ml
+139,beauty-bonanza-clearance-sale,Revox Skin Therapy Oil,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,75ml
+140,beauty-bonanza-clearance-sale,J.Cat Rockin' The Night Sparkling Powder SP217 Amber Jewelry,,nan,৳ 300.00,App Price: ৳ 291.00,4gm
+141,beauty-bonanza-clearance-sale,J.Cat Rockin' the Night Sparkling Powder SP210 Bondi Black,,nan,৳ 300.00,App Price: ৳ 291.00,4gm
+142,beauty-bonanza-clearance-sale,J.Cat Rockin' the Night Sparkling Powder SP216 Gingerbread Sugar,,nan,৳ 300.00,App Price: ৳ 291.00,4gm
+143,beauty-bonanza-clearance-sale,Flormar Silk Matte Liquid Lipstick 13 Pink Dream,,nan,"৳ 1,100.00",,4.5ml
+144,beauty-bonanza-clearance-sale,Flormar Glitter Nail Enamel GL44 Purple Glare,,nan,৳ 320.00,,11ml
+145,beauty-bonanza-clearance-sale,Pastel Silky Dream Foundation 355,,nan,৳ 720.00,App Price: ৳ 698.00,30ml
+146,beauty-bonanza-clearance-sale,Pastel Profashion Eyebrow Duo Light 01,,nan,৳ 490.00,App Price: ৳ 475.00,40gm
+147,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+148,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+149,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+150,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+151,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+152,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+153,beauty-bonanza-clearance-sale,LIL'AFIX Professional Conditioner Spray - Pink,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,400ml
+154,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+155,beauty-bonanza-clearance-sale,Paco Rabanne Invictus Eau de Toilette for men,,nan,"৳ 9,500.00",App Price: ৳ 9215.00,150ml
+156,beauty-bonanza-clearance-sale,Pastel Daylong Lipcolor Kissproof 40,,nan,৳ 875.00,App Price: ৳ 849.00,7ml
+157,beauty-bonanza-clearance-sale,Kumano Cosmetics Moisture Facial Wash,,nan,৳ 825.00,App Price: ৳ 800.00,160gm
+158,beauty-bonanza-clearance-sale,Kumano Cosmetics Reihaku W-Medicated Cleansing Foam,,nan,৳ 950.00,App Price: ৳ 922.00,190gm
+159,beauty-bonanza-clearance-sale,Deep Fresh Shampoo With Extract- Olive Oil (For Dry Hair),,nan,৳ 450.00,App Price: ৳ 437.00,300ml
+160,beauty-bonanza-clearance-sale,NICKA K HD CONCEALER COFFEE NCL010,,nan,৳ 450.00,App Price: ৳ 437.00,3.3gm
+161,beauty-bonanza-clearance-sale,Nicka K Crème silky stick Au Chico 60,,nan,৳ 450.00,App Price: ৳ 437.00,2.5gm
+162,beauty-bonanza-clearance-sale,Selsun Blue Moisturizing with Aloe Dandruff Shampoo,,nan,"৳ 2,450.00",App Price: ৳ 2377.00,325ml
+163,beauty-bonanza-clearance-sale,La' Ginny Whitening Face Wash Pineapple Extract,,nan,৳ 390.00,App Price: ৳ 378.00,100ml
+164,beauty-bonanza-clearance-sale,Calvin Klein Obsession Night Eau de Toilette for Men,,nan,"৳ 4,500.00",App Price: ৳ 4365.00,125ml
+165,beauty-bonanza-clearance-sale,NICKA K NEW YORK TRUE MATTE LIPSTICK CLAIRVOYANT NTM13,,nan,৳ 450.00,App Price: ৳ 437.00,3.5gm
+166,beauty-bonanza-clearance-sale,"L.A. Girl Pro Primer Eyeshadow Stick, GEB197 Black",,nan,৳ 650.00,App Price: ৳ 631.00,2gm
+167,beauty-bonanza-clearance-sale,Gillette Winner 5s,,nan,৳ 150.00,,
+168,beauty-bonanza-clearance-sale,PSK Skin Balancing Oil-Control Toner,,nan,"৳ 2,850.00",App Price: ৳ 2765.00,150ml
+169,beauty-bonanza-clearance-sale,Mont Blanc Explorer Ultra Blue Eau de Parfum,,nan,"৳ 7,500.00",App Price: ৳ 7275.00,100ml
+170,beauty-bonanza-clearance-sale,Mont Blanc Presence d’une Femme Eau de Toilette for Women,,nan,"৳ 5,500.00",App Price: ৳ 5335.00,75ml
+171,beauty-bonanza-clearance-sale,Cholley Bioclean Stop Imperfections Purifying Face Cream for Blemishes,,nan,"৳ 4,000.00",,15ml
+172,beauty-bonanza-clearance-sale,Beauti4me Pressed Powder Light Beige PP02,,nan,৳ 950.00,App Price: ৳ 922.00,10gm
+173,beauty-bonanza-clearance-sale,Beauti4me Pressed Powder Honey Bronze PP03,,nan,৳ 950.00,App Price: ৳ 922.00,10gm
+174,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K211,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+175,beauty-bonanza-clearance-sale,Astra Lasting Gel Effect Nail Polish N 34 Peaches,,nan,৳ 450.00,App Price: ৳ 437.00,12ml
+176,beauty-bonanza-clearance-sale,Astra Eye Brush,,nan,৳ 600.00,App Price: ৳ 582.00,
+177,beauty-bonanza-clearance-sale,Astra The Universal Volume Mascara,,nan,৳ 850.00,App Price: ৳ 825.00,13ml
+178,beauty-bonanza-clearance-sale,Anafeli Paris SPF 15 Glowy Foundation 04,,nan,৳ 850.00,App Price: ৳ 825.00,30ml
+179,beauty-bonanza-clearance-sale,Hugo Boss Man Eau De Toilette,,nan,"৳ 5,500.00",App Price: ৳ 5335.00,125ml
+180,beauty-bonanza-clearance-sale,Guerniss Persistent Liquid Matte Lipstick G07,,nan,৳ 890.00,App Price: ৳ 863.00,7gm
+181,beauty-bonanza-clearance-sale,Guerniss Professional Makeup Brush GS 06,,nan,৳ 620.00,App Price: ৳ 601.00,
+182,beauty-bonanza-clearance-sale,Guerniss Professional Makeup Brush GS 07,,nan,৳ 620.00,App Price: ৳ 601.00,
+183,beauty-bonanza-clearance-sale,Street Wear Foundation Medium/Deep,,nan,৳ 570.00,App Price: ৳ 553.00,30ml
+184,beauty-bonanza-clearance-sale,TTM Marine Origin Collagen Revitalizing Bio Cellulose Mask,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+185,beauty-bonanza-clearance-sale,TTM Mild Exfoliating Face Scrub with Volcanic Clay,,nan,"৳ 3,150.00",App Price: ৳ 3056.00,100ml
+186,beauty-bonanza-clearance-sale,Kryolan Perfect Matt Primer,,nan,"৳ 2,500.00",App Price: ৳ 2425.00,40ml
+187,beauty-bonanza-clearance-sale,Kryolan Cake Make Up FS 36,,nan,"৳ 2,500.00",App Price: ৳ 2425.00,35gm
+188,beauty-bonanza-clearance-sale,Kryolan Cake Make Up FS 38,,nan,"৳ 2,500.00",App Price: ৳ 2425.00,35gm
+189,beauty-bonanza-clearance-sale,Dr. Haru Centella Activation Serum,,nan,"৳ 1,650.00",App Price: ৳ 1601.00,50ml
+190,beauty-bonanza-clearance-sale,Jean Paul Gaultier Deodorant Spray For Men,,nan,"৳ 2,400.00",App Price: ৳ 2328.00,150ml
+191,beauty-bonanza-clearance-sale,SKINFOOD White Grape Fresh Up Base 03 Purple,,nan,৳ 800.00,App Price: ৳ 776.00,30ml
+192,beauty-bonanza-clearance-sale,SKINFOOD White Grape Fresh Up Base 02 Green,,nan,৳ 800.00,App Price: ৳ 776.00,30ml
+193,beauty-bonanza-clearance-sale,Pastel Terracota Blush On 3,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,9gm
+194,beauty-bonanza-clearance-sale,Paco Rabanne Black XS For Her Eau de Parfum Spray,,nan,"৳ 6,500.00",App Price: ৳ 6305.00,80ml
+195,beauty-bonanza-clearance-sale,Hugo Boss Man Eau De Toilette,,nan,"৳ 5,500.00",App Price: ৳ 5335.00,125ml
+196,beauty-bonanza-clearance-sale,TTM Marine Origin Collagen Revitalizing Bio Cellulose Mask,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+197,beauty-bonanza-clearance-sale,TTM Mild Exfoliating Face Scrub with Volcanic Clay,,nan,"৳ 3,150.00",App Price: ৳ 3056.00,100ml
+198,beauty-bonanza-clearance-sale,Cholley Bioclean Stop Imperfections Purifying Face Cream for Blemishes,,nan,"৳ 4,000.00",,15ml
+199,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K211,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+200,beauty-bonanza-clearance-sale,Anafeli Paris SPF 15 Glowy Foundation 04,,nan,৳ 850.00,App Price: ৳ 825.00,30ml
+201,beauty-bonanza-clearance-sale,PSK Physical Illuminating Sun Cream,,nan,"৳ 2,650.00",App Price: ৳ 2571.00,35ml
+202,beauty-bonanza-clearance-sale,PSK Skin Balancing Oil-Control Toner,,nan,"৳ 2,850.00",App Price: ৳ 2765.00,150ml
+203,beauty-bonanza-clearance-sale,Astra Lasting Gel Effect Nail Polish N 34 Peaches,,nan,৳ 450.00,App Price: ৳ 437.00,12ml
+204,beauty-bonanza-clearance-sale,Astra Eye Brush,,nan,৳ 600.00,App Price: ৳ 582.00,
+205,beauty-bonanza-clearance-sale,Astra The Universal Volume Mascara,,nan,৳ 850.00,App Price: ৳ 825.00,13ml
+206,beauty-bonanza-clearance-sale,Mont Blanc Explorer Ultra Blue Eau de Parfum,,nan,"৳ 7,500.00",App Price: ৳ 7275.00,100ml
+207,beauty-bonanza-clearance-sale,Mont Blanc Presence d’une Femme Eau de Toilette for Women,,nan,"৳ 5,500.00",App Price: ৳ 5335.00,75ml
+208,beauty-bonanza-clearance-sale,Beauti4me Pressed Powder Light Beige PP02,,nan,৳ 950.00,App Price: ৳ 922.00,10gm
+209,beauty-bonanza-clearance-sale,Beauti4me Pressed Powder Honey Bronze PP03,,nan,৳ 950.00,App Price: ৳ 922.00,10gm
+210,beauty-bonanza-clearance-sale,Astra Warm Temptation Eyes Palette,,nan,"৳ 1,500.00",App Price: ৳ 1455.00,
+211,beauty-bonanza-clearance-sale,Thank You Farmer Be Beautiful Pure Make Up Base SPF30 PA++,,nan,"৳ 2,100.00",App Price: ৳ 2037.00,40ml
+212,beauty-bonanza-clearance-sale,Cholley Bioregene Lait Cleansing Face Milk,,nan,"৳ 4,000.00",,200ml
+213,beauty-bonanza-clearance-sale,Cholley Phytobiotech Protective Clearing Face Cream,,nan,"৳ 4,500.00",,50ml
+214,beauty-bonanza-clearance-sale,L’Oreal Paris Infallible Primer Anti Redness 02,,nan,৳ 950.00,App Price: ৳ 922.00,20ml
+215,beauty-bonanza-clearance-sale,XBC Facial Wash Gift Set,,nan,"৳ 1,350.00",App Price: ৳ 1310.00,
+216,beauty-bonanza-clearance-sale,Flormar Baked Powder 22 Marble Beige Gold,,nan,"৳ 1,500.00",,9gm
+217,beauty-bonanza-clearance-sale,J.Cat Lip Lock Mask Proof Liquid Lipstick LMP106 Appreciate,,nan,৳ 580.00,App Price: ৳ 563.00,12gm
+218,beauty-bonanza-clearance-sale,SKINFOOD White Grape Fresh Up Base 03 Purple,,nan,৳ 800.00,App Price: ৳ 776.00,30ml
+219,beauty-bonanza-clearance-sale,SKINFOOD White Grape Fresh Up Base 02 Green,,nan,৳ 800.00,App Price: ৳ 776.00,30ml
+220,beauty-bonanza-clearance-sale,Dr. Haru Centella Activation Serum,,nan,"৳ 1,650.00",App Price: ৳ 1601.00,50ml
+221,beauty-bonanza-clearance-sale,Kryolan Concealer Cube 0,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,7.5gm
+222,beauty-bonanza-clearance-sale,Kryolan Concealer Cube 01,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,7.5gm
+223,beauty-bonanza-clearance-sale,Street Wear Nail Enamel Crazy Red,,nan,৳ 300.00,App Price: ৳ 291.00,8ml
+224,beauty-bonanza-clearance-sale,Street Wear Nail Enamel Marron Magik,,nan,৳ 300.00,App Price: ৳ 291.00,8ml
+225,beauty-bonanza-clearance-sale,Kryolan Highgloss Heartbreaker,,nan,"৳ 1,500.00",App Price: ৳ 1455.00,4ml
+226,beauty-bonanza-clearance-sale,Kryolan Highgloss Princess,,nan,"৳ 1,500.00",App Price: ৳ 1455.00,4ml
+227,beauty-bonanza-clearance-sale,Guerniss Professional Makeup Brush GS 09,,nan,৳ 490.00,App Price: ৳ 475.00,
+228,beauty-bonanza-clearance-sale,Jean Paul Gaultier Deodorant Spray For Men,,nan,"৳ 2,400.00",App Price: ৳ 2328.00,150ml
+229,beauty-bonanza-clearance-sale,Dunhill London Icon Elite Eau de Parfum For Men,,nan,"৳ 6,000.00",App Price: ৳ 5820.00,
+230,beauty-bonanza-clearance-sale,Pastel Show By Pastel Show Your Purity Powder 101,,nan,৳ 720.00,App Price: ৳ 698.00,9.3gm
+231,beauty-bonanza-clearance-sale,Kryolan Cake Make Up FS 38,,nan,"৳ 2,500.00",App Price: ৳ 2425.00,35gm
+232,beauty-bonanza-clearance-sale,Kryolan Highgloss First Love,,nan,"৳ 1,500.00",App Price: ৳ 1455.00,4ml
+233,beauty-bonanza-clearance-sale,Guerniss Persistent Liquid Matte Lipstick G07,,nan,৳ 890.00,App Price: ৳ 863.00,7gm
+234,beauty-bonanza-clearance-sale,Guerniss Professional Makeup Brush GS 06,,nan,৳ 620.00,App Price: ৳ 601.00,
+235,beauty-bonanza-clearance-sale,Guerniss Professional Makeup Brush GS 07,,nan,৳ 620.00,App Price: ৳ 601.00,
+236,beauty-bonanza-clearance-sale,Street Wear Foundation Medium/Deep,,nan,৳ 570.00,App Price: ৳ 553.00,30ml
+237,beauty-bonanza-clearance-sale,Revlon Ultra Hd Matte Lip Color Love,,nan,"৳ 1,625.00",,5.9gm
+238,beauty-bonanza-clearance-sale,Carolina Herrera Good Girl Legere EDP,,nan,"৳ 9,750.00",App Price: ৳ 9458.00,80ml
+239,beauty-bonanza-clearance-sale,Carolina Herrera 212 Sexy Eau de Parfum,,nan,"৳ 8,500.00",App Price: ৳ 8245.00,100ml
+240,beauty-bonanza-clearance-sale,Pastel Metallics Waterproof Long Lasting Eyeliner 332,,nan,৳ 575.00,App Price: ৳ 558.00,1.12gm
+241,beauty-bonanza-clearance-sale,Pastel Show By Pastel Show Your Happiness Blush 204,,nan,৳ 595.00,App Price: ৳ 577.00,4.2gm
+242,beauty-bonanza-clearance-sale,Pastel Metallic Glow Eyeshadow,,nan,"৳ 1,450.00",App Price: ৳ 1407.00,20gm
+243,beauty-bonanza-clearance-sale,Gillette Winner 5s,,nan,৳ 150.00,,
+244,beauty-bonanza-clearance-sale,Giorgio Armani Ladies Code Absolu EDP Spray,,nan,"৳ 12,500.00",App Price: ৳ 12125.00,75ml
+245,beauty-bonanza-clearance-sale,Christian Dior Poison Eau de Toilette for Women,,nan,"৳ 11,500.00",App Price: ৳ 11155.00,100ml
+246,beauty-bonanza-clearance-sale,Chanel Bleu de Men's Eau de Toilette,,nan,"৳ 21,000.00",,150ml
+247,beauty-bonanza-clearance-sale,Chanel Bleu de Men's Eau de Toilette,,nan,"৳ 17,500.00",,100ml
+248,beauty-bonanza-clearance-sale,Dolce Gabbana Pour Homme Men Edt,,nan,"৳ 7,500.00",App Price: ৳ 7275.00,100ml
+249,beauty-bonanza-clearance-sale,NICKA K PERFECT FORTY COLORS - CLASSIC,,nan,"৳ 1,120.00",App Price: ৳ 1086.00,
+250,beauty-bonanza-clearance-sale,"L.A. Girl Pro Primer Eyeshadow Stick, GEB196 Nude",SOLD OUT,nan,৳ 650.00,App Price: ৳ 631.00,2gm
+251,beauty-bonanza-clearance-sale,Flormar Waterproof Lipliner Berry Stain 231,SOLD OUT,nan,৳ 380.00,,1.14gm
+252,beauty-bonanza-clearance-sale,Flormar Waterproof Lipliner Berry Stain 231,SOLD OUT,nan,৳ 380.00,,1.14gm
+253,beauty-bonanza-clearance-sale,Face Facts Hyaluronic Face Cream,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,50ml
+254,beauty-bonanza-clearance-sale,Koelcia Foam Cleanser Grape,SOLD OUT,nan,৳ 700.00,,120gm
+255,beauty-bonanza-clearance-sale,Mont Blanc Legend Stick Deodorant,SOLD OUT,nan,"৳ 2,250.00",App Price: ৳ 2183.00,75gm
+256,beauty-bonanza-clearance-sale,The Body Shop Mango Lip Butter Intensely Nourishing,SOLD OUT,৳ 700.00,৳ 490.00,App Price: ৳ 475.00,10ml
+257,beauty-bonanza-clearance-sale,"Eucerin Skin Calming Cream Full Body Lotion for Dry, Itchy Skin, Natural Oatmeal Enriched",SOLD OUT,"৳ 1,950.00","৳ 1,750.00",App Price: ৳ 1698.00,226gm
+258,beauty-bonanza-clearance-sale,The Body Shop Oils Of Life Intensely Revitalising Facial Oil,SOLD OUT,"৳ 5,500.00","৳ 4,125.00",App Price: ৳ 4001.00,50ml
+259,beauty-bonanza-clearance-sale,W7 Glamorous Artificial Nails White Lily,SOLD OUT,৳ 475.00,৳ 425.00,App Price: ৳ 412.00,2gm
+260,beauty-bonanza-clearance-sale,Thank You Farmer Back to Relax Soothing Gel Mask,SOLD OUT,"৳ 2,300.00","৳ 2,050.00",App Price: ৳ 1989.00,100ml
+261,beauty-bonanza-clearance-sale,Avene Trixera Shower Cream,SOLD OUT,"৳ 3,600.00","৳ 3,310.00",App Price: ৳ 3211.00,500ml
+262,beauty-bonanza-clearance-sale,Sarin's Store Ageless Moringa,SOLD OUT,৳ 650.00,৳ 200.00,App Price: ৳ 194.00,50gm
+263,beauty-bonanza-clearance-sale,Clinique Take The Day Off Cleansing Oil,SOLD OUT,nan,"৳ 4,500.00",,200ml
+264,beauty-bonanza-clearance-sale,Dunhill Century Blue Eau De Parfum For Men,SOLD OUT,nan,"৳ 4,800.00",App Price: ৳ 4656.00,135ml
+265,beauty-bonanza-clearance-sale,Burt's Bees Baby Multi Purpose Ointment,SOLD OUT,nan,"৳ 2,250.00",App Price: ৳ 2183.00,113.3gm
+266,beauty-bonanza-clearance-sale,W7 Glamorous Artificial Nails Party Animal,SOLD OUT,nan,৳ 475.00,App Price: ৳ 461.00,2gm
+267,beauty-bonanza-clearance-sale,Nagano Collagen Lipstick Sassy Peachy Orange OR02,SOLD OUT,nan,"৳ 1,030.00",App Price: ৳ 999.00,2.9gm
+268,beauty-bonanza-clearance-sale,Astra My Laque Ultra Glossy Nail Polish N 22 Poppy Red,SOLD OUT,nan,৳ 350.00,App Price: ৳ 340.00,12ml
+269,beauty-bonanza-clearance-sale,Oral-B Vitality 3D White Electric Toothbrush,SOLD OUT,nan,"৳ 5,200.00",App Price: ৳ 5044.00,
+270,beauty-bonanza-clearance-sale,W7 Major Matte Lipstick Modest,SOLD OUT,nan,৳ 400.00,,3.8gm
+271,beauty-bonanza-clearance-sale,Yusera Intense Moisturizing Body Lotion With Extra Virgin Olive Oil,SOLD OUT,nan,৳ 790.00,App Price: ৳ 766.00,500ml
+272,beauty-bonanza-clearance-sale,Guerniss Terracotta Blush G523,SOLD OUT,nan,"৳ 1,380.00",App Price: ৳ 1339.00,12gm
+273,beauty-bonanza-clearance-sale,Tabac Original Shaving Foam,SOLD OUT,nan,"৳ 1,450.00",App Price: ৳ 1407.00,200ml
+274,beauty-bonanza-clearance-sale,Wella Blondor Multi Blond Powder Brightener,SOLD OUT,nan,"৳ 1,895.00",App Price: ৳ 1838.00,400gm
+275,beauty-bonanza-clearance-sale,Nina Ricci Eau de Perfume for Woman,SOLD OUT,nan,"৳ 6,500.00",App Price: ৳ 6305.00,80ml
+276,beauty-bonanza-clearance-sale,Chanel Coco Mademoiselle Eau de parfum spray for Women,SOLD OUT,nan,"৳ 14,550.00",,100ml
+277,beauty-bonanza-clearance-sale,The Body Shop Moringa Exfoliating Cream Body Scrub,SOLD OUT,nan,"৳ 2,850.00",App Price: ৳ 2765.00,240gm
+278,beauty-bonanza-clearance-sale,Burberry Her Blossom Eau de Toilette,SOLD OUT,nan,"৳ 6,500.00",App Price: ৳ 6305.00,30ml
+279,beauty-bonanza-clearance-sale,Grace Day 15% Hyaluronate Cream,SOLD OUT,nan,"৳ 1,200.00",App Price: ৳ 1164.00,50ml
+280,beauty-bonanza-clearance-sale,Guerniss Cover Matte Foundation Medium 6.0,SOLD OUT,nan,"৳ 1,870.00",App Price: ৳ 1814.00,30ml
+281,beauty-bonanza-clearance-sale,Babe Pediatric Emollient Cream,SOLD OUT,nan,"৳ 2,950.00",App Price: ৳ 2862.00,200ml
+282,beauty-bonanza-clearance-sale,Astra 24H Color Stain Pencil,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,
+283,beauty-bonanza-clearance-sale,Nagano Melted Matte Liquid Lipstick Cosmopolitan 03,SOLD OUT,nan,"৳ 1,155.00",App Price: ৳ 1120.00,6gm
+284,beauty-bonanza-clearance-sale,Astra Face Powder Brush,SOLD OUT,nan,৳ 600.00,App Price: ৳ 582.00,
+285,beauty-bonanza-clearance-sale,Nicka K Eye Pencil Violet A04,SOLD OUT,nan,৳ 185.00,App Price: ৳ 179.00,1gm
+286,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No 9 Gift Set For Men Eau De Toilette 50ml With Sport Deodorant 175ml,SOLD OUT,nan,"৳ 1,800.00",App Price: ৳ 1746.00,225ml
+287,beauty-bonanza-clearance-sale,SKINFOOD Royal Honey Propolis Enrich Barrier Cream,SOLD OUT,nan,"৳ 2,200.00",App Price: ৳ 2134.00,63ml
+288,beauty-bonanza-clearance-sale,Matrix Total Results High Amplify Protein Shampoo,SOLD OUT,nan,"৳ 3,850.00",App Price: ৳ 3735.00,1000ml
+289,beauty-bonanza-clearance-sale,Guerniss Velvet Matte Lipstick GS006,SOLD OUT,nan,৳ 750.00,App Price: ৳ 728.00,3.5gm
+290,beauty-bonanza-clearance-sale,Elizabeth Arden 5th Avenue NYC Eau de Parfum,SOLD OUT,nan,"৳ 4,200.00",App Price: ৳ 4074.00,125ml
+291,beauty-bonanza-clearance-sale,SKINFOOD White Grape Fresh Up Foudnation 23 Sand Beige,SOLD OUT,nan,৳ 800.00,App Price: ৳ 776.00,30ml
+292,beauty-bonanza-clearance-sale,Nicka K Matte Lipstick Cadmium Red NY413,SOLD OUT,nan,৳ 550.00,App Price: ৳ 534.00,3.3gm
+293,beauty-bonanza-clearance-sale,Nivea Baby Pure & Sensitive SOS Cream,SOLD OUT,nan,"৳ 1,250.00",App Price: ৳ 1213.00,150ml
+294,beauty-bonanza-clearance-sale,Oral-B Pro 1 680 Black CrossAction Electric Toothbrush,SOLD OUT,nan,"৳ 6,600.00",App Price: ৳ 6402.00,
+295,beauty-bonanza-clearance-sale,Gucci Flora Gorgeous Gardenia Limited Edition,SOLD OUT,nan,"৳ 7,000.00",App Price: ৳ 6790.00,100ml
+296,beauty-bonanza-clearance-sale,Nagano Melted Matte Liquid Lipstick Wink 05,SOLD OUT,nan,"৳ 1,155.00",App Price: ৳ 1120.00,6gm
+297,beauty-bonanza-clearance-sale,DABO White Moringa Cooling & Soothing Gel,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,180ml
+298,beauty-bonanza-clearance-sale,Eucerin Original Healing Cream -Emollient Enriched ,SOLD OUT,nan,"৳ 2,450.00",App Price: ৳ 2377.00,454gm
+299,beauty-bonanza-clearance-sale,Eucerin Skin Calming Body Lotion,SOLD OUT,nan,"৳ 2,500.00",App Price: ৳ 2425.00,500ml
+300,beauty-bonanza-clearance-sale,Yves Saint Laurent Kouros EDT Spray perfume,SOLD OUT,nan,"৳ 8,500.00",App Price: ৳ 8245.00,100ml
+301,beauty-bonanza-clearance-sale,JONAKI Lipstick- Maharani Pink,SOLD OUT,nan,৳ 660.00,,3.4gm
+302,beauty-bonanza-clearance-sale,Technic Pro Pigment Loose Eye Shadow Powder - Fairy Dust,SOLD OUT,nan,৳ 395.00,App Price: ৳ 383.00,2gm
+303,beauty-bonanza-clearance-sale,Pastel Profashion Terracotta Wet & Dry Powder 52,SOLD OUT,nan,"৳ 1,350.00",App Price: ৳ 1310.00,6.5gm
+304,beauty-bonanza-clearance-sale,Paco Rabanne Black XS For Him Eau de Toilette Spray,SOLD OUT,nan,"৳ 5,500.00",App Price: ৳ 5335.00,100ml
+305,beauty-bonanza-clearance-sale,Dove Nourishing Secrets Glowing Ritual Body Wash,SOLD OUT,nan,৳ 950.00,App Price: ৳ 922.00,500ml
+306,beauty-bonanza-clearance-sale,Nagano Melted Matte Liquid Lipstick Midnight Kiss 01,SOLD OUT,nan,"৳ 1,155.00",App Price: ৳ 1120.00,6gm
+307,beauty-bonanza-clearance-sale,Green Facial For A Healthy Natural Beautiful Skin,SOLD OUT,nan,৳ 500.00,App Price: ৳ 485.00,15ml
+308,beauty-bonanza-clearance-sale,Embla Angel Ring Argan Oil,SOLD OUT,nan,"৳ 1,150.00",App Price: ৳ 1116.00,100ml
+309,beauty-bonanza-clearance-sale,SKINFOOD Gold Caviar Ex Toner,SOLD OUT,nan,"৳ 2,100.00",App Price: ৳ 2037.00,145ml
+310,beauty-bonanza-clearance-sale,Nicka K Nail Enamel with hardeners Naranja 46,SOLD OUT,nan,৳ 180.00,App Price: ৳ 175.00,15ml
+311,beauty-bonanza-clearance-sale,Nicka K Nail Enamel with hardeners Lime 043,SOLD OUT,nan,৳ 180.00,App Price: ৳ 175.00,15ml
+312,beauty-bonanza-clearance-sale,The Body Shop Basil & Thyme Home Fragrance Oil,SOLD OUT,nan,"৳ 1,000.00",App Price: ৳ 970.00,10ml
+313,beauty-bonanza-clearance-sale,Nagano Melted Matte Liquid Lipstick Hard To Get 06,SOLD OUT,nan,"৳ 1,155.00",App Price: ৳ 1120.00,6gm
+314,beauty-bonanza-clearance-sale,Oshea Herbals Quincecare Nourishment Cream,SOLD OUT,nan,৳ 750.00,,50gm
+315,beauty-bonanza-clearance-sale,The Body Shop Basil & Thyme Home Fragrance Oil,SOLD OUT,nan,"৳ 1,000.00",App Price: ৳ 970.00,10ml
+316,beauty-bonanza-clearance-sale,SKINFOOD Gold Caviar Ex Emulsion,SOLD OUT,nan,"৳ 2,200.00",App Price: ৳ 2134.00,145ml
+317,beauty-bonanza-clearance-sale,Dr. Haru 3x Collagen Booster Infusion,SOLD OUT,nan,"৳ 1,990.00",App Price: ৳ 1930.00,50ml
+318,beauty-bonanza-clearance-sale,Oshea Herbals Quincecare Nourishment Cream,SOLD OUT,nan,৳ 750.00,,50gm
+319,beauty-bonanza-clearance-sale,Nicka K Nail Enamel with hardeners Fuchsia Chiffon 81,SOLD OUT,nan,৳ 180.00,App Price: ৳ 175.00,15ml
+320,beauty-bonanza-clearance-sale,Nicka K Nail Enamel with hardeners Vivid Pink 66,SOLD OUT,nan,৳ 180.00,App Price: ৳ 175.00,15ml
+321,beauty-bonanza-clearance-sale,Aveeno Positively Ageless Firming Body Lotion,SOLD OUT,nan,"৳ 1,650.00",App Price: ৳ 1601.00,227gm
+322,beauty-bonanza-clearance-sale,Oshea Herbals Wheatcare Nourishment Cream,SOLD OUT,nan,৳ 750.00,,50gm
+323,beauty-bonanza-clearance-sale,Dior Fahrenheit After Shave Lotion Vaporizador,SOLD OUT,nan,"৳ 9,500.00",App Price: ৳ 9215.00,100ml
+324,beauty-bonanza-clearance-sale,SKINFOOD Royal Honey Propolis Enrich Toner,SOLD OUT,nan,"৳ 2,050.00",App Price: ৳ 1989.00,160ml
+325,beauty-bonanza-clearance-sale,Nagano Melted Matte Liquid Lipstick Coquette 02,SOLD OUT,nan,"৳ 1,155.00",App Price: ৳ 1120.00,6gm
+326,beauty-bonanza-clearance-sale,Nagano Collagen Lipstick Burgundy Wine RD03,SOLD OUT,nan,"৳ 1,030.00",App Price: ৳ 999.00,2.9gm
+327,beauty-bonanza-clearance-sale,Nagano Collagen Lipstick Sassy Pink PK01,SOLD OUT,nan,"৳ 1,030.00",App Price: ৳ 999.00,2.9gm
+328,beauty-bonanza-clearance-sale,Nagano Collagen Lipstick Sassy Candy Crush OR01,SOLD OUT,nan,"৳ 1,030.00",App Price: ৳ 999.00,2.9gm
+329,beauty-bonanza-clearance-sale,GK Hair Ph+ Shampoo,SOLD OUT,nan,৳ 600.00,App Price: ৳ 582.00,100ml
+330,beauty-bonanza-clearance-sale,Fabrilife Womens Embroidery Mask - Stardom,SOLD OUT,nan,৳ 510.00,App Price: ৳ 495.00,
+331,beauty-bonanza-clearance-sale,Nicka K Nail Enamel with hardeners Pink Angel 96,SOLD OUT,nan,৳ 180.00,App Price: ৳ 175.00,15ml
+332,beauty-bonanza-clearance-sale,Nicka K Nail Enamel with hardeners Orange Glitter 77,SOLD OUT,nan,৳ 180.00,App Price: ৳ 175.00,15ml
+333,beauty-bonanza-clearance-sale,Oshea Herbals Phyto Age Reversal Crème,SOLD OUT,nan,"৳ 1,450.00",App Price: ৳ 1407.00,50gm
+334,beauty-bonanza-clearance-sale,Jergens Natural Glow 3 Days to Glow Moisturizer Medium To Deep Skin Tones,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,118ml
+335,beauty-bonanza-clearance-sale,Avene Toning Lotion,SALE,"৳ 2,250.00","৳ 2,070.00",App Price: ৳ 2008.00,200ml
+336,beauty-bonanza-clearance-sale,Avene Physiolift Serum,SALE,"৳ 3,450.00","৳ 3,380.00",App Price: ৳ 3279.00,30ml
+337,beauty-bonanza-clearance-sale,La Roche-Posay Sensitive Skin Soothing Lotion,SALE,"৳ 2,950.00","৳ 2,350.00",App Price: ৳ 2280.00,200ml
+338,beauty-bonanza-clearance-sale,The Body Shop Strawberry Home Fragrance Oil,SALE,"৳ 1,000.00",৳ 700.00,App Price: ৳ 679.00,10ml
+339,beauty-bonanza-clearance-sale,Azzaro Chrome EDT Spray,SALE,"৳ 6,800.00","৳ 4,950.00",App Price: ৳ 4802.00,100ml
+340,beauty-bonanza-clearance-sale,Azzaro Chrome United EDT,SALE,"৳ 6,800.00","৳ 4,850.00",App Price: ৳ 4705.00,100ml
+341,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 1 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+342,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No 2 Gift Set For Men Eau De Toilette 50ml With Sport Deodorant 175ml,SALE,"৳ 1,800.00","৳ 1,620.00",App Price: ৳ 1571.00,225ml
+343,beauty-bonanza-clearance-sale,Lauder Pleasures For Men Cologne Spray,SALE,"৳ 7,000.00","৳ 5,900.00",App Price: ৳ 5723.00,100ml
+344,beauty-bonanza-clearance-sale,Clinique Smart Custom Repair Moisturizer SPF 15,SALE,"৳ 13,000.00","৳ 9,750.00",,50ml
+345,beauty-bonanza-clearance-sale,Carolina Herrera 212 VIP Are You On The List EDP For her,SALE,"৳ 9,500.00","৳ 6,950.00",App Price: ৳ 6742.00,125ml
+346,beauty-bonanza-clearance-sale,Grace Day 15% Aloe Cream,SALE,"৳ 1,200.00","৳ 1,150.00",App Price: ৳ 1116.00,50ml
+347,beauty-bonanza-clearance-sale,Grace Day Anti Dust Peeling Pollution Gel,SALE,"৳ 1,350.00","৳ 1,250.00",App Price: ৳ 1213.00,180ml
+348,beauty-bonanza-clearance-sale,Grace Day Pure Plex Peptide Skin Toner,SALE,"৳ 1,750.00","৳ 1,650.00",App Price: ৳ 1601.00,250ml
+349,beauty-bonanza-clearance-sale,Grace Day Bouquet Marine Mist ,SALE,"৳ 1,250.00","৳ 1,150.00",App Price: ৳ 1116.00,100ml
+350,beauty-bonanza-clearance-sale,Nivea Hyaluron Cellular Filler Elasticity Reshape Anti-Age Day Cream,SALE,"৳ 2,500.00","৳ 1,650.00",App Price: ৳ 1601.00,50ml
+351,beauty-bonanza-clearance-sale,Superdrug Naturally Radiant Brightening Radiance Balm,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 903.00,50ml
+352,beauty-bonanza-clearance-sale,Paco Rabanne  Lady Million Deodorant Spray,SALE,"৳ 2,800.00","৳ 2,350.00",App Price: ৳ 2280.00,150ml
+353,beauty-bonanza-clearance-sale,Tabac Original Beard & Shaving Oil,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,50ml
+354,beauty-bonanza-clearance-sale,The Body Shop Oils of Life Intensely Revitalising Eye Cream Gel,SALE,"৳ 3,450.00","৳ 2,760.00",App Price: ৳ 2677.00,20ml
+355,beauty-bonanza-clearance-sale,Jergens Natural Glow 3 Days to Glow Moisturizer Medium To Deep Skin Tones,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,118ml
+356,beauty-bonanza-clearance-sale,Avene Toning Lotion,SALE,"৳ 2,250.00","৳ 2,070.00",App Price: ৳ 2008.00,200ml
+357,beauty-bonanza-clearance-sale,Avene Physiolift Serum,SALE,"৳ 3,450.00","৳ 3,380.00",App Price: ৳ 3279.00,30ml
+358,beauty-bonanza-clearance-sale,La Roche-Posay Sensitive Skin Soothing Lotion,SALE,"৳ 2,950.00","৳ 2,350.00",App Price: ৳ 2280.00,200ml
+359,beauty-bonanza-clearance-sale,The Body Shop Strawberry Home Fragrance Oil,SALE,"৳ 1,000.00",৳ 700.00,App Price: ৳ 679.00,10ml
+360,beauty-bonanza-clearance-sale,Azzaro Chrome EDT Spray,SALE,"৳ 6,800.00","৳ 4,950.00",App Price: ৳ 4802.00,100ml
+361,beauty-bonanza-clearance-sale,Azzaro Chrome United EDT,SALE,"৳ 6,800.00","৳ 4,850.00",App Price: ৳ 4705.00,100ml
+362,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 1 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+363,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No 2 Gift Set For Men Eau De Toilette 50ml With Sport Deodorant 175ml,SALE,"৳ 1,800.00","৳ 1,620.00",App Price: ৳ 1571.00,225ml
+364,beauty-bonanza-clearance-sale,Lauder Pleasures For Men Cologne Spray,SALE,"৳ 7,000.00","৳ 5,900.00",App Price: ৳ 5723.00,100ml
+365,beauty-bonanza-clearance-sale,Clinique Smart Custom Repair Moisturizer SPF 15,SALE,"৳ 13,000.00","৳ 9,750.00",,50ml
+366,beauty-bonanza-clearance-sale,Carolina Herrera 212 VIP Are You On The List EDP For her,SALE,"৳ 9,500.00","৳ 6,950.00",App Price: ৳ 6742.00,125ml
+367,beauty-bonanza-clearance-sale,Superdrug Naturally Radiant Brightening Radiance Balm,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 903.00,50ml
+368,beauty-bonanza-clearance-sale,Nivea Hyaluron Cellular Filler Elasticity Reshape Anti-Age Day Cream,SALE,"৳ 2,500.00","৳ 1,650.00",App Price: ৳ 1601.00,50ml
+369,beauty-bonanza-clearance-sale,Grace Day 15% Aloe Cream,SALE,"৳ 1,200.00","৳ 1,150.00",App Price: ৳ 1116.00,50ml
+370,beauty-bonanza-clearance-sale,Grace Day Anti Dust Peeling Pollution Gel,SALE,"৳ 1,350.00","৳ 1,250.00",App Price: ৳ 1213.00,180ml
+371,beauty-bonanza-clearance-sale,Grace Day Pure Plex Peptide Skin Toner,SALE,"৳ 1,750.00","৳ 1,650.00",App Price: ৳ 1601.00,250ml
+372,beauty-bonanza-clearance-sale,Grace Day Bouquet Marine Mist ,SALE,"৳ 1,250.00","৳ 1,150.00",App Price: ৳ 1116.00,100ml
+373,beauty-bonanza-clearance-sale,Tabac Original Beard & Shaving Oil,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,50ml
+374,beauty-bonanza-clearance-sale,Paco Rabanne  Lady Million Deodorant Spray,SALE,"৳ 2,800.00","৳ 2,350.00",App Price: ৳ 2280.00,150ml
+375,beauty-bonanza-clearance-sale,The Body Shop Oils of Life Intensely Revitalising Eye Cream Gel,SALE,"৳ 3,450.00","৳ 2,760.00",App Price: ৳ 2677.00,20ml
+376,beauty-bonanza-clearance-sale,Vanicream Gentle Body Wash,SALE,"৳ 2,650.00","৳ 1,999.00",App Price: ৳ 1939.00,355ml
+377,beauty-bonanza-clearance-sale,Elizabeth Arden NYC EDP Spray,SALE,"৳ 5,100.00","৳ 3,500.00",App Price: ৳ 3395.00,75ml
+378,beauty-bonanza-clearance-sale,Chanel Allure Body Lotion,SALE,"৳ 12,000.00","৳ 8,500.00",,200ml
+379,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 2 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+380,beauty-bonanza-clearance-sale,Elizabeth Arden NYC EDP Spray,SALE,"৳ 5,100.00","৳ 3,500.00",App Price: ৳ 3395.00,75ml
+381,beauty-bonanza-clearance-sale,Chanel Allure Body Lotion,SALE,"৳ 12,000.00","৳ 8,500.00",,200ml
+382,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 2 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+383,beauty-bonanza-clearance-sale,Vanicream Gentle Body Wash,SALE,"৳ 2,650.00","৳ 1,999.00",App Price: ৳ 1939.00,355ml
+384,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+385,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+386,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+387,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+388,beauty-bonanza-clearance-sale,LIL'AFIX Professional Conditioner Spray - Pink,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,400ml
+389,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+390,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+391,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+392,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+393,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+394,beauty-bonanza-clearance-sale,Revox Just Blend Oil Nourishing Serum,,nan,৳ 950.00,App Price: ৳ 922.00,30ml
+395,beauty-bonanza-clearance-sale,Revox Skin Therapy Oil,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,75ml
+396,beauty-bonanza-clearance-sale,J.Cat Rockin' The Night Sparkling Powder SP217 Amber Jewelry,,nan,৳ 300.00,App Price: ৳ 291.00,4gm
+397,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+398,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+399,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+400,beauty-bonanza-clearance-sale,TTM Fair Radiance Skin Enhancement Mask,,nan,৳ 420.00,App Price: ৳ 407.00,33ml
+401,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+402,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+403,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+404,beauty-bonanza-clearance-sale,Revlon Nearly Naked Pressed Powder Fair,,nan,"৳ 1,250.00",,8gm
+405,beauty-bonanza-clearance-sale,Flormar Silk Matte Liquid Lipstick 13 Pink Dream,,nan,"৳ 1,100.00",,4.5ml
+406,beauty-bonanza-clearance-sale,Flormar Glitter Nail Enamel GL44 Purple Glare,,nan,৳ 320.00,,11ml
+407,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+408,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+409,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+410,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+411,beauty-bonanza-clearance-sale,Revlon Nearly Naked Pressed Powder Fair,,nan,"৳ 1,250.00",,8gm
+412,beauty-bonanza-clearance-sale,TTM Fair Radiance Skin Enhancement Mask,,nan,৳ 420.00,App Price: ৳ 407.00,33ml
+413,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+414,beauty-bonanza-clearance-sale,Revox Just Blend Oil Nourishing Serum,,nan,৳ 950.00,App Price: ৳ 922.00,30ml
+415,beauty-bonanza-clearance-sale,Revox Skin Therapy Oil,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,75ml
+416,beauty-bonanza-clearance-sale,J.Cat Rockin' The Night Sparkling Powder SP217 Amber Jewelry,,nan,৳ 300.00,App Price: ৳ 291.00,4gm
+417,beauty-bonanza-clearance-sale,Flormar Silk Matte Liquid Lipstick 13 Pink Dream,,nan,"৳ 1,100.00",,4.5ml
+418,beauty-bonanza-clearance-sale,Flormar Glitter Nail Enamel GL44 Purple Glare,,nan,৳ 320.00,,11ml
+419,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+420,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+421,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+422,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+423,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+424,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+425,beauty-bonanza-clearance-sale,LIL'AFIX Professional Conditioner Spray - Pink,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,400ml
+426,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+427,beauty-bonanza-clearance-sale,Gillette Winner 5s,,nan,৳ 150.00,,
+428,beauty-bonanza-clearance-sale,PSK Skin Balancing Oil-Control Toner,,nan,"৳ 2,850.00",App Price: ৳ 2765.00,150ml
+429,beauty-bonanza-clearance-sale,Mont Blanc Explorer Ultra Blue Eau de Parfum,,nan,"৳ 7,500.00",App Price: ৳ 7275.00,100ml
+430,beauty-bonanza-clearance-sale,Mont Blanc Presence d’une Femme Eau de Toilette for Women,,nan,"৳ 5,500.00",App Price: ৳ 5335.00,75ml
+431,beauty-bonanza-clearance-sale,Cholley Bioclean Stop Imperfections Purifying Face Cream for Blemishes,,nan,"৳ 4,000.00",,15ml
+432,beauty-bonanza-clearance-sale,Beauti4me Pressed Powder Light Beige PP02,,nan,৳ 950.00,App Price: ৳ 922.00,10gm
+433,beauty-bonanza-clearance-sale,Beauti4me Pressed Powder Honey Bronze PP03,,nan,৳ 950.00,App Price: ৳ 922.00,10gm
+434,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K211,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+435,beauty-bonanza-clearance-sale,Astra Lasting Gel Effect Nail Polish N 34 Peaches,,nan,৳ 450.00,App Price: ৳ 437.00,12ml
+436,beauty-bonanza-clearance-sale,Astra Eye Brush,,nan,৳ 600.00,App Price: ৳ 582.00,
+437,beauty-bonanza-clearance-sale,Astra The Universal Volume Mascara,,nan,৳ 850.00,App Price: ৳ 825.00,13ml
+438,beauty-bonanza-clearance-sale,Anafeli Paris SPF 15 Glowy Foundation 04,,nan,৳ 850.00,App Price: ৳ 825.00,30ml
+439,beauty-bonanza-clearance-sale,Hugo Boss Man Eau De Toilette,,nan,"৳ 5,500.00",App Price: ৳ 5335.00,125ml
+440,beauty-bonanza-clearance-sale,Guerniss Persistent Liquid Matte Lipstick G07,,nan,৳ 890.00,App Price: ৳ 863.00,7gm
+441,beauty-bonanza-clearance-sale,Guerniss Professional Makeup Brush GS 06,,nan,৳ 620.00,App Price: ৳ 601.00,
+442,beauty-bonanza-clearance-sale,Guerniss Professional Makeup Brush GS 07,,nan,৳ 620.00,App Price: ৳ 601.00,
+443,beauty-bonanza-clearance-sale,Street Wear Foundation Medium/Deep,,nan,৳ 570.00,App Price: ৳ 553.00,30ml
+444,beauty-bonanza-clearance-sale,TTM Marine Origin Collagen Revitalizing Bio Cellulose Mask,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+445,beauty-bonanza-clearance-sale,TTM Mild Exfoliating Face Scrub with Volcanic Clay,,nan,"৳ 3,150.00",App Price: ৳ 3056.00,100ml
+446,beauty-bonanza-clearance-sale,Kryolan Cake Make Up FS 38,,nan,"৳ 2,500.00",App Price: ৳ 2425.00,35gm
+447,beauty-bonanza-clearance-sale,Dr. Haru Centella Activation Serum,,nan,"৳ 1,650.00",App Price: ৳ 1601.00,50ml
+448,beauty-bonanza-clearance-sale,Jean Paul Gaultier Deodorant Spray For Men,,nan,"৳ 2,400.00",App Price: ৳ 2328.00,150ml
+449,beauty-bonanza-clearance-sale,SKINFOOD White Grape Fresh Up Base 03 Purple,,nan,৳ 800.00,App Price: ৳ 776.00,30ml
+450,beauty-bonanza-clearance-sale,SKINFOOD White Grape Fresh Up Base 02 Green,,nan,৳ 800.00,App Price: ৳ 776.00,30ml
+451,beauty-bonanza-clearance-sale,Hugo Boss Man Eau De Toilette,,nan,"৳ 5,500.00",App Price: ৳ 5335.00,125ml
+452,beauty-bonanza-clearance-sale,TTM Marine Origin Collagen Revitalizing Bio Cellulose Mask,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+453,beauty-bonanza-clearance-sale,TTM Mild Exfoliating Face Scrub with Volcanic Clay,,nan,"৳ 3,150.00",App Price: ৳ 3056.00,100ml
+454,beauty-bonanza-clearance-sale,Cholley Bioclean Stop Imperfections Purifying Face Cream for Blemishes,,nan,"৳ 4,000.00",,15ml
+455,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K211,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+456,beauty-bonanza-clearance-sale,Anafeli Paris SPF 15 Glowy Foundation 04,,nan,৳ 850.00,App Price: ৳ 825.00,30ml
+457,beauty-bonanza-clearance-sale,PSK Skin Balancing Oil-Control Toner,,nan,"৳ 2,850.00",App Price: ৳ 2765.00,150ml
+458,beauty-bonanza-clearance-sale,Astra Lasting Gel Effect Nail Polish N 34 Peaches,,nan,৳ 450.00,App Price: ৳ 437.00,12ml
+459,beauty-bonanza-clearance-sale,Astra Eye Brush,,nan,৳ 600.00,App Price: ৳ 582.00,
+460,beauty-bonanza-clearance-sale,Astra The Universal Volume Mascara,,nan,৳ 850.00,App Price: ৳ 825.00,13ml
+461,beauty-bonanza-clearance-sale,Mont Blanc Explorer Ultra Blue Eau de Parfum,,nan,"৳ 7,500.00",App Price: ৳ 7275.00,100ml
+462,beauty-bonanza-clearance-sale,Mont Blanc Presence d’une Femme Eau de Toilette for Women,,nan,"৳ 5,500.00",App Price: ৳ 5335.00,75ml
+463,beauty-bonanza-clearance-sale,Beauti4me Pressed Powder Light Beige PP02,,nan,৳ 950.00,App Price: ৳ 922.00,10gm
+464,beauty-bonanza-clearance-sale,Beauti4me Pressed Powder Honey Bronze PP03,,nan,৳ 950.00,App Price: ৳ 922.00,10gm
+465,beauty-bonanza-clearance-sale,SKINFOOD White Grape Fresh Up Base 03 Purple,,nan,৳ 800.00,App Price: ৳ 776.00,30ml
+466,beauty-bonanza-clearance-sale,SKINFOOD White Grape Fresh Up Base 02 Green,,nan,৳ 800.00,App Price: ৳ 776.00,30ml
+467,beauty-bonanza-clearance-sale,Dr. Haru Centella Activation Serum,,nan,"৳ 1,650.00",App Price: ৳ 1601.00,50ml
+468,beauty-bonanza-clearance-sale,Jean Paul Gaultier Deodorant Spray For Men,,nan,"৳ 2,400.00",App Price: ৳ 2328.00,150ml
+469,beauty-bonanza-clearance-sale,Kryolan Cake Make Up FS 38,,nan,"৳ 2,500.00",App Price: ৳ 2425.00,35gm
+470,beauty-bonanza-clearance-sale,Guerniss Persistent Liquid Matte Lipstick G07,,nan,৳ 890.00,App Price: ৳ 863.00,7gm
+471,beauty-bonanza-clearance-sale,Guerniss Professional Makeup Brush GS 06,,nan,৳ 620.00,App Price: ৳ 601.00,
+472,beauty-bonanza-clearance-sale,Guerniss Professional Makeup Brush GS 07,,nan,৳ 620.00,App Price: ৳ 601.00,
+473,beauty-bonanza-clearance-sale,Street Wear Foundation Medium/Deep,,nan,৳ 570.00,App Price: ৳ 553.00,30ml
+474,beauty-bonanza-clearance-sale,Gillette Winner 5s,,nan,৳ 150.00,,
+475,beauty-bonanza-clearance-sale,Flormar Waterproof Lipliner Berry Stain 231,SOLD OUT,nan,৳ 380.00,,1.14gm
+476,beauty-bonanza-clearance-sale,Flormar Waterproof Lipliner Berry Stain 231,SOLD OUT,nan,৳ 380.00,,1.14gm
+477,beauty-bonanza-clearance-sale,Jergens Natural Glow 3 Days to Glow Moisturizer Medium To Deep Skin Tones,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,118ml
+478,beauty-bonanza-clearance-sale,Avene Toning Lotion,SALE,"৳ 2,250.00","৳ 2,070.00",App Price: ৳ 2008.00,200ml
+479,beauty-bonanza-clearance-sale,Avene Physiolift Serum,SALE,"৳ 3,450.00","৳ 3,380.00",App Price: ৳ 3279.00,30ml
+480,beauty-bonanza-clearance-sale,La Roche-Posay Sensitive Skin Soothing Lotion,SALE,"৳ 2,950.00","৳ 2,350.00",App Price: ৳ 2280.00,200ml
+481,beauty-bonanza-clearance-sale,The Body Shop Strawberry Home Fragrance Oil,SALE,"৳ 1,000.00",৳ 700.00,App Price: ৳ 679.00,10ml
+482,beauty-bonanza-clearance-sale,Azzaro Chrome EDT Spray,SALE,"৳ 6,800.00","৳ 4,950.00",App Price: ৳ 4802.00,100ml
+483,beauty-bonanza-clearance-sale,Azzaro Chrome United EDT,SALE,"৳ 6,800.00","৳ 4,850.00",App Price: ৳ 4705.00,100ml
+484,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 1 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+485,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No 2 Gift Set For Men Eau De Toilette 50ml With Sport Deodorant 175ml,SALE,"৳ 1,800.00","৳ 1,620.00",App Price: ৳ 1571.00,225ml
+486,beauty-bonanza-clearance-sale,Lauder Pleasures For Men Cologne Spray,SALE,"৳ 7,000.00","৳ 5,900.00",App Price: ৳ 5723.00,100ml
+487,beauty-bonanza-clearance-sale,Clinique Smart Custom Repair Moisturizer SPF 15,SALE,"৳ 13,000.00","৳ 9,750.00",,50ml
+488,beauty-bonanza-clearance-sale,Carolina Herrera 212 VIP Are You On The List EDP For her,SALE,"৳ 9,500.00","৳ 6,950.00",App Price: ৳ 6742.00,125ml
+489,beauty-bonanza-clearance-sale,Grace Day 15% Aloe Cream,SALE,"৳ 1,200.00","৳ 1,150.00",App Price: ৳ 1116.00,50ml
+490,beauty-bonanza-clearance-sale,Grace Day Anti Dust Peeling Pollution Gel,SALE,"৳ 1,350.00","৳ 1,250.00",App Price: ৳ 1213.00,180ml
+491,beauty-bonanza-clearance-sale,Grace Day Pure Plex Peptide Skin Toner,SALE,"৳ 1,750.00","৳ 1,650.00",App Price: ৳ 1601.00,250ml
+492,beauty-bonanza-clearance-sale,Grace Day Bouquet Marine Mist ,SALE,"৳ 1,250.00","৳ 1,150.00",App Price: ৳ 1116.00,100ml
+493,beauty-bonanza-clearance-sale,Nivea Hyaluron Cellular Filler Elasticity Reshape Anti-Age Day Cream,SALE,"৳ 2,500.00","৳ 1,650.00",App Price: ৳ 1601.00,50ml
+494,beauty-bonanza-clearance-sale,Superdrug Naturally Radiant Brightening Radiance Balm,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 903.00,50ml
+495,beauty-bonanza-clearance-sale,Paco Rabanne  Lady Million Deodorant Spray,SALE,"৳ 2,800.00","৳ 2,350.00",App Price: ৳ 2280.00,150ml
+496,beauty-bonanza-clearance-sale,Tabac Original Beard & Shaving Oil,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,50ml
+497,beauty-bonanza-clearance-sale,The Body Shop Oils of Life Intensely Revitalising Eye Cream Gel,SALE,"৳ 3,450.00","৳ 2,760.00",App Price: ৳ 2677.00,20ml
+498,beauty-bonanza-clearance-sale,Jergens Natural Glow 3 Days to Glow Moisturizer Medium To Deep Skin Tones,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,118ml
+499,beauty-bonanza-clearance-sale,Avene Toning Lotion,SALE,"৳ 2,250.00","৳ 2,070.00",App Price: ৳ 2008.00,200ml
+500,beauty-bonanza-clearance-sale,Avene Physiolift Serum,SALE,"৳ 3,450.00","৳ 3,380.00",App Price: ৳ 3279.00,30ml
+501,beauty-bonanza-clearance-sale,La Roche-Posay Sensitive Skin Soothing Lotion,SALE,"৳ 2,950.00","৳ 2,350.00",App Price: ৳ 2280.00,200ml
+502,beauty-bonanza-clearance-sale,The Body Shop Strawberry Home Fragrance Oil,SALE,"৳ 1,000.00",৳ 700.00,App Price: ৳ 679.00,10ml
+503,beauty-bonanza-clearance-sale,Azzaro Chrome EDT Spray,SALE,"৳ 6,800.00","৳ 4,950.00",App Price: ৳ 4802.00,100ml
+504,beauty-bonanza-clearance-sale,Azzaro Chrome United EDT,SALE,"৳ 6,800.00","৳ 4,850.00",App Price: ৳ 4705.00,100ml
+505,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 1 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+506,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No 2 Gift Set For Men Eau De Toilette 50ml With Sport Deodorant 175ml,SALE,"৳ 1,800.00","৳ 1,620.00",App Price: ৳ 1571.00,225ml
+507,beauty-bonanza-clearance-sale,Lauder Pleasures For Men Cologne Spray,SALE,"৳ 7,000.00","৳ 5,900.00",App Price: ৳ 5723.00,100ml
+508,beauty-bonanza-clearance-sale,Clinique Smart Custom Repair Moisturizer SPF 15,SALE,"৳ 13,000.00","৳ 9,750.00",,50ml
+509,beauty-bonanza-clearance-sale,Carolina Herrera 212 VIP Are You On The List EDP For her,SALE,"৳ 9,500.00","৳ 6,950.00",App Price: ৳ 6742.00,125ml
+510,beauty-bonanza-clearance-sale,Superdrug Naturally Radiant Brightening Radiance Balm,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 903.00,50ml
+511,beauty-bonanza-clearance-sale,Nivea Hyaluron Cellular Filler Elasticity Reshape Anti-Age Day Cream,SALE,"৳ 2,500.00","৳ 1,650.00",App Price: ৳ 1601.00,50ml
+512,beauty-bonanza-clearance-sale,Grace Day 15% Aloe Cream,SALE,"৳ 1,200.00","৳ 1,150.00",App Price: ৳ 1116.00,50ml
+513,beauty-bonanza-clearance-sale,Grace Day Anti Dust Peeling Pollution Gel,SALE,"৳ 1,350.00","৳ 1,250.00",App Price: ৳ 1213.00,180ml
+514,beauty-bonanza-clearance-sale,Grace Day Pure Plex Peptide Skin Toner,SALE,"৳ 1,750.00","৳ 1,650.00",App Price: ৳ 1601.00,250ml
+515,beauty-bonanza-clearance-sale,Grace Day Bouquet Marine Mist ,SALE,"৳ 1,250.00","৳ 1,150.00",App Price: ৳ 1116.00,100ml
+516,beauty-bonanza-clearance-sale,Tabac Original Beard & Shaving Oil,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,50ml
+517,beauty-bonanza-clearance-sale,Paco Rabanne  Lady Million Deodorant Spray,SALE,"৳ 2,800.00","৳ 2,350.00",App Price: ৳ 2280.00,150ml
+518,beauty-bonanza-clearance-sale,The Body Shop Oils of Life Intensely Revitalising Eye Cream Gel,SALE,"৳ 3,450.00","৳ 2,760.00",App Price: ৳ 2677.00,20ml
+519,beauty-bonanza-clearance-sale,Vanicream Gentle Body Wash,SALE,"৳ 2,650.00","৳ 1,999.00",App Price: ৳ 1939.00,355ml
+520,beauty-bonanza-clearance-sale,Elizabeth Arden NYC EDP Spray,SALE,"৳ 5,100.00","৳ 3,500.00",App Price: ৳ 3395.00,75ml
+521,beauty-bonanza-clearance-sale,Chanel Allure Body Lotion,SALE,"৳ 12,000.00","৳ 8,500.00",,200ml
+522,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 2 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+523,beauty-bonanza-clearance-sale,Elizabeth Arden NYC EDP Spray,SALE,"৳ 5,100.00","৳ 3,500.00",App Price: ৳ 3395.00,75ml
+524,beauty-bonanza-clearance-sale,Chanel Allure Body Lotion,SALE,"৳ 12,000.00","৳ 8,500.00",,200ml
+525,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 2 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+526,beauty-bonanza-clearance-sale,Vanicream Gentle Body Wash,SALE,"৳ 2,650.00","৳ 1,999.00",App Price: ৳ 1939.00,355ml
+527,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+528,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+529,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+530,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+531,beauty-bonanza-clearance-sale,LIL'AFIX Professional Conditioner Spray - Pink,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,400ml
+532,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+533,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+534,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+535,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+536,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+537,beauty-bonanza-clearance-sale,Revox Just Blend Oil Nourishing Serum,,nan,৳ 950.00,App Price: ৳ 922.00,30ml
+538,beauty-bonanza-clearance-sale,Revox Skin Therapy Oil,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,75ml
+539,beauty-bonanza-clearance-sale,J.Cat Rockin' The Night Sparkling Powder SP217 Amber Jewelry,,nan,৳ 300.00,App Price: ৳ 291.00,4gm
+540,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+541,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+542,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+543,beauty-bonanza-clearance-sale,TTM Fair Radiance Skin Enhancement Mask,,nan,৳ 420.00,App Price: ৳ 407.00,33ml
+544,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+545,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+546,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+547,beauty-bonanza-clearance-sale,Revlon Nearly Naked Pressed Powder Fair,,nan,"৳ 1,250.00",,8gm
+548,beauty-bonanza-clearance-sale,Flormar Silk Matte Liquid Lipstick 13 Pink Dream,,nan,"৳ 1,100.00",,4.5ml
+549,beauty-bonanza-clearance-sale,Flormar Glitter Nail Enamel GL44 Purple Glare,,nan,৳ 320.00,,11ml
+550,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+551,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+552,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+553,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+554,beauty-bonanza-clearance-sale,Revlon Nearly Naked Pressed Powder Fair,,nan,"৳ 1,250.00",,8gm
+555,beauty-bonanza-clearance-sale,TTM Fair Radiance Skin Enhancement Mask,,nan,৳ 420.00,App Price: ৳ 407.00,33ml
+556,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+557,beauty-bonanza-clearance-sale,Revox Just Blend Oil Nourishing Serum,,nan,৳ 950.00,App Price: ৳ 922.00,30ml
+558,beauty-bonanza-clearance-sale,Revox Skin Therapy Oil,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,75ml
+559,beauty-bonanza-clearance-sale,J.Cat Rockin' The Night Sparkling Powder SP217 Amber Jewelry,,nan,৳ 300.00,App Price: ৳ 291.00,4gm
+560,beauty-bonanza-clearance-sale,Flormar Silk Matte Liquid Lipstick 13 Pink Dream,,nan,"৳ 1,100.00",,4.5ml
+561,beauty-bonanza-clearance-sale,Flormar Glitter Nail Enamel GL44 Purple Glare,,nan,৳ 320.00,,11ml
+562,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+563,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+564,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+565,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+566,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+567,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+568,beauty-bonanza-clearance-sale,LIL'AFIX Professional Conditioner Spray - Pink,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,400ml
+569,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+570,beauty-bonanza-clearance-sale,Gillette Winner 5s,,nan,৳ 150.00,,
+571,beauty-bonanza-clearance-sale,PSK Skin Balancing Oil-Control Toner,,nan,"৳ 2,850.00",App Price: ৳ 2765.00,150ml
+572,beauty-bonanza-clearance-sale,Mont Blanc Explorer Ultra Blue Eau de Parfum,,nan,"৳ 7,500.00",App Price: ৳ 7275.00,100ml
+573,beauty-bonanza-clearance-sale,Mont Blanc Presence d’une Femme Eau de Toilette for Women,,nan,"৳ 5,500.00",App Price: ৳ 5335.00,75ml
+574,beauty-bonanza-clearance-sale,Cholley Bioclean Stop Imperfections Purifying Face Cream for Blemishes,,nan,"৳ 4,000.00",,15ml
+575,beauty-bonanza-clearance-sale,Beauti4me Pressed Powder Light Beige PP02,,nan,৳ 950.00,App Price: ৳ 922.00,10gm
+576,beauty-bonanza-clearance-sale,Beauti4me Pressed Powder Honey Bronze PP03,,nan,৳ 950.00,App Price: ৳ 922.00,10gm
+577,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K211,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+578,beauty-bonanza-clearance-sale,Astra Lasting Gel Effect Nail Polish N 34 Peaches,,nan,৳ 450.00,App Price: ৳ 437.00,12ml
+579,beauty-bonanza-clearance-sale,Astra Eye Brush,,nan,৳ 600.00,App Price: ৳ 582.00,
+580,beauty-bonanza-clearance-sale,Astra The Universal Volume Mascara,,nan,৳ 850.00,App Price: ৳ 825.00,13ml
+581,beauty-bonanza-clearance-sale,Anafeli Paris SPF 15 Glowy Foundation 04,,nan,৳ 850.00,App Price: ৳ 825.00,30ml
+582,beauty-bonanza-clearance-sale,Hugo Boss Man Eau De Toilette,,nan,"৳ 5,500.00",App Price: ৳ 5335.00,125ml
+583,beauty-bonanza-clearance-sale,Guerniss Persistent Liquid Matte Lipstick G07,,nan,৳ 890.00,App Price: ৳ 863.00,7gm
+584,beauty-bonanza-clearance-sale,Guerniss Professional Makeup Brush GS 06,,nan,৳ 620.00,App Price: ৳ 601.00,
+585,beauty-bonanza-clearance-sale,Guerniss Professional Makeup Brush GS 07,,nan,৳ 620.00,App Price: ৳ 601.00,
+586,beauty-bonanza-clearance-sale,Street Wear Foundation Medium/Deep,,nan,৳ 570.00,App Price: ৳ 553.00,30ml
+587,beauty-bonanza-clearance-sale,TTM Marine Origin Collagen Revitalizing Bio Cellulose Mask,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+588,beauty-bonanza-clearance-sale,TTM Mild Exfoliating Face Scrub with Volcanic Clay,,nan,"৳ 3,150.00",App Price: ৳ 3056.00,100ml
+589,beauty-bonanza-clearance-sale,Kryolan Cake Make Up FS 38,,nan,"৳ 2,500.00",App Price: ৳ 2425.00,35gm
+590,beauty-bonanza-clearance-sale,Dr. Haru Centella Activation Serum,,nan,"৳ 1,650.00",App Price: ৳ 1601.00,50ml
+591,beauty-bonanza-clearance-sale,Jean Paul Gaultier Deodorant Spray For Men,,nan,"৳ 2,400.00",App Price: ৳ 2328.00,150ml
+592,beauty-bonanza-clearance-sale,SKINFOOD White Grape Fresh Up Base 03 Purple,,nan,৳ 800.00,App Price: ৳ 776.00,30ml
+593,beauty-bonanza-clearance-sale,SKINFOOD White Grape Fresh Up Base 02 Green,,nan,৳ 800.00,App Price: ৳ 776.00,30ml
+594,beauty-bonanza-clearance-sale,Hugo Boss Man Eau De Toilette,,nan,"৳ 5,500.00",App Price: ৳ 5335.00,125ml
+595,beauty-bonanza-clearance-sale,TTM Marine Origin Collagen Revitalizing Bio Cellulose Mask,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+596,beauty-bonanza-clearance-sale,TTM Mild Exfoliating Face Scrub with Volcanic Clay,,nan,"৳ 3,150.00",App Price: ৳ 3056.00,100ml
+597,beauty-bonanza-clearance-sale,Cholley Bioclean Stop Imperfections Purifying Face Cream for Blemishes,,nan,"৳ 4,000.00",,15ml
+598,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K211,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+599,beauty-bonanza-clearance-sale,Anafeli Paris SPF 15 Glowy Foundation 04,,nan,৳ 850.00,App Price: ৳ 825.00,30ml
+600,beauty-bonanza-clearance-sale,PSK Skin Balancing Oil-Control Toner,,nan,"৳ 2,850.00",App Price: ৳ 2765.00,150ml
+601,beauty-bonanza-clearance-sale,Astra Lasting Gel Effect Nail Polish N 34 Peaches,,nan,৳ 450.00,App Price: ৳ 437.00,12ml
+602,beauty-bonanza-clearance-sale,Astra Eye Brush,,nan,৳ 600.00,App Price: ৳ 582.00,
+603,beauty-bonanza-clearance-sale,Astra The Universal Volume Mascara,,nan,৳ 850.00,App Price: ৳ 825.00,13ml
+604,beauty-bonanza-clearance-sale,Mont Blanc Explorer Ultra Blue Eau de Parfum,,nan,"৳ 7,500.00",App Price: ৳ 7275.00,100ml
+605,beauty-bonanza-clearance-sale,Mont Blanc Presence d’une Femme Eau de Toilette for Women,,nan,"৳ 5,500.00",App Price: ৳ 5335.00,75ml
+606,beauty-bonanza-clearance-sale,Beauti4me Pressed Powder Light Beige PP02,,nan,৳ 950.00,App Price: ৳ 922.00,10gm
+607,beauty-bonanza-clearance-sale,Beauti4me Pressed Powder Honey Bronze PP03,,nan,৳ 950.00,App Price: ৳ 922.00,10gm
+608,beauty-bonanza-clearance-sale,SKINFOOD White Grape Fresh Up Base 03 Purple,,nan,৳ 800.00,App Price: ৳ 776.00,30ml
+609,beauty-bonanza-clearance-sale,SKINFOOD White Grape Fresh Up Base 02 Green,,nan,৳ 800.00,App Price: ৳ 776.00,30ml
+610,beauty-bonanza-clearance-sale,Dr. Haru Centella Activation Serum,,nan,"৳ 1,650.00",App Price: ৳ 1601.00,50ml
+611,beauty-bonanza-clearance-sale,Jean Paul Gaultier Deodorant Spray For Men,,nan,"৳ 2,400.00",App Price: ৳ 2328.00,150ml
+612,beauty-bonanza-clearance-sale,Kryolan Cake Make Up FS 38,,nan,"৳ 2,500.00",App Price: ৳ 2425.00,35gm
+613,beauty-bonanza-clearance-sale,Guerniss Persistent Liquid Matte Lipstick G07,,nan,৳ 890.00,App Price: ৳ 863.00,7gm
+614,beauty-bonanza-clearance-sale,Guerniss Professional Makeup Brush GS 06,,nan,৳ 620.00,App Price: ৳ 601.00,
+615,beauty-bonanza-clearance-sale,Guerniss Professional Makeup Brush GS 07,,nan,৳ 620.00,App Price: ৳ 601.00,
+616,beauty-bonanza-clearance-sale,Street Wear Foundation Medium/Deep,,nan,৳ 570.00,App Price: ৳ 553.00,30ml
+617,beauty-bonanza-clearance-sale,Gillette Winner 5s,,nan,৳ 150.00,,
+618,beauty-bonanza-clearance-sale,Flormar Waterproof Lipliner Berry Stain 231,SOLD OUT,nan,৳ 380.00,,1.14gm
+619,beauty-bonanza-clearance-sale,Jergens Natural Glow 3 Days to Glow Moisturizer Medium To Deep Skin Tones,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,118ml
+620,beauty-bonanza-clearance-sale,Avene Toning Lotion,SALE,"৳ 2,250.00","৳ 2,070.00",App Price: ৳ 2008.00,200ml
+621,beauty-bonanza-clearance-sale,Avene Physiolift Serum,SALE,"৳ 3,450.00","৳ 3,380.00",App Price: ৳ 3279.00,30ml
+622,beauty-bonanza-clearance-sale,La Roche-Posay Sensitive Skin Soothing Lotion,SALE,"৳ 2,950.00","৳ 2,350.00",App Price: ৳ 2280.00,200ml
+623,beauty-bonanza-clearance-sale,The Body Shop Strawberry Home Fragrance Oil,SALE,"৳ 1,000.00",৳ 700.00,App Price: ৳ 679.00,10ml
+624,beauty-bonanza-clearance-sale,Azzaro Chrome EDT Spray,SALE,"৳ 6,800.00","৳ 4,950.00",App Price: ৳ 4802.00,100ml
+625,beauty-bonanza-clearance-sale,Azzaro Chrome United EDT,SALE,"৳ 6,800.00","৳ 4,850.00",App Price: ৳ 4705.00,100ml
+626,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 1 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+627,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No 2 Gift Set For Men Eau De Toilette 50ml With Sport Deodorant 175ml,SALE,"৳ 1,800.00","৳ 1,620.00",App Price: ৳ 1571.00,225ml
+628,beauty-bonanza-clearance-sale,Lauder Pleasures For Men Cologne Spray,SALE,"৳ 7,000.00","৳ 5,900.00",App Price: ৳ 5723.00,100ml
+629,beauty-bonanza-clearance-sale,Clinique Smart Custom Repair Moisturizer SPF 15,SALE,"৳ 13,000.00","৳ 9,750.00",,50ml
+630,beauty-bonanza-clearance-sale,Carolina Herrera 212 VIP Are You On The List EDP For her,SALE,"৳ 9,500.00","৳ 6,950.00",App Price: ৳ 6742.00,125ml
+631,beauty-bonanza-clearance-sale,Grace Day 15% Aloe Cream,SALE,"৳ 1,200.00","৳ 1,150.00",App Price: ৳ 1116.00,50ml
+632,beauty-bonanza-clearance-sale,Grace Day Anti Dust Peeling Pollution Gel,SALE,"৳ 1,350.00","৳ 1,250.00",App Price: ৳ 1213.00,180ml
+633,beauty-bonanza-clearance-sale,Grace Day Pure Plex Peptide Skin Toner,SALE,"৳ 1,750.00","৳ 1,650.00",App Price: ৳ 1601.00,250ml
+634,beauty-bonanza-clearance-sale,Grace Day Bouquet Marine Mist ,SALE,"৳ 1,250.00","৳ 1,150.00",App Price: ৳ 1116.00,100ml
+635,beauty-bonanza-clearance-sale,Nivea Hyaluron Cellular Filler Elasticity Reshape Anti-Age Day Cream,SALE,"৳ 2,500.00","৳ 1,650.00",App Price: ৳ 1601.00,50ml
+636,beauty-bonanza-clearance-sale,Superdrug Naturally Radiant Brightening Radiance Balm,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 903.00,50ml
+637,beauty-bonanza-clearance-sale,Paco Rabanne  Lady Million Deodorant Spray,SALE,"৳ 2,800.00","৳ 2,350.00",App Price: ৳ 2280.00,150ml
+638,beauty-bonanza-clearance-sale,Tabac Original Beard & Shaving Oil,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,50ml
+639,beauty-bonanza-clearance-sale,The Body Shop Oils of Life Intensely Revitalising Eye Cream Gel,SALE,"৳ 3,450.00","৳ 2,760.00",App Price: ৳ 2677.00,20ml
+640,beauty-bonanza-clearance-sale,Jergens Natural Glow 3 Days to Glow Moisturizer Medium To Deep Skin Tones,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,118ml
+641,beauty-bonanza-clearance-sale,Avene Toning Lotion,SALE,"৳ 2,250.00","৳ 2,070.00",App Price: ৳ 2008.00,200ml
+642,beauty-bonanza-clearance-sale,Avene Physiolift Serum,SALE,"৳ 3,450.00","৳ 3,380.00",App Price: ৳ 3279.00,30ml
+643,beauty-bonanza-clearance-sale,La Roche-Posay Sensitive Skin Soothing Lotion,SALE,"৳ 2,950.00","৳ 2,350.00",App Price: ৳ 2280.00,200ml
+644,beauty-bonanza-clearance-sale,The Body Shop Strawberry Home Fragrance Oil,SALE,"৳ 1,000.00",৳ 700.00,App Price: ৳ 679.00,10ml
+645,beauty-bonanza-clearance-sale,Azzaro Chrome EDT Spray,SALE,"৳ 6,800.00","৳ 4,950.00",App Price: ৳ 4802.00,100ml
+646,beauty-bonanza-clearance-sale,Azzaro Chrome United EDT,SALE,"৳ 6,800.00","৳ 4,850.00",App Price: ৳ 4705.00,100ml
+647,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 1 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+648,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No 2 Gift Set For Men Eau De Toilette 50ml With Sport Deodorant 175ml,SALE,"৳ 1,800.00","৳ 1,620.00",App Price: ৳ 1571.00,225ml
+649,beauty-bonanza-clearance-sale,Lauder Pleasures For Men Cologne Spray,SALE,"৳ 7,000.00","৳ 5,900.00",App Price: ৳ 5723.00,100ml
+650,beauty-bonanza-clearance-sale,Clinique Smart Custom Repair Moisturizer SPF 15,SALE,"৳ 13,000.00","৳ 9,750.00",,50ml
+651,beauty-bonanza-clearance-sale,Carolina Herrera 212 VIP Are You On The List EDP For her,SALE,"৳ 9,500.00","৳ 6,950.00",App Price: ৳ 6742.00,125ml
+652,beauty-bonanza-clearance-sale,Superdrug Naturally Radiant Brightening Radiance Balm,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 903.00,50ml
+653,beauty-bonanza-clearance-sale,Nivea Hyaluron Cellular Filler Elasticity Reshape Anti-Age Day Cream,SALE,"৳ 2,500.00","৳ 1,650.00",App Price: ৳ 1601.00,50ml
+654,beauty-bonanza-clearance-sale,Grace Day 15% Aloe Cream,SALE,"৳ 1,200.00","৳ 1,150.00",App Price: ৳ 1116.00,50ml
+655,beauty-bonanza-clearance-sale,Grace Day Anti Dust Peeling Pollution Gel,SALE,"৳ 1,350.00","৳ 1,250.00",App Price: ৳ 1213.00,180ml
+656,beauty-bonanza-clearance-sale,Grace Day Pure Plex Peptide Skin Toner,SALE,"৳ 1,750.00","৳ 1,650.00",App Price: ৳ 1601.00,250ml
+657,beauty-bonanza-clearance-sale,Grace Day Bouquet Marine Mist ,SALE,"৳ 1,250.00","৳ 1,150.00",App Price: ৳ 1116.00,100ml
+658,beauty-bonanza-clearance-sale,Tabac Original Beard & Shaving Oil,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,50ml
+659,beauty-bonanza-clearance-sale,Paco Rabanne  Lady Million Deodorant Spray,SALE,"৳ 2,800.00","৳ 2,350.00",App Price: ৳ 2280.00,150ml
+660,beauty-bonanza-clearance-sale,The Body Shop Oils of Life Intensely Revitalising Eye Cream Gel,SALE,"৳ 3,450.00","৳ 2,760.00",App Price: ৳ 2677.00,20ml
+661,beauty-bonanza-clearance-sale,Vanicream Gentle Body Wash,SALE,"৳ 2,650.00","৳ 1,999.00",App Price: ৳ 1939.00,355ml
+662,beauty-bonanza-clearance-sale,Elizabeth Arden NYC EDP Spray,SALE,"৳ 5,100.00","৳ 3,500.00",App Price: ৳ 3395.00,75ml
+663,beauty-bonanza-clearance-sale,Chanel Allure Body Lotion,SALE,"৳ 12,000.00","৳ 8,500.00",,200ml
+664,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 2 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+665,beauty-bonanza-clearance-sale,Elizabeth Arden NYC EDP Spray,SALE,"৳ 5,100.00","৳ 3,500.00",App Price: ৳ 3395.00,75ml
+666,beauty-bonanza-clearance-sale,Chanel Allure Body Lotion,SALE,"৳ 12,000.00","৳ 8,500.00",,200ml
+667,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 2 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+668,beauty-bonanza-clearance-sale,Vanicream Gentle Body Wash,SALE,"৳ 2,650.00","৳ 1,999.00",App Price: ৳ 1939.00,355ml
+669,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+670,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+671,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+672,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+673,beauty-bonanza-clearance-sale,LIL'AFIX Professional Conditioner Spray - Pink,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,400ml
+674,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+675,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+676,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+677,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+678,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+679,beauty-bonanza-clearance-sale,Revox Just Blend Oil Nourishing Serum,,nan,৳ 950.00,App Price: ৳ 922.00,30ml
+680,beauty-bonanza-clearance-sale,Revox Skin Therapy Oil,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,75ml
+681,beauty-bonanza-clearance-sale,J.Cat Rockin' The Night Sparkling Powder SP217 Amber Jewelry,,nan,৳ 300.00,App Price: ৳ 291.00,4gm
+682,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+683,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+684,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+685,beauty-bonanza-clearance-sale,TTM Fair Radiance Skin Enhancement Mask,,nan,৳ 420.00,App Price: ৳ 407.00,33ml
+686,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+687,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+688,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+689,beauty-bonanza-clearance-sale,Revlon Nearly Naked Pressed Powder Fair,,nan,"৳ 1,250.00",,8gm
+690,beauty-bonanza-clearance-sale,Flormar Silk Matte Liquid Lipstick 13 Pink Dream,,nan,"৳ 1,100.00",,4.5ml
+691,beauty-bonanza-clearance-sale,Flormar Glitter Nail Enamel GL44 Purple Glare,,nan,৳ 320.00,,11ml
+692,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+693,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+694,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+695,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+696,beauty-bonanza-clearance-sale,Revlon Nearly Naked Pressed Powder Fair,,nan,"৳ 1,250.00",,8gm
+697,beauty-bonanza-clearance-sale,TTM Fair Radiance Skin Enhancement Mask,,nan,৳ 420.00,App Price: ৳ 407.00,33ml
+698,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+699,beauty-bonanza-clearance-sale,Revox Just Blend Oil Nourishing Serum,,nan,৳ 950.00,App Price: ৳ 922.00,30ml
+700,beauty-bonanza-clearance-sale,Revox Skin Therapy Oil,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,75ml
+701,beauty-bonanza-clearance-sale,J.Cat Rockin' The Night Sparkling Powder SP217 Amber Jewelry,,nan,৳ 300.00,App Price: ৳ 291.00,4gm
+702,beauty-bonanza-clearance-sale,Flormar Silk Matte Liquid Lipstick 13 Pink Dream,,nan,"৳ 1,100.00",,4.5ml
+703,beauty-bonanza-clearance-sale,Flormar Glitter Nail Enamel GL44 Purple Glare,,nan,৳ 320.00,,11ml
+704,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+705,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+706,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+707,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+708,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+709,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+710,beauty-bonanza-clearance-sale,LIL'AFIX Professional Conditioner Spray - Pink,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,400ml
+711,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+712,beauty-bonanza-clearance-sale,PSK Skin Balancing Oil-Control Toner,,nan,"৳ 2,850.00",App Price: ৳ 2765.00,150ml
+713,beauty-bonanza-clearance-sale,Mont Blanc Explorer Ultra Blue Eau de Parfum,,nan,"৳ 7,500.00",App Price: ৳ 7275.00,100ml
+714,beauty-bonanza-clearance-sale,Mont Blanc Presence d’une Femme Eau de Toilette for Women,,nan,"৳ 5,500.00",App Price: ৳ 5335.00,75ml
+715,beauty-bonanza-clearance-sale,Cholley Bioclean Stop Imperfections Purifying Face Cream for Blemishes,,nan,"৳ 4,000.00",,15ml
+716,beauty-bonanza-clearance-sale,Beauti4me Pressed Powder Light Beige PP02,,nan,৳ 950.00,App Price: ৳ 922.00,10gm
+717,beauty-bonanza-clearance-sale,Beauti4me Pressed Powder Honey Bronze PP03,,nan,৳ 950.00,App Price: ৳ 922.00,10gm
+718,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K211,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+719,beauty-bonanza-clearance-sale,Astra Lasting Gel Effect Nail Polish N 34 Peaches,,nan,৳ 450.00,App Price: ৳ 437.00,12ml
+720,beauty-bonanza-clearance-sale,Astra Eye Brush,,nan,৳ 600.00,App Price: ৳ 582.00,
+721,beauty-bonanza-clearance-sale,Astra The Universal Volume Mascara,,nan,৳ 850.00,App Price: ৳ 825.00,13ml
+722,beauty-bonanza-clearance-sale,Anafeli Paris SPF 15 Glowy Foundation 04,,nan,৳ 850.00,App Price: ৳ 825.00,30ml
+723,beauty-bonanza-clearance-sale,Hugo Boss Man Eau De Toilette,,nan,"৳ 5,500.00",App Price: ৳ 5335.00,125ml
+724,beauty-bonanza-clearance-sale,TTM Marine Origin Collagen Revitalizing Bio Cellulose Mask,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+725,beauty-bonanza-clearance-sale,TTM Mild Exfoliating Face Scrub with Volcanic Clay,,nan,"৳ 3,150.00",App Price: ৳ 3056.00,100ml
+726,beauty-bonanza-clearance-sale,Dr. Haru Centella Activation Serum,,nan,"৳ 1,650.00",App Price: ৳ 1601.00,50ml
+727,beauty-bonanza-clearance-sale,Jean Paul Gaultier Deodorant Spray For Men,,nan,"৳ 2,400.00",App Price: ৳ 2328.00,150ml
+728,beauty-bonanza-clearance-sale,SKINFOOD White Grape Fresh Up Base 03 Purple,,nan,৳ 800.00,App Price: ৳ 776.00,30ml
+729,beauty-bonanza-clearance-sale,SKINFOOD White Grape Fresh Up Base 02 Green,,nan,৳ 800.00,App Price: ৳ 776.00,30ml
+730,beauty-bonanza-clearance-sale,Hugo Boss Man Eau De Toilette,,nan,"৳ 5,500.00",App Price: ৳ 5335.00,125ml
+731,beauty-bonanza-clearance-sale,TTM Marine Origin Collagen Revitalizing Bio Cellulose Mask,,nan,৳ 890.00,App Price: ৳ 863.00,30ml
+732,beauty-bonanza-clearance-sale,TTM Mild Exfoliating Face Scrub with Volcanic Clay,,nan,"৳ 3,150.00",App Price: ৳ 3056.00,100ml
+733,beauty-bonanza-clearance-sale,Cholley Bioclean Stop Imperfections Purifying Face Cream for Blemishes,,nan,"৳ 4,000.00",,15ml
+734,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K211,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+735,beauty-bonanza-clearance-sale,Anafeli Paris SPF 15 Glowy Foundation 04,,nan,৳ 850.00,App Price: ৳ 825.00,30ml
+736,beauty-bonanza-clearance-sale,PSK Skin Balancing Oil-Control Toner,,nan,"৳ 2,850.00",App Price: ৳ 2765.00,150ml
+737,beauty-bonanza-clearance-sale,Astra Lasting Gel Effect Nail Polish N 34 Peaches,,nan,৳ 450.00,App Price: ৳ 437.00,12ml
+738,beauty-bonanza-clearance-sale,Astra Eye Brush,,nan,৳ 600.00,App Price: ৳ 582.00,
+739,beauty-bonanza-clearance-sale,Astra The Universal Volume Mascara,,nan,৳ 850.00,App Price: ৳ 825.00,13ml
+740,beauty-bonanza-clearance-sale,Mont Blanc Explorer Ultra Blue Eau de Parfum,,nan,"৳ 7,500.00",App Price: ৳ 7275.00,100ml
+741,beauty-bonanza-clearance-sale,Mont Blanc Presence d’une Femme Eau de Toilette for Women,,nan,"৳ 5,500.00",App Price: ৳ 5335.00,75ml
+742,beauty-bonanza-clearance-sale,Beauti4me Pressed Powder Light Beige PP02,,nan,৳ 950.00,App Price: ৳ 922.00,10gm
+743,beauty-bonanza-clearance-sale,Beauti4me Pressed Powder Honey Bronze PP03,,nan,৳ 950.00,App Price: ৳ 922.00,10gm
+744,beauty-bonanza-clearance-sale,Jergens Natural Glow 3 Days to Glow Moisturizer Medium To Deep Skin Tones,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,118ml
+745,beauty-bonanza-clearance-sale,Avene Toning Lotion,SALE,"৳ 2,250.00","৳ 2,070.00",App Price: ৳ 2008.00,200ml
+746,beauty-bonanza-clearance-sale,Avene Physiolift Serum,SALE,"৳ 3,450.00","৳ 3,380.00",App Price: ৳ 3279.00,30ml
+747,beauty-bonanza-clearance-sale,La Roche-Posay Sensitive Skin Soothing Lotion,SALE,"৳ 2,950.00","৳ 2,350.00",App Price: ৳ 2280.00,200ml
+748,beauty-bonanza-clearance-sale,The Body Shop Strawberry Home Fragrance Oil,SALE,"৳ 1,000.00",৳ 700.00,App Price: ৳ 679.00,10ml
+749,beauty-bonanza-clearance-sale,Azzaro Chrome EDT Spray,SALE,"৳ 6,800.00","৳ 4,950.00",App Price: ৳ 4802.00,100ml
+750,beauty-bonanza-clearance-sale,Azzaro Chrome United EDT,SALE,"৳ 6,800.00","৳ 4,850.00",App Price: ৳ 4705.00,100ml
+751,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 1 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+752,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No 2 Gift Set For Men Eau De Toilette 50ml With Sport Deodorant 175ml,SALE,"৳ 1,800.00","৳ 1,620.00",App Price: ৳ 1571.00,225ml
+753,beauty-bonanza-clearance-sale,Lauder Pleasures For Men Cologne Spray,SALE,"৳ 7,000.00","৳ 5,900.00",App Price: ৳ 5723.00,100ml
+754,beauty-bonanza-clearance-sale,Clinique Smart Custom Repair Moisturizer SPF 15,SALE,"৳ 13,000.00","৳ 9,750.00",,50ml
+755,beauty-bonanza-clearance-sale,Carolina Herrera 212 VIP Are You On The List EDP For her,SALE,"৳ 9,500.00","৳ 6,950.00",App Price: ৳ 6742.00,125ml
+756,beauty-bonanza-clearance-sale,Grace Day 15% Aloe Cream,SALE,"৳ 1,200.00","৳ 1,150.00",App Price: ৳ 1116.00,50ml
+757,beauty-bonanza-clearance-sale,Grace Day Anti Dust Peeling Pollution Gel,SALE,"৳ 1,350.00","৳ 1,250.00",App Price: ৳ 1213.00,180ml
+758,beauty-bonanza-clearance-sale,Grace Day Pure Plex Peptide Skin Toner,SALE,"৳ 1,750.00","৳ 1,650.00",App Price: ৳ 1601.00,250ml
+759,beauty-bonanza-clearance-sale,Grace Day Bouquet Marine Mist ,SALE,"৳ 1,250.00","৳ 1,150.00",App Price: ৳ 1116.00,100ml
+760,beauty-bonanza-clearance-sale,Nivea Hyaluron Cellular Filler Elasticity Reshape Anti-Age Day Cream,SALE,"৳ 2,500.00","৳ 1,650.00",App Price: ৳ 1601.00,50ml
+761,beauty-bonanza-clearance-sale,Superdrug Naturally Radiant Brightening Radiance Balm,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 903.00,50ml
+762,beauty-bonanza-clearance-sale,Paco Rabanne  Lady Million Deodorant Spray,SALE,"৳ 2,800.00","৳ 2,350.00",App Price: ৳ 2280.00,150ml
+763,beauty-bonanza-clearance-sale,Tabac Original Beard & Shaving Oil,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,50ml
+764,beauty-bonanza-clearance-sale,The Body Shop Oils of Life Intensely Revitalising Eye Cream Gel,SALE,"৳ 3,450.00","৳ 2,760.00",App Price: ৳ 2677.00,20ml
+765,beauty-bonanza-clearance-sale,Jergens Natural Glow 3 Days to Glow Moisturizer Medium To Deep Skin Tones,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,118ml
+766,beauty-bonanza-clearance-sale,Avene Toning Lotion,SALE,"৳ 2,250.00","৳ 2,070.00",App Price: ৳ 2008.00,200ml
+767,beauty-bonanza-clearance-sale,Avene Physiolift Serum,SALE,"৳ 3,450.00","৳ 3,380.00",App Price: ৳ 3279.00,30ml
+768,beauty-bonanza-clearance-sale,La Roche-Posay Sensitive Skin Soothing Lotion,SALE,"৳ 2,950.00","৳ 2,350.00",App Price: ৳ 2280.00,200ml
+769,beauty-bonanza-clearance-sale,The Body Shop Strawberry Home Fragrance Oil,SALE,"৳ 1,000.00",৳ 700.00,App Price: ৳ 679.00,10ml
+770,beauty-bonanza-clearance-sale,Azzaro Chrome EDT Spray,SALE,"৳ 6,800.00","৳ 4,950.00",App Price: ৳ 4802.00,100ml
+771,beauty-bonanza-clearance-sale,Azzaro Chrome United EDT,SALE,"৳ 6,800.00","৳ 4,850.00",App Price: ৳ 4705.00,100ml
+772,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 1 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+773,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No 2 Gift Set For Men Eau De Toilette 50ml With Sport Deodorant 175ml,SALE,"৳ 1,800.00","৳ 1,620.00",App Price: ৳ 1571.00,225ml
+774,beauty-bonanza-clearance-sale,Lauder Pleasures For Men Cologne Spray,SALE,"৳ 7,000.00","৳ 5,900.00",App Price: ৳ 5723.00,100ml
+775,beauty-bonanza-clearance-sale,Clinique Smart Custom Repair Moisturizer SPF 15,SALE,"৳ 13,000.00","৳ 9,750.00",,50ml
+776,beauty-bonanza-clearance-sale,Carolina Herrera 212 VIP Are You On The List EDP For her,SALE,"৳ 9,500.00","৳ 6,950.00",App Price: ৳ 6742.00,125ml
+777,beauty-bonanza-clearance-sale,Superdrug Naturally Radiant Brightening Radiance Balm,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 903.00,50ml
+778,beauty-bonanza-clearance-sale,Nivea Hyaluron Cellular Filler Elasticity Reshape Anti-Age Day Cream,SALE,"৳ 2,500.00","৳ 1,650.00",App Price: ৳ 1601.00,50ml
+779,beauty-bonanza-clearance-sale,Grace Day 15% Aloe Cream,SALE,"৳ 1,200.00","৳ 1,150.00",App Price: ৳ 1116.00,50ml
+780,beauty-bonanza-clearance-sale,Grace Day Anti Dust Peeling Pollution Gel,SALE,"৳ 1,350.00","৳ 1,250.00",App Price: ৳ 1213.00,180ml
+781,beauty-bonanza-clearance-sale,Grace Day Pure Plex Peptide Skin Toner,SALE,"৳ 1,750.00","৳ 1,650.00",App Price: ৳ 1601.00,250ml
+782,beauty-bonanza-clearance-sale,Grace Day Bouquet Marine Mist ,SALE,"৳ 1,250.00","৳ 1,150.00",App Price: ৳ 1116.00,100ml
+783,beauty-bonanza-clearance-sale,Tabac Original Beard & Shaving Oil,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,50ml
+784,beauty-bonanza-clearance-sale,Paco Rabanne  Lady Million Deodorant Spray,SALE,"৳ 2,800.00","৳ 2,350.00",App Price: ৳ 2280.00,150ml
+785,beauty-bonanza-clearance-sale,The Body Shop Oils of Life Intensely Revitalising Eye Cream Gel,SALE,"৳ 3,450.00","৳ 2,760.00",App Price: ৳ 2677.00,20ml
+786,beauty-bonanza-clearance-sale,Vanicream Gentle Body Wash,SALE,"৳ 2,650.00","৳ 1,999.00",App Price: ৳ 1939.00,355ml
+787,beauty-bonanza-clearance-sale,Elizabeth Arden NYC EDP Spray,SALE,"৳ 5,100.00","৳ 3,500.00",App Price: ৳ 3395.00,75ml
+788,beauty-bonanza-clearance-sale,Chanel Allure Body Lotion,SALE,"৳ 12,000.00","৳ 8,500.00",,200ml
+789,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 2 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+790,beauty-bonanza-clearance-sale,Elizabeth Arden NYC EDP Spray,SALE,"৳ 5,100.00","৳ 3,500.00",App Price: ৳ 3395.00,75ml
+791,beauty-bonanza-clearance-sale,Chanel Allure Body Lotion,SALE,"৳ 12,000.00","৳ 8,500.00",,200ml
+792,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 2 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+793,beauty-bonanza-clearance-sale,Vanicream Gentle Body Wash,SALE,"৳ 2,650.00","৳ 1,999.00",App Price: ৳ 1939.00,355ml
+794,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+795,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+796,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+797,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+798,beauty-bonanza-clearance-sale,LIL'AFIX Professional Conditioner Spray - Pink,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,400ml
+799,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+800,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+801,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+802,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+803,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+804,beauty-bonanza-clearance-sale,Revox Just Blend Oil Nourishing Serum,,nan,৳ 950.00,App Price: ৳ 922.00,30ml
+805,beauty-bonanza-clearance-sale,Revox Skin Therapy Oil,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,75ml
+806,beauty-bonanza-clearance-sale,J.Cat Rockin' The Night Sparkling Powder SP217 Amber Jewelry,,nan,৳ 300.00,App Price: ৳ 291.00,4gm
+807,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+808,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+809,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+810,beauty-bonanza-clearance-sale,TTM Fair Radiance Skin Enhancement Mask,,nan,৳ 420.00,App Price: ৳ 407.00,33ml
+811,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+812,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+813,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+814,beauty-bonanza-clearance-sale,Revlon Nearly Naked Pressed Powder Fair,,nan,"৳ 1,250.00",,8gm
+815,beauty-bonanza-clearance-sale,Flormar Silk Matte Liquid Lipstick 13 Pink Dream,,nan,"৳ 1,100.00",,4.5ml
+816,beauty-bonanza-clearance-sale,Flormar Glitter Nail Enamel GL44 Purple Glare,,nan,৳ 320.00,,11ml
+817,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+818,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+819,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+820,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+821,beauty-bonanza-clearance-sale,Revlon Nearly Naked Pressed Powder Fair,,nan,"৳ 1,250.00",,8gm
+822,beauty-bonanza-clearance-sale,TTM Fair Radiance Skin Enhancement Mask,,nan,৳ 420.00,App Price: ৳ 407.00,33ml
+823,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+824,beauty-bonanza-clearance-sale,Revox Just Blend Oil Nourishing Serum,,nan,৳ 950.00,App Price: ৳ 922.00,30ml
+825,beauty-bonanza-clearance-sale,Revox Skin Therapy Oil,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,75ml
+826,beauty-bonanza-clearance-sale,J.Cat Rockin' The Night Sparkling Powder SP217 Amber Jewelry,,nan,৳ 300.00,App Price: ৳ 291.00,4gm
+827,beauty-bonanza-clearance-sale,Flormar Silk Matte Liquid Lipstick 13 Pink Dream,,nan,"৳ 1,100.00",,4.5ml
+828,beauty-bonanza-clearance-sale,Flormar Glitter Nail Enamel GL44 Purple Glare,,nan,৳ 320.00,,11ml
+829,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+830,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+831,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+832,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+833,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+834,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+835,beauty-bonanza-clearance-sale,LIL'AFIX Professional Conditioner Spray - Pink,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,400ml
+836,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+837,beauty-bonanza-clearance-sale,Jergens Natural Glow 3 Days to Glow Moisturizer Medium To Deep Skin Tones,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,118ml
+838,beauty-bonanza-clearance-sale,Avene Toning Lotion,SALE,"৳ 2,250.00","৳ 2,070.00",App Price: ৳ 2008.00,200ml
+839,beauty-bonanza-clearance-sale,Avene Physiolift Serum,SALE,"৳ 3,450.00","৳ 3,380.00",App Price: ৳ 3279.00,30ml
+840,beauty-bonanza-clearance-sale,La Roche-Posay Sensitive Skin Soothing Lotion,SALE,"৳ 2,950.00","৳ 2,350.00",App Price: ৳ 2280.00,200ml
+841,beauty-bonanza-clearance-sale,The Body Shop Strawberry Home Fragrance Oil,SALE,"৳ 1,000.00",৳ 700.00,App Price: ৳ 679.00,10ml
+842,beauty-bonanza-clearance-sale,Azzaro Chrome EDT Spray,SALE,"৳ 6,800.00","৳ 4,950.00",App Price: ৳ 4802.00,100ml
+843,beauty-bonanza-clearance-sale,Azzaro Chrome United EDT,SALE,"৳ 6,800.00","৳ 4,850.00",App Price: ৳ 4705.00,100ml
+844,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 1 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+845,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No 2 Gift Set For Men Eau De Toilette 50ml With Sport Deodorant 175ml,SALE,"৳ 1,800.00","৳ 1,620.00",App Price: ৳ 1571.00,225ml
+846,beauty-bonanza-clearance-sale,Lauder Pleasures For Men Cologne Spray,SALE,"৳ 7,000.00","৳ 5,900.00",App Price: ৳ 5723.00,100ml
+847,beauty-bonanza-clearance-sale,Clinique Smart Custom Repair Moisturizer SPF 15,SALE,"৳ 13,000.00","৳ 9,750.00",,50ml
+848,beauty-bonanza-clearance-sale,Carolina Herrera 212 VIP Are You On The List EDP For her,SALE,"৳ 9,500.00","৳ 6,950.00",App Price: ৳ 6742.00,125ml
+849,beauty-bonanza-clearance-sale,Grace Day 15% Aloe Cream,SALE,"৳ 1,200.00","৳ 1,150.00",App Price: ৳ 1116.00,50ml
+850,beauty-bonanza-clearance-sale,Grace Day Anti Dust Peeling Pollution Gel,SALE,"৳ 1,350.00","৳ 1,250.00",App Price: ৳ 1213.00,180ml
+851,beauty-bonanza-clearance-sale,Grace Day Pure Plex Peptide Skin Toner,SALE,"৳ 1,750.00","৳ 1,650.00",App Price: ৳ 1601.00,250ml
+852,beauty-bonanza-clearance-sale,Grace Day Bouquet Marine Mist ,SALE,"৳ 1,250.00","৳ 1,150.00",App Price: ৳ 1116.00,100ml
+853,beauty-bonanza-clearance-sale,Nivea Hyaluron Cellular Filler Elasticity Reshape Anti-Age Day Cream,SALE,"৳ 2,500.00","৳ 1,650.00",App Price: ৳ 1601.00,50ml
+854,beauty-bonanza-clearance-sale,Superdrug Naturally Radiant Brightening Radiance Balm,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 903.00,50ml
+855,beauty-bonanza-clearance-sale,Paco Rabanne  Lady Million Deodorant Spray,SALE,"৳ 2,800.00","৳ 2,350.00",App Price: ৳ 2280.00,150ml
+856,beauty-bonanza-clearance-sale,Tabac Original Beard & Shaving Oil,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,50ml
+857,beauty-bonanza-clearance-sale,The Body Shop Oils of Life Intensely Revitalising Eye Cream Gel,SALE,"৳ 3,450.00","৳ 2,760.00",App Price: ৳ 2677.00,20ml
+858,beauty-bonanza-clearance-sale,Jergens Natural Glow 3 Days to Glow Moisturizer Medium To Deep Skin Tones,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,118ml
+859,beauty-bonanza-clearance-sale,Avene Toning Lotion,SALE,"৳ 2,250.00","৳ 2,070.00",App Price: ৳ 2008.00,200ml
+860,beauty-bonanza-clearance-sale,Avene Physiolift Serum,SALE,"৳ 3,450.00","৳ 3,380.00",App Price: ৳ 3279.00,30ml
+861,beauty-bonanza-clearance-sale,La Roche-Posay Sensitive Skin Soothing Lotion,SALE,"৳ 2,950.00","৳ 2,350.00",App Price: ৳ 2280.00,200ml
+862,beauty-bonanza-clearance-sale,The Body Shop Strawberry Home Fragrance Oil,SALE,"৳ 1,000.00",৳ 700.00,App Price: ৳ 679.00,10ml
+863,beauty-bonanza-clearance-sale,Azzaro Chrome EDT Spray,SALE,"৳ 6,800.00","৳ 4,950.00",App Price: ৳ 4802.00,100ml
+864,beauty-bonanza-clearance-sale,Azzaro Chrome United EDT,SALE,"৳ 6,800.00","৳ 4,850.00",App Price: ৳ 4705.00,100ml
+865,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 1 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+866,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No 2 Gift Set For Men Eau De Toilette 50ml With Sport Deodorant 175ml,SALE,"৳ 1,800.00","৳ 1,620.00",App Price: ৳ 1571.00,225ml
+867,beauty-bonanza-clearance-sale,Lauder Pleasures For Men Cologne Spray,SALE,"৳ 7,000.00","৳ 5,900.00",App Price: ৳ 5723.00,100ml
+868,beauty-bonanza-clearance-sale,Clinique Smart Custom Repair Moisturizer SPF 15,SALE,"৳ 13,000.00","৳ 9,750.00",,50ml
+869,beauty-bonanza-clearance-sale,Carolina Herrera 212 VIP Are You On The List EDP For her,SALE,"৳ 9,500.00","৳ 6,950.00",App Price: ৳ 6742.00,125ml
+870,beauty-bonanza-clearance-sale,Superdrug Naturally Radiant Brightening Radiance Balm,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 903.00,50ml
+871,beauty-bonanza-clearance-sale,Nivea Hyaluron Cellular Filler Elasticity Reshape Anti-Age Day Cream,SALE,"৳ 2,500.00","৳ 1,650.00",App Price: ৳ 1601.00,50ml
+872,beauty-bonanza-clearance-sale,Grace Day 15% Aloe Cream,SALE,"৳ 1,200.00","৳ 1,150.00",App Price: ৳ 1116.00,50ml
+873,beauty-bonanza-clearance-sale,Grace Day Anti Dust Peeling Pollution Gel,SALE,"৳ 1,350.00","৳ 1,250.00",App Price: ৳ 1213.00,180ml
+874,beauty-bonanza-clearance-sale,Grace Day Pure Plex Peptide Skin Toner,SALE,"৳ 1,750.00","৳ 1,650.00",App Price: ৳ 1601.00,250ml
+875,beauty-bonanza-clearance-sale,Grace Day Bouquet Marine Mist ,SALE,"৳ 1,250.00","৳ 1,150.00",App Price: ৳ 1116.00,100ml
+876,beauty-bonanza-clearance-sale,Tabac Original Beard & Shaving Oil,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,50ml
+877,beauty-bonanza-clearance-sale,Paco Rabanne  Lady Million Deodorant Spray,SALE,"৳ 2,800.00","৳ 2,350.00",App Price: ৳ 2280.00,150ml
+878,beauty-bonanza-clearance-sale,The Body Shop Oils of Life Intensely Revitalising Eye Cream Gel,SALE,"৳ 3,450.00","৳ 2,760.00",App Price: ৳ 2677.00,20ml
+879,beauty-bonanza-clearance-sale,Vanicream Gentle Body Wash,SALE,"৳ 2,650.00","৳ 1,999.00",App Price: ৳ 1939.00,355ml
+880,beauty-bonanza-clearance-sale,Elizabeth Arden NYC EDP Spray,SALE,"৳ 5,100.00","৳ 3,500.00",App Price: ৳ 3395.00,75ml
+881,beauty-bonanza-clearance-sale,Chanel Allure Body Lotion,SALE,"৳ 12,000.00","৳ 8,500.00",,200ml
+882,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 2 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+883,beauty-bonanza-clearance-sale,Elizabeth Arden NYC EDP Spray,SALE,"৳ 5,100.00","৳ 3,500.00",App Price: ৳ 3395.00,75ml
+884,beauty-bonanza-clearance-sale,Chanel Allure Body Lotion,SALE,"৳ 12,000.00","৳ 8,500.00",,200ml
+885,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 2 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+886,beauty-bonanza-clearance-sale,Vanicream Gentle Body Wash,SALE,"৳ 2,650.00","৳ 1,999.00",App Price: ৳ 1939.00,355ml
+887,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+888,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+889,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+890,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+891,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+892,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+893,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+894,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+895,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+896,beauty-bonanza-clearance-sale,Revox Just Blend Oil Nourishing Serum,,nan,৳ 950.00,App Price: ৳ 922.00,30ml
+897,beauty-bonanza-clearance-sale,Revox Skin Therapy Oil,,nan,"৳ 1,050.00",App Price: ৳ 1019.00,75ml
+898,beauty-bonanza-clearance-sale,J.Cat Rockin' The Night Sparkling Powder SP217 Amber Jewelry,,nan,৳ 300.00,App Price: ৳ 291.00,4gm
+899,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+900,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+901,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+902,beauty-bonanza-clearance-sale,TTM Fair Radiance Skin Enhancement Mask,,nan,৳ 420.00,App Price: ৳ 407.00,33ml
+903,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+904,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+905,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+906,beauty-bonanza-clearance-sale,Revlon Nearly Naked Pressed Powder Fair,,nan,"৳ 1,250.00",,8gm
+907,beauty-bonanza-clearance-sale,Flormar Silk Matte Liquid Lipstick 13 Pink Dream,,nan,"৳ 1,100.00",,4.5ml
+908,beauty-bonanza-clearance-sale,Flormar Glitter Nail Enamel GL44 Purple Glare,,nan,৳ 320.00,,11ml
+909,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+910,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+911,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+912,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+913,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+914,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+915,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+916,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+917,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+918,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+919,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+920,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+921,beauty-bonanza-clearance-sale,Jergens Natural Glow 3 Days to Glow Moisturizer Medium To Deep Skin Tones,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,118ml
+922,beauty-bonanza-clearance-sale,Avene Toning Lotion,SALE,"৳ 2,250.00","৳ 2,070.00",App Price: ৳ 2008.00,200ml
+923,beauty-bonanza-clearance-sale,Avene Physiolift Serum,SALE,"৳ 3,450.00","৳ 3,380.00",App Price: ৳ 3279.00,30ml
+924,beauty-bonanza-clearance-sale,La Roche-Posay Sensitive Skin Soothing Lotion,SALE,"৳ 2,950.00","৳ 2,350.00",App Price: ৳ 2280.00,200ml
+925,beauty-bonanza-clearance-sale,The Body Shop Strawberry Home Fragrance Oil,SALE,"৳ 1,000.00",৳ 700.00,App Price: ৳ 679.00,10ml
+926,beauty-bonanza-clearance-sale,Azzaro Chrome EDT Spray,SALE,"৳ 6,800.00","৳ 4,950.00",App Price: ৳ 4802.00,100ml
+927,beauty-bonanza-clearance-sale,Azzaro Chrome United EDT,SALE,"৳ 6,800.00","৳ 4,850.00",App Price: ৳ 4705.00,100ml
+928,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 1 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+929,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No 2 Gift Set For Men Eau De Toilette 50ml With Sport Deodorant 175ml,SALE,"৳ 1,800.00","৳ 1,620.00",App Price: ৳ 1571.00,225ml
+930,beauty-bonanza-clearance-sale,Lauder Pleasures For Men Cologne Spray,SALE,"৳ 7,000.00","৳ 5,900.00",App Price: ৳ 5723.00,100ml
+931,beauty-bonanza-clearance-sale,Clinique Smart Custom Repair Moisturizer SPF 15,SALE,"৳ 13,000.00","৳ 9,750.00",,50ml
+932,beauty-bonanza-clearance-sale,Carolina Herrera 212 VIP Are You On The List EDP For her,SALE,"৳ 9,500.00","৳ 6,950.00",App Price: ৳ 6742.00,125ml
+933,beauty-bonanza-clearance-sale,Grace Day 15% Aloe Cream,SALE,"৳ 1,200.00","৳ 1,150.00",App Price: ৳ 1116.00,50ml
+934,beauty-bonanza-clearance-sale,Grace Day Anti Dust Peeling Pollution Gel,SALE,"৳ 1,350.00","৳ 1,250.00",App Price: ৳ 1213.00,180ml
+935,beauty-bonanza-clearance-sale,Grace Day Pure Plex Peptide Skin Toner,SALE,"৳ 1,750.00","৳ 1,650.00",App Price: ৳ 1601.00,250ml
+936,beauty-bonanza-clearance-sale,Grace Day Bouquet Marine Mist ,SALE,"৳ 1,250.00","৳ 1,150.00",App Price: ৳ 1116.00,100ml
+937,beauty-bonanza-clearance-sale,Nivea Hyaluron Cellular Filler Elasticity Reshape Anti-Age Day Cream,SALE,"৳ 2,500.00","৳ 1,650.00",App Price: ৳ 1601.00,50ml
+938,beauty-bonanza-clearance-sale,Superdrug Naturally Radiant Brightening Radiance Balm,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 903.00,50ml
+939,beauty-bonanza-clearance-sale,Paco Rabanne  Lady Million Deodorant Spray,SALE,"৳ 2,800.00","৳ 2,350.00",App Price: ৳ 2280.00,150ml
+940,beauty-bonanza-clearance-sale,Tabac Original Beard & Shaving Oil,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,50ml
+941,beauty-bonanza-clearance-sale,The Body Shop Oils of Life Intensely Revitalising Eye Cream Gel,SALE,"৳ 3,450.00","৳ 2,760.00",App Price: ৳ 2677.00,20ml
+942,beauty-bonanza-clearance-sale,Jergens Natural Glow 3 Days to Glow Moisturizer Medium To Deep Skin Tones,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,118ml
+943,beauty-bonanza-clearance-sale,Avene Toning Lotion,SALE,"৳ 2,250.00","৳ 2,070.00",App Price: ৳ 2008.00,200ml
+944,beauty-bonanza-clearance-sale,Avene Physiolift Serum,SALE,"৳ 3,450.00","৳ 3,380.00",App Price: ৳ 3279.00,30ml
+945,beauty-bonanza-clearance-sale,La Roche-Posay Sensitive Skin Soothing Lotion,SALE,"৳ 2,950.00","৳ 2,350.00",App Price: ৳ 2280.00,200ml
+946,beauty-bonanza-clearance-sale,The Body Shop Strawberry Home Fragrance Oil,SALE,"৳ 1,000.00",৳ 700.00,App Price: ৳ 679.00,10ml
+947,beauty-bonanza-clearance-sale,Azzaro Chrome EDT Spray,SALE,"৳ 6,800.00","৳ 4,950.00",App Price: ৳ 4802.00,100ml
+948,beauty-bonanza-clearance-sale,Azzaro Chrome United EDT,SALE,"৳ 6,800.00","৳ 4,850.00",App Price: ৳ 4705.00,100ml
+949,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 1 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+950,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No 2 Gift Set For Men Eau De Toilette 50ml With Sport Deodorant 175ml,SALE,"৳ 1,800.00","৳ 1,620.00",App Price: ৳ 1571.00,225ml
+951,beauty-bonanza-clearance-sale,Lauder Pleasures For Men Cologne Spray,SALE,"৳ 7,000.00","৳ 5,900.00",App Price: ৳ 5723.00,100ml
+952,beauty-bonanza-clearance-sale,Clinique Smart Custom Repair Moisturizer SPF 15,SALE,"৳ 13,000.00","৳ 9,750.00",,50ml
+953,beauty-bonanza-clearance-sale,Carolina Herrera 212 VIP Are You On The List EDP For her,SALE,"৳ 9,500.00","৳ 6,950.00",App Price: ৳ 6742.00,125ml
+954,beauty-bonanza-clearance-sale,Superdrug Naturally Radiant Brightening Radiance Balm,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 903.00,50ml
+955,beauty-bonanza-clearance-sale,Nivea Hyaluron Cellular Filler Elasticity Reshape Anti-Age Day Cream,SALE,"৳ 2,500.00","৳ 1,650.00",App Price: ৳ 1601.00,50ml
+956,beauty-bonanza-clearance-sale,Grace Day 15% Aloe Cream,SALE,"৳ 1,200.00","৳ 1,150.00",App Price: ৳ 1116.00,50ml
+957,beauty-bonanza-clearance-sale,Grace Day Anti Dust Peeling Pollution Gel,SALE,"৳ 1,350.00","৳ 1,250.00",App Price: ৳ 1213.00,180ml
+958,beauty-bonanza-clearance-sale,Grace Day Pure Plex Peptide Skin Toner,SALE,"৳ 1,750.00","৳ 1,650.00",App Price: ৳ 1601.00,250ml
+959,beauty-bonanza-clearance-sale,Grace Day Bouquet Marine Mist ,SALE,"৳ 1,250.00","৳ 1,150.00",App Price: ৳ 1116.00,100ml
+960,beauty-bonanza-clearance-sale,Tabac Original Beard & Shaving Oil,SALE,"৳ 1,450.00","৳ 1,250.00",App Price: ৳ 1213.00,50ml
+961,beauty-bonanza-clearance-sale,Paco Rabanne  Lady Million Deodorant Spray,SALE,"৳ 2,800.00","৳ 2,350.00",App Price: ৳ 2280.00,150ml
+962,beauty-bonanza-clearance-sale,The Body Shop Oils of Life Intensely Revitalising Eye Cream Gel,SALE,"৳ 3,450.00","৳ 2,760.00",App Price: ৳ 2677.00,20ml
+963,beauty-bonanza-clearance-sale,Vanicream Gentle Body Wash,SALE,"৳ 2,650.00","৳ 1,999.00",App Price: ৳ 1939.00,355ml
+964,beauty-bonanza-clearance-sale,Elizabeth Arden NYC EDP Spray,SALE,"৳ 5,100.00","৳ 3,500.00",App Price: ৳ 3395.00,75ml
+965,beauty-bonanza-clearance-sale,Chanel Allure Body Lotion,SALE,"৳ 12,000.00","৳ 8,500.00",,200ml
+966,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 2 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+967,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+968,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+969,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+970,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+971,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+972,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+973,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+974,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+975,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+976,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+977,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+978,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+979,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+980,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+981,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+982,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+983,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+984,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+985,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
+986,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+987,beauty-bonanza-clearance-sale,Astra Pure Beauty Mosaic Face Powder N 01,,nan,"৳ 1,200.00",App Price: ৳ 1164.00,8gm
+988,beauty-bonanza-clearance-sale,Makeup Revolution Skincare Niacinamide Clarifying Toner ,,nan,"৳ 1,780.00",App Price: ৳ 1727.00,200ml
+989,beauty-bonanza-clearance-sale,Cholley Bioclean Lotion For Oily Impure Skin,,nan,"৳ 3,500.00",,200ml
+990,beauty-bonanza-clearance-sale,Beauti4me Primer Luminous Finish P03,,nan,"৳ 1,300.00",App Price: ৳ 1261.00,30gm
+991,beauty-bonanza-clearance-sale,Astra Eden Escape Eyeshadow Palette,,nan,"৳ 1,800.00",App Price: ৳ 1746.00,15gm
+992,beauty-bonanza-clearance-sale,Infinite Love Perfume For Women K147,,nan,"৳ 2,995.00",App Price: ৳ 2905.00,100ml
+993,beauty-bonanza-clearance-sale,Chanel Allure Homme Sport,,nan,"৳ 12,000.00",,100ml
+994,beauty-bonanza-clearance-sale,Jergens Natural Glow 3 Days to Glow Moisturizer Medium To Deep Skin Tones,SALE,"৳ 1,250.00",৳ 950.00,App Price: ৳ 922.00,118ml
+995,beauty-bonanza-clearance-sale,Avene Toning Lotion,SALE,"৳ 2,250.00","৳ 2,070.00",App Price: ৳ 2008.00,200ml
+996,beauty-bonanza-clearance-sale,Avene Physiolift Serum,SALE,"৳ 3,450.00","৳ 3,380.00",App Price: ৳ 3279.00,30ml
+997,beauty-bonanza-clearance-sale,La Roche-Posay Sensitive Skin Soothing Lotion,SALE,"৳ 2,950.00","৳ 2,350.00",App Price: ৳ 2280.00,200ml
+998,beauty-bonanza-clearance-sale,The Body Shop Strawberry Home Fragrance Oil,SALE,"৳ 1,000.00",৳ 700.00,App Price: ৳ 679.00,10ml
+999,beauty-bonanza-clearance-sale,Azzaro Chrome EDT Spray,SALE,"৳ 6,800.00","৳ 4,950.00",App Price: ৳ 4802.00,100ml
+1000,beauty-bonanza-clearance-sale,Azzaro Chrome United EDT,SALE,"৳ 6,800.00","৳ 4,850.00",App Price: ৳ 4705.00,100ml
+1001,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No. 1 Eau De Toilette for Men,SALE,"৳ 1,600.00","৳ 1,440.00",App Price: ৳ 1397.00,50ml
+1002,beauty-bonanza-clearance-sale,Beverly Hills Polo Club Sport No 2 Gift Set For Men Eau De Toilette 50ml With Sport Deodorant 175ml,SALE,"৳ 1,800.00","৳ 1,620.00",App Price: ৳ 1571.00,225ml
+1003,beauty-bonanza-clearance-sale,Lauder Pleasures For Men Cologne Spray,SALE,"৳ 7,000.00","৳ 5,900.00",App Price: ৳ 5723.00,100ml
+1004,beauty-bonanza-clearance-sale,Clinique Smart Custom Repair Moisturizer SPF 15,SALE,"৳ 13,000.00","৳ 9,750.00",,50ml
+1005,beauty-bonanza-clearance-sale,Carolina Herrera 212 VIP Are You On The List EDP For her,SALE,"৳ 9,500.00","৳ 6,950.00",App Price: ৳ 6742.00,125ml
+1006,beauty-bonanza-clearance-sale,NICKA K Pop Neon Nine Color Eyeshadow Palette Lucky Charm ES0908,,nan,৳ 550.00,App Price: ৳ 534.00,8gm
+1007,beauty-bonanza-clearance-sale,Johnson's Baby Milk+Rice Lotion,,nan,৳ 750.00,App Price: ৳ 728.00,200ml
