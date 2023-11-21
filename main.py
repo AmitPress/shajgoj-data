@@ -1,7 +1,7 @@
 # from app.find_categories import find_categories
-from app.products.all_products_overview import scrape_all_product_card
+from app.products.all_products_overview_playwright import runner
 def main():
-    scrape_all_product_card()
+    runner()
 
 
 
