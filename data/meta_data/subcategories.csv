@@ -1,0 +1,156 @@
+,Subcategory,Count,Parent
+0,FACE,1858,Personal care
+1,Body,1322,Personal care
+2,Bath & Shower,626,Personal care
+3,Feminine Hygiene,332,Personal care
+4,Oral Care,271,Personal care
+5,Hands & Feet,229,Personal care
+6,Wellness,191,Personal care
+7,HOME CARE,175,Personal care
+8,Tools & Accessories,69,Personal care
+9,Feminine Care,51,Personal care
+10,Face,1496,Makeup
+11,Lips,1257,Makeup
+12,Eyes,994,Makeup
+13,Nails,628,Makeup
+14,Tools & Brushes,239,Makeup
+15,Top Brands,239,Makeup
+16,Makeup Kits,14,Makeup
+17,Face,1496,Face
+18,Foundation,335,Face
+19,Compact & Pressed Powder,234,Face
+20,Makeup Remover,178,Face
+21,Concealer,174,Face
+22,Blush,145,Face
+23,Highlighters,135,Face
+24,Face Primer,93,Face
+25,BB & CC cream,70,Face
+26,Loose Powder,61,Face
+27,Contour,49,Face
+28,Setting Spray,48,Face
+29,Bronzer,30,Face
+30,Face Pallete,19,Face
+31,Tinted Moisturizer,10,Face
+32,Lips,1257,Face
+33,Eyes,994,Face
+34,Nails,628,Face
+35,Tools & Brushes,239,Face
+36,Top Brands,239,Face
+37,Makeup Kits,14,Face
+38,Face,1496,Lips
+39,Lips,1257,Lips
+40,Lipstick,487,Lips
+41,Liquid Lipsticks,408,Lips
+42,Lip Balm,160,Lips
+43,Lip Liner,134,Lips
+44,Lip Gloss,82,Lips
+45,Lip Crayon,11,Lips
+46,Lip Exfoliator,11,Lips
+47,Lip Plumper,9,Lips
+48,Eyes,994,Lips
+49,Nails,628,Lips
+50,Tools & Brushes,239,Lips
+51,Top Brands,239,Lips
+52,Makeup Kits,14,Lips
+53,Face,1496,Eyes
+54,Lips,1257,Eyes
+55,Eyes,994,Eyes
+56,Eye Shadow,285,Eyes
+57,Eyeliner,223,Eyes
+58,Mascara,146,Eyes
+59,Eye Brow Enhancers,103,Eyes
+60,False Eyelashes,79,Eyes
+61,Kajal,68,Eyes
+62,Eye Makeup Remover,62,Eyes
+63,Under Eye Concealer,38,Eyes
+64,Eye Primer,8,Eyes
+65,Nails,628,Eyes
+66,Tools & Brushes,239,Eyes
+67,Top Brands,239,Eyes
+68,Makeup Kits,14,Eyes
+69,Face,1496,Nails
+70,Lips,1257,Nails
+71,Eyes,994,Nails
+72,Nails,628,Nails
+73,Nail Polish,589,Nails
+74,Nail Art Kits,18,Nails
+75,Manicure & Pedicure Kits,16,Nails
+76,Nail Polish Remover,9,Nails
+77,Nail Care,7,Nails
+78,Tools & Brushes,239,Nails
+79,Top Brands,239,Nails
+80,Makeup Kits,14,Nails
+81,Face,1496,Tools & Brushes
+82,Lips,1257,Tools & Brushes
+83,Eyes,994,Tools & Brushes
+84,Nails,628,Tools & Brushes
+85,Tools & Brushes,239,Tools & Brushes
+86,Sponges & Applicators,77,Tools & Brushes
+87,Face Brush,54,Tools & Brushes
+88,Eye Brush,37,Tools & Brushes
+89,Brush Sets,25,Tools & Brushes
+90,Mirrors,15,Tools & Brushes
+91,Eyelash Curlers,6,Tools & Brushes
+92,Blush Brush,5,Tools & Brushes
+93,Tweezers,4,Tools & Brushes
+94,Lip Brush,2,Tools & Brushes
+95,Sharpeners,1,Tools & Brushes
+96,Top Brands,239,Tools & Brushes
+97,Makeup Kits,14,Tools & Brushes
+98,Face,1496,Top Brands
+99,Lips,1257,Top Brands
+100,Eyes,994,Top Brands
+101,Nails,628,Top Brands
+102,Tools & Brushes,239,Top Brands
+103,Top Brands,239,Top Brands
+104,Revlon,176,Top Brands
+105,Maybelline,41,Top Brands
+106,The Body Shop,7,Top Brands
+107,MAC,5,Top Brands
+108,L'Oreal,4,Top Brands
+109,Garnier,3,Top Brands
+110,Rimmel,2,Top Brands
+111,Bioderma,1,Top Brands
+112,Makeup Kits,14,Top Brands
+113,Face,1496,Makeup Kits
+114,Lips,1257,Makeup Kits
+115,Eyes,994,Makeup Kits
+116,Nails,628,Makeup Kits
+117,Tools & Brushes,239,Makeup Kits
+118,Top Brands,239,Makeup Kits
+119,Makeup Kits,14,Makeup Kits
+120,Moisturizer,852,Natural
+121,Facewash,645,Natural
+122,Masks & Peels,488,Natural
+123,Hair Oil,434,Natural
+124,Cleansing oil/cleanser,409,Natural
+125,Serums,401,Natural
+126,Shower Gels & Body Wash,259,Natural
+127,Shampoo & Conditioner,236,Natural
+128,Sheet Mask,194,Natural
+129,Scrubs & Exfoliators,193,Natural
+130,Hair Mask,189,Natural
+131,Toners & Astringents,177,Natural
+132,Body Butter,54,Natural
+133,Sleeping Mask,54,Natural
+134,Essence,41,Natural
+135,Hair Care,1939,Hair
+136,SHOP BY CONCERN,1091,Hair
+137,Hair styling,263,Hair
+138,Tools & Accessories,156,Hair
+139,SHOP BY HAIR TYPE,32,Hair
+140,Fragrances,673,Men
+141,Top Brands,322,Men
+142,Hair Care,320,Men
+143,Shaving,217,Men
+144,Skin Care,163,Men
+145,Bath & Body,124,Men
+146,Shop By Concern,103,Men
+147,Perfumes (EDT/EDP),296,Fragrance
+148,Body Mist/Spray,285,Fragrance
+149,High-end Perfume,196,Fragrance
+150,Deodorants/Roll-Ons,194,Fragrance
+151,Bra,129,lingerie
+152,Panty,38,lingerie
+153,Leggings,20,Clothing & More
+154,Trouser,7,Clothing & More
