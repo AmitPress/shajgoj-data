@@ -2,7 +2,12 @@
 
 > In this project I have collected a huge amount of data from shajgoj and preprocessed it to be machine consumable.
 
-Here in this project we are concerned with scraping the prices for the products and compare the price discounts.
+Here in this project we are concerned with scraping the prices for the products and compare the price discounts. *133851 cleaned records altogether*
+
+#### Technologies Used:
+- Selenium
+- Playwright
+- BeautifulSoup
 
 #### Folder Structure
 ```sh
